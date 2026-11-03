@@ -1,4 +1,6 @@
-# Loja de cash
+# :shopping_cart: Loja de cash
+
+A loja de cash só tem **VIP, Agulha e Linha, cupons e visuais**. As caixas não dão itens de cash.
 
 ## Itens fixos
 
@@ -6,6 +8,11 @@
 |---|---|
 | Bilhete VIP 30 dias | 30.000 |
 | Agulha e Linha (para a [Chapeleira](../sistemas/chapeleira.md)) | 200 |
+| Cupom de Cor de Roupa ([Estilista](../sistemas/servicos.md#estilista)) | 1.000 |
+| Cupom de Troca de Nome ([Resgatador de Cupons](../sistemas/servicos.md#resgatador-de-cupons)) | 10.000 |
+| Cupom de Troca de Sexo | 10.000 |
+| Cupom de Nome de Guilda | 15.000 |
+| Cupom de Vaga de Personagem | 10.000 |
 
 ## Visuais Limitados (aba Limited)
 
@@ -18,5 +25,4 @@ Os visuais são os mesmos da [Chapeleira](../sistemas/chapeleira.md): só aparê
 
 ## Como conseguir cash (ROPs)
 
-- Gerente de Moedas Douradas: 1.000 ROPs por 500 Moedas Douradas. [Moedas](moedas.md)
-- Trocador de Bandeiras, pelo menu do NPC.
+Nenhuma troca de moedas ou bandeiras dá ROPs. Por enquanto o cash vem da [Arena PvP](../eventos/arena-pvp.md) (500 por jogador derrotado).

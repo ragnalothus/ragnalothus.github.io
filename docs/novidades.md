@@ -1,6 +1,26 @@
-# Novidades
+# :newspaper: Novidades
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
+
+## 03/11/2026 (noite)
+
+- :scroll: **Missões:** Hobota (Missões de Caça a cada 8 horas, com Loja de Pontos de Missão) e Quadro de Missões (entregas e caças repetíveis). [Missões](sistemas/missoes.md)
+- :alarm_clock: **Eventos automáticos:** Disfarce, Caça ao Cogumelo, Dados e Bombring, com prêmio em Moedas de Loki. [Eventos automáticos](eventos/automaticos.md)
+- :bellhop_bell: **Serviços novos em Prontera:** Estilista, Resgatador de Cupons, Banqueiro, Bill Doors, Sala de Galhos, Sala de Treino, Troca de Cartas, Forjador de Armas e Gerente de Builds. [Serviços](sistemas/servicos.md)
+- :crossed_swords: **Arenas PvP Privadas** com código e **Guerra de Guildas**. [Arena PvP](eventos/arena-pvp.md)
+- :mag: **`@ws` e `@wb`** para procurar quem vende e quem compra um item; **Licença de Loja de Compra** por 5 Moedas de Loki. [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
+- :gear: **`@config`:** autoloot e outros comandos ficam salvos e voltam sozinhos ao entrar. [Comandos](primeiros-passos/comandos.md)
+- :four_leaf_clover: **Loteria Diária** (6 números de 1 a 40, 25.000z) na Lotérica, que mudou para 146,197. [Loterias](sistemas/rankings-e-loteria.md#loterias)
+- :package: **Caixas revisadas:** Caixa Rara com muito menos equipamento raro e mais consumíveis; Pergaminhos de Refino +10; Caixas de 20 a 400 Bandeiras; Caixa de Comidas +10 com 10 de cada; nomes dos itens em português nos avisos. [O que sai das caixas](sistemas/conteudo-caixas.md)
+- :warning: Caixas, ovos e álbuns **não abrem mais com excesso de peso** (o item não se perde).
+- :headstone: **Tumba do MVP** mostra a hora em que ele volta. Kiel D-01 volta em 24 horas. [MVPs](sistemas/mvps.md)
+- :gift: **MVP em Grupo:** os itens que caem vão para todos do grupo na sala. [MVPs](sistemas/mvps.md#mvp-em-grupo)
+- :hammer: **Mestre Ferreiro:** a forja da Bênção do Ferreiro dá 5 de uma vez (200 Moedas de Loki e 120 Fragmentos Estelares). [Mestre Ferreiro](sistemas/ferreiro-e-refino.md)
+- :shield: **Itens:** Bandeira com peso 0,1 e livre para negociar; Carta Besouro-Ladrão Dourado com -40% de dano mágico; slots na Bola de Ferro Ensanguentada, Olhos Biônicos e Frigideira Lunar (4); Arco Élfico [2]. [Itens](mudancas/itens.md)
+- :zap: **Regeneração do UaRO:** sentado 3% de HP e SP a cada 1,5 s, em pé 1%. [Classes](mudancas/classes.md)
+- :sparkles: Encantadora com preços novos; Quiz dá 2 Moedas Douradas por acerto; Suco de Uva a 4.000z; Ovo Lendário por 700 Moedas Douradas; Velho Álbum de Cartas nas trocas; trocas por ROPs removidas.
+- :map: Mudaram de lugar em Prontera: Chapeleira (166,198), Sala VIP (156,178) e o novo Guia dos Cristais (148,176). [Prontera](npcs/prontera.md)
+- :books: **Database de itens** com todos os itens do servidor e os ícones do jogo. [Database](database/itens.md)
 
 ## 03/11/2026
 

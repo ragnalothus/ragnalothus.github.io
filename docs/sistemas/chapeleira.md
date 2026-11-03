@@ -1,6 +1,6 @@
 # Chapeleira e visuais
 
-A **Chapeleira** (Prontera 166,185) transforma um chapéu em **visual**: o chapéu continua com a mesma aparência,
+A **Chapeleira** (Prontera 166,198) transforma um chapéu em **visual**: o chapéu continua com a mesma aparência,
 mas vai para o slot de visual e não dá atributos.
 
 ## Como funciona

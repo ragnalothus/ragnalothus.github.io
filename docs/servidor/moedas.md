@@ -1,13 +1,13 @@
-# Moedas e trocas
+# :coin: Moedas e trocas
 
 O servidor tem três "moedas" de prêmio, todas trocadas na [Blackroom](../npcs/blackroom.md).
 
-## Moeda de Loki
+## ![](../assets/itens/60000.png) Moeda de Loki
 
 - **5% de chance** em quase todo monstro, direto no inventário. Não muda com as rates.
 - Sem moeda: plantas, cogumelos, ovos, Hydra, Thief Bug, Tarou e Plankton.
 - Chance menor (2%): Orc Zombie, Thief Bug fêmea e macho e Familiar.
-- Também vem do [Quiz](../eventos/quiz.md), da [Arena Lothus](../eventos/arena-lothus.md) e do [login diário](../sistemas/login-diario.md).
+- Também vem do [Quiz](../eventos/quiz.md), dos [eventos automáticos](../eventos/automaticos.md), da [Arena Lothus](../eventos/arena-lothus.md), da [Troca de Cartas](../sistemas/servicos.md#troca-de-cartas) e do [login diário](../sistemas/login-diario.md).
 - Vende para NPC por 10.000 zeny.
 
 **Trocadora de Moedas** (Blackroom 88,100), alguns preços em Moedas de Loki:
@@ -24,10 +24,12 @@ O servidor tem três "moedas" de prêmio, todas trocadas na [Blackroom](../npcs/
 | Bênção de Tyr | 50 |
 | Galho Sangrento | 270 |
 | Asa de Mosca Ilimitada | 700 |
+| Velho Álbum de Cartas | 200 |
+| Licença de Loja de Compra | 5 |
 
 A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Passe Anti-Gravitacional.
 
-## Moeda Dourada
+## ![](../assets/itens/60013.png) Moeda Dourada
 
 - **Presença:** 1 moeda a cada 6 minutos online (10 por hora). Não conta quem está parado há 5 minutos, com loja aberta (inclusive `@autotrade`) ou em chat.
 - **MVP:** 15 moedas para quem mata um MVP.
@@ -41,13 +43,14 @@ A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Passe Anti-G
 | 50 Moedas de Loki | 200 |
 | 100 Bandeiras | 300 |
 | Ovo Misterioso | 300 |
-| 1.000 ROPs (cash) | 500 |
+| Velho Álbum de Cartas | 250 |
 | Caixa Misteriosa Rara | 700 |
-| Ovo Lendário | 1.000 |
+| Ovo Lendário | 700 |
 
-## Bandeira
+## ![](../assets/itens/7928.png) Bandeira
 
-- Vem do [Evento dos Cristais](../eventos/cristais.md), da [Invasão de Cristais](../eventos/invasao.md) e de algumas caixas.
+- Vem do [Evento dos Cristais](../eventos/cristais.md), da [Invasão de Cristais](../eventos/invasao.md) e das [Caixas de Bandeiras](../sistemas/caixas-e-ovos.md#caixas-de-bandeiras).
+- Peso 0,1. Pode ser guardada no armazém, negociada e vendida na loja de mercador.
 
 **Trocador de Bandeiras** (Blackroom 112,100):
 
@@ -65,6 +68,7 @@ A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Passe Anti-G
 | Chapéu de Rideword | 2.000 |
 | Ovo Misterioso | 2.000 |
 | Ovo Lendário | 4.000 |
+| Álbum de Cartas Lendário | 4.000 |
 | Caixa Misteriosa Rara | 5.000 |
 
-Também troca bandeiras por ROPs (cash) pelo menu do NPC.
+Nenhuma troca dá ROPs (cash).

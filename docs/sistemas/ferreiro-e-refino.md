@@ -1,16 +1,22 @@
-# Mestre Ferreiro e refino
+# :hammer: Mestre Ferreiro e refino
 
 ## Mestre Ferreiro (Blackroom 112,88)
 
-Junte os ingredientes e ele forja 1 item:
+Junte os ingredientes e ele forja:
 
 | Item | Bandeiras | Moedas de Loki | Outros |
 |---|---|---|---|
 | **Elunium Enriquecido** | 100 | 80 | 5 Elunium, 1 Ouro |
 | **Oridecon Enriquecido** | 200 | 150 | 5 Oridecon, 2 Ouro |
-| **Bênção do Ferreiro** | 500 | 300 | 1 Oridecon Enriquecido, 1 Elunium Enriquecido, 5 Ouro, 20 Fragmentos de Estrela |
+| **5 Bênçãos do Ferreiro** (de uma vez) | 500 | 200 | 1 Oridecon Enriquecido, 1 Elunium Enriquecido, 5 Ouro, 120 Fragmentos Estelares |
 
-O NPC mostra em verde o que você já tem e em vermelho o que falta. Quem forja uma Bênção do Ferreiro é anunciado no servidor.
+O NPC mostra em verde o que você já tem e em vermelho o que falta, com os nomes dos itens em português. Quem forja as Bênçãos do Ferreiro é anunciado no servidor.
+
+A Bênção do Ferreiro e os minérios enriquecidos também estão na [Loja de Pontos de Missão](missoes.md#loja-de-pontos-de-missao).
+
+## Pergaminhos de Refino +10
+
+Deixam uma arma ou um equipamento em +10 sem risco. Veja em [Caixas e ovos](caixas-e-ovos.md#pergaminhos-de-refino-10).
 
 ## Bênção do Ferreiro
 

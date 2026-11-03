@@ -60,8 +60,9 @@ Mudanças em relação ao Ragnarok pré-renovação original.
 
 ## Para todos
 
-- **Regeneração:** parado (sem andar) e sem atacar, usar habilidade ou tomar dano há 5 segundos, HP e SP voltam **2x mais rápido**.
-  Sentado nessas condições, 3x.
+- **Regeneração (como no UaRO):** parado (sem andar) e sem atacar, usar habilidade ou tomar dano há 5 segundos, você recupera
+  uma porcentagem do HP e do SP máximos a cada 1,5 segundo: **sentado 3%** (cerca de 1 minuto de 0 a 100%) e **em pé 1%**.
+  Não vale com excesso de peso nem logo depois do Asura.
 - **Conjuração instantânea com 100 de DES.**
 - **Encantamento de arma** (Encantadora e Conversores Elementais) não acaba ao morrer.
 

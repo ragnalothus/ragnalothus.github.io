@@ -1,4 +1,4 @@
-# MVPs
+# :dragon: MVPs
 
 ## Recompensas por MVP
 
@@ -12,10 +12,15 @@
 | Ktullanux | Caverna de Gelo 3 | 12 h |
 | Satan Morroc | Desfiladeiro Dimensional (moc_fild21) | 72 h |
 | Memória de Thanatos | Torre de Thanatos, 12º andar | 24 h |
-| Kiel D-01 | Fábrica de Robôs 2 | 12 h |
+| Kiel D-01 | Fábrica de Robôs 2 | 24 h |
 | Sombra de Nidhogg | Calabouço de Nidhogg 2 (Teleportadora → Especiais) | 72 h |
 
 O tempo pode variar até 10 minutos para mais.
+
+### :headstone: Tumba do MVP
+
+Quando um MVP dos mapas morre, aparece a **tumba** dele no lugar. Clique nela para ver quem o derrotou, a hora da morte e
+**o dia e a hora em que ele volta** (com quanto tempo falta).
 
 ## Sala de MVP
 
@@ -30,6 +35,7 @@ O tempo pode variar até 10 minutos para mais.
 
 - Grupo com 2 ou mais pessoas online; o líder escolhe até 2 MVPs.
 - Sala sem PvP por 1 hora. Quem entra espera 24 horas para entrar de novo.
+- :gift: **Drop para todos:** cada item que cai de um monstro dentro da sala do MVP em Grupo vai para o inventário de **todos os membros do grupo que estão na sala** (cada um ganha o seu). Isso só acontece nessa sala.
 
 ## Torre MVP
 

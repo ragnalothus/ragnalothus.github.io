@@ -1,7 +1,7 @@
-# Evento dos Cristais
+# :gem: Evento dos Cristais
 
 - **Quando:** todo dia às **12h, 18h e 22h**.
-- **Onde:** fale com o **Guarda dos Cristais** em prt_fild08 (163,367), ao sul de Prontera.
+- **Onde:** fale com o **Guia dos Cristais** em Prontera (148,176): ele leva você até o **Guarda dos Cristais** (prt_fild08 163,367). A sala só tem entrada pelo Guarda.
 - **Como:** quebre os cristais para ganhar **Bandeiras**. Os cristais vêm em triplo.
 - **Limite:** até 50 jogadores na sala principal. **VIP entra sempre.**
 - **Sala premiada:** sem portais, com chance de ganhar 3 Bandeiras (10%). Você sai dela depois de 20 minutos.

@@ -1,4 +1,4 @@
-# Comandos
+# :keyboard: Comandos
 
 Comandos que qualquer jogador pode usar.
 
@@ -15,6 +15,12 @@ Comandos que qualquer jogador pode usar.
 | `@die` | Mata o seu personagem |
 | `@autoloot`, `@alootid`, `@autoloottype` | Pega os itens que caem dos monstros automaticamente |
 | `@feelreset` | Só Mestre Taekwon: apaga os mapas do Sol, da Lua e das Estrelas |
+| `@config` (ou `@configuracoes`) | Janela para deixar ligados o autoloot, `@noask`, `@showexp` e `@showzeny`: fica salvo e volta sozinho ao entrar. [Serviços](../sistemas/servicos.md#configuracoes-que-ficam-salvas-config) |
+| `@ws <item>` (ou `@ws2`, `@whosell`) | Quem está vendendo o item, do mais barato para o mais caro. Filtros: `+refino` e `mín-máx`. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
+| `@wb <item>` (ou `@wb2`, `@whobuy`) | Quem está comprando o item, do que paga mais para o que paga menos |
+| `@at` | Deixa a sua loja (de venda ou de compra) aberta enquanto você está fora |
+| `@evento` | Entra no evento automático com inscrição aberta (Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
+| `@boneco` | Dentro da Sala de Treino: cria e troca os bonecos de treino. [Serviços](../sistemas/servicos.md#sala-de-treino) |
 
 ## Oração do Super Aprendiz
 

@@ -77,6 +77,9 @@ nav:
       - Sala VIP: npcs/sala-vip.md
   - Sistemas:
       - Caixas e ovos: sistemas/caixas-e-ovos.md
+      - O que sai das caixas: sistemas/conteudo-caixas.md
+      - Missões: sistemas/missoes.md
+      - Serviços de Prontera: sistemas/servicos.md
       - Chapeleira e visuais: sistemas/chapeleira.md
       - Mestre Ferreiro e refino: sistemas/ferreiro-e-refino.md
       - MVPs: sistemas/mvps.md
@@ -84,6 +87,7 @@ nav:
       - Login diário: sistemas/login-diario.md
       - Rankings e loteria: sistemas/rankings-e-loteria.md
   - Eventos:
+      - Eventos automáticos: eventos/automaticos.md
       - Quiz: eventos/quiz.md
       - Evento dos Cristais: eventos/cristais.md
       - Invasão de Cristais: eventos/invasao.md
@@ -92,3 +96,5 @@ nav:
   - Mudanças:
       - Classes e habilidades: mudancas/classes.md
       - Itens: mudancas/itens.md
+  - Database:
+      - Itens: database/itens.md
