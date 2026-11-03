@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 03/11/2026
 
+- **Kafra de Prontera** (145,187): salva o ponto de retorno em Prontera, abre o armazém e dá Carrinho, Falcão e Peco Peco. [Prontera](npcs/prontera.md)
 - **Kyrie Eleison mais forte:** a barreira agora absorve 60% do HP máximo (mínimo de 2.000) e aguenta 30 golpes no nível 10. [Classes](mudancas/classes.md)
 - **Ilha do Noviço:** todo personagem novo começa nela, com Porings e Esporos para upar e a Guia da Ilha. [Começando](primeiros-passos/comecando.md)
 - **Pack inicial maior** e **presente de boas-vindas** (Bilhete VIP 5 dias + Manto Demoníaco) no primeiro login. [Começando](primeiros-passos/comecando.md)

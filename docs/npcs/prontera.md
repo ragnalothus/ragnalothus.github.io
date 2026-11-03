@@ -13,9 +13,8 @@
 | 180,185 | **Mestre das Habilidades** | Classes sem NPC próprio escolhem 1 habilidade de qualquer classe. [Classes](../mudancas/classes.md) |
 | 148,182 | **Blackroom** | Leva para a [Blackroom](blackroom.md) |
 | 149,191 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md) e mostra o ranking |
-| 157,193 | **Platina** | Dá as habilidades de quest (platina) da sua classe |
-| 145,187 | **Ajudante** | Coloca ou tira Carrinho, Peco Peco e Falcão, de graça |
-| 147,189 | **Utilidades** | Loja com Lupa, poções, Concentração, Despertar, Fúria Selvagem, asas, Armadilha, Flecha e Flecha de Prata |
+| 157,193 | **Platina** | Dá as habilidades de quest (platina) da sua classe. Vai mudar de lugar em breve |
+| 145,187 | **Kafra** | Salva o ponto de retorno em Prontera, abre o armazém e coloca ou tira Carrinho, Falcão e Peco Peco (precisa da habilidade). Grátis |
 
 ## Teleportadora
 

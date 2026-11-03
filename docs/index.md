@@ -33,3 +33,4 @@ Veja os detalhes em [Rates](servidor/rates.md).
 - **Dia das Raças:** todo dia uma raça de monstro dá +10% de EXP. [Dia das Raças](sistemas/dia-das-racas.md)
 
 Tudo o que foi adicionado ou mudado, por data, está em [Novidades](novidades.md).
+O que ainda vai chegar está em [Em breve](em-breve.md).

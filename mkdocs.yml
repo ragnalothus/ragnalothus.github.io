@@ -61,6 +61,7 @@ nav:
   - Início:
       - index.md
       - Novidades: novidades.md
+      - Em breve: em-breve.md
   - Primeiros passos:
       - Começando: primeiros-passos/comecando.md
       - Comandos: primeiros-passos/comandos.md
