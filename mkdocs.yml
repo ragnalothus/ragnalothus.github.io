@@ -1,0 +1,92 @@
+site_name: Wiki Ragnalothus
+site_description: Wiki oficial do Ragnalothus, servidor de Ragnarok pré-renovação 99/70
+copyright: Ragnalothus
+
+theme:
+  name: material
+  language: pt-BR
+  icon:
+    logo: material/sword-cross
+  favicon: assets/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Link para esta seção
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Início:
+      - index.md
+      - Novidades: novidades.md
+  - Primeiros passos:
+      - Começando: primeiros-passos/comecando.md
+      - Comandos: primeiros-passos/comandos.md
+      - Regras: primeiros-passos/regras.md
+  - Servidor:
+      - Rates: servidor/rates.md
+      - VIP: servidor/vip.md
+      - Moedas e trocas: servidor/moedas.md
+      - Loja de cash: servidor/loja-cash.md
+  - NPCs:
+      - Prontera: npcs/prontera.md
+      - Blackroom: npcs/blackroom.md
+      - Sala VIP: npcs/sala-vip.md
+  - Sistemas:
+      - Caixas e ovos: sistemas/caixas-e-ovos.md
+      - Chapeleira e visuais: sistemas/chapeleira.md
+      - Mestre Ferreiro e refino: sistemas/ferreiro-e-refino.md
+      - MVPs: sistemas/mvps.md
+      - Dia das Raças: sistemas/dia-das-racas.md
+      - Login diário: sistemas/login-diario.md
+      - Rankings e loteria: sistemas/rankings-e-loteria.md
+  - Eventos:
+      - Quiz: eventos/quiz.md
+      - Evento dos Cristais: eventos/cristais.md
+      - Invasão de Cristais: eventos/invasao.md
+      - Arena Lothus: eventos/arena-lothus.md
+  - Mudanças:
+      - Classes e habilidades: mudancas/classes.md
+      - Itens: mudancas/itens.md
