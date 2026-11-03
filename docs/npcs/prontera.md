@@ -12,10 +12,8 @@
 | 170,185 | **Lotérica** | Bilhetes da loteria semanal. [Loteria](../sistemas/rankings-e-loteria.md#loteria-semanal) |
 | 180,185 | **Mestre das Habilidades** | Classes sem NPC próprio escolhem 1 habilidade de qualquer classe. [Classes](../mudancas/classes.md) |
 | 148,182 | **Blackroom** | Leva para a [Blackroom](blackroom.md) |
-| 162,187 | **Mercado Negro** | Leva para o [Mercado Negro](mercado-negro.md), com lojas de chapéus, cartas e equipamentos |
 | 149,191 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md) e mostra o ranking |
 | 157,193 | **Platina** | Dá as habilidades de quest (platina) da sua classe |
-| 153,193 | **Mestra das Classes (antiga)** | Muda de classe, inclusive para as classes bebê |
 | 145,187 | **Ajudante** | Coloca ou tira Carrinho, Peco Peco e Falcão, de graça |
 | 147,189 | **Utilidades** | Loja com Lupa, poções, Concentração, Despertar, Fúria Selvagem, asas, Armadilha, Flecha e Flecha de Prata |
 
