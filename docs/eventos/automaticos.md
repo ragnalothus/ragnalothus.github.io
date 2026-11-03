@@ -8,6 +8,7 @@ Eventos que começam sozinhos, todos os dias. O prêmio é em ![](../assets/iten
 | :mushroom: Caça ao Cogumelo | Toda hora, às :45 | 4 Moedas por cogumelo |
 | :game_die: Dados | Horas pares, inscrição às :10 | 75 Moedas para o vencedor |
 | :bomb: Bombring | Horas ímpares, inscrição às :27 | 75 Moedas para o vencedor |
+| :runner: Pique-pega | Todo dia às 15h15 e 19h15 | 30 Moedas para quem sobrar; 3 por pegada |
 
 ## Disfarce
 
@@ -37,3 +38,11 @@ A caça acaba quando todos forem derrotados ou depois de 1 hora. O **Caçador de
 3. Cada rodada tem mais bombas e o aviso é mais rápido. Não dá para usar habilidades.
 4. Quem morre volta para onde estava, com o HP que tinha. A morte não conta como morte normal.
 5. O último vivo ganha **75 Moedas de Loki** pelo correio.
+
+## Pique-pega
+
+1. Na inscrição (15h15 e 19h15), digite **`@piquepega`** (precisa de pelo menos 4 jogadores). Começa 3 minutos depois.
+2. Todos entram **sem equipamento**: tudo é desequipado ao entrar e não dá para equipar lá dentro.
+3. Há **1 pegador a cada 5 jogadores**, com **aura vermelha**. Os pegadores encostam nos outros para pegar.
+4. Quem é pego fica **congelado por 10 segundos**. Pego **3 vezes**, sai do jogo e volta para onde estava.
+5. O jogo dura 5 minutos. Quem sobrar ganha **30 Moedas de Loki**; cada pegador ganha **3 Moedas por pegada**.

@@ -17,6 +17,7 @@ Vendedora de Caixas na Blackroom por 900.000z.
 | ![](../assets/itens/5363.png){ loading=lazy } | Elmo do Abismo [1] | 1 | 0,01% |
 | ![](../assets/itens/18507.png){ loading=lazy } | Orelhas de Elfo [1] | 1 | 0,01% |
 | ![](../assets/itens/13017.png){ loading=lazy } | Rondel [1] | 1 | 0,01% |
+| ![](../assets/itens/60042.png){ loading=lazy } | Martelo de Refinar Carta | 1 | 0,01% |
 | ![](../assets/itens/2115.png){ loading=lazy } | Escudo da Valquíria [1] | 1 | 0,10% |
 | ![](../assets/itens/5170.png){ loading=lazy } | Boina Alada | 1 | 0,10% |
 | ![](../assets/itens/2729.png){ loading=lazy } | Anel de Diabolus [1] | 1 | 0,10% |
@@ -99,6 +100,7 @@ Vendedora de Caixas na Blackroom por 900.000z.
 | ![](../assets/itens/60024.png){ loading=lazy } | Arco de Orc [3] | 1 | 1,00% |
 | ![](../assets/itens/60033.png){ loading=lazy } | Caixa de 400 Bandeiras | 1 | 1,00% |
 | ![](../assets/itens/60032.png){ loading=lazy } | Caixa de 200 Bandeiras | 1 | 1,50% |
+| ![](../assets/itens/985.png){ loading=lazy } | Elunium | 1 | 1,62% |
 | ![](../assets/itens/984.png){ loading=lazy } | Oridecon | 1 | 1,62% |
 | ![](../assets/itens/989.png){ loading=lazy } | Bigorna de Emperium | 1 | 1,62% |
 | ![](../assets/itens/997.png){ loading=lazy } | Natureza Grandiosa | 1 | 1,62% |
@@ -127,7 +129,6 @@ Vendedora de Caixas na Blackroom por 900.000z.
 | ![](../assets/itens/2373.png){ loading=lazy } | Batina [1] | 1 | 1,63% |
 | ![](../assets/itens/2355.png){ loading=lazy } | Proteção Angelical [1] | 1 | 1,63% |
 | ![](../assets/itens/2515.png){ loading=lazy } | Asa de Águia [1] | 1 | 1,63% |
-| ![](../assets/itens/985.png){ loading=lazy } | Elunium | 1 | 1,63% |
 | ![](../assets/itens/2134.png){ loading=lazy } | Escudo de Escamas de Naga [1] | 1 | 2,00% |
 | ![](../assets/itens/60031.png){ loading=lazy } | Caixa de 100 Bandeiras | 1 | 2,00% |
 | ![](../assets/itens/60030.png){ loading=lazy } | Caixa de 50 Bandeiras | 1 | 3,00% |
@@ -139,6 +140,7 @@ Gerente de Moedas Douradas (700 Moedas Douradas), Trocador de Bandeiras (5.000 B
 
 | | Prêmio | Qtd. | Chance |
 |---|---|---|---|
+| ![](../assets/itens/60046.png){ loading=lazy } | Caixa Lendária de Armamento | 1 | 0,10% |
 | ![](../assets/itens/19508.png){ loading=lazy } | Rosa Romântica [2] | 1 | 0,40% |
 | ![](../assets/itens/19509.png){ loading=lazy } | Elmo de Valkyria Ying Yang [1] | 1 | 0,40% |
 | ![](../assets/itens/19510.png){ loading=lazy } | Elmo de Valkyria Branco [1] | 1 | 0,40% |
@@ -176,6 +178,8 @@ Gerente de Moedas Douradas (700 Moedas Douradas), Trocador de Bandeiras (5.000 B
 | ![](../assets/itens/2202.png){ loading=lazy } | Óculos Escuros [2] | 1 | 0,40% |
 | ![](../assets/itens/18507.png){ loading=lazy } | Orelhas de Elfo [1] | 1 | 0,40% |
 | ![](../assets/itens/2554.png){ loading=lazy } | Pedaço de Pele do Guardião [1] | 1 | 0,40% |
+| ![](../assets/itens/60041.png){ loading=lazy } | Visual da Fortuna | 1 | 0,50% |
+| ![](../assets/itens/60042.png){ loading=lazy } | Martelo de Refinar Carta | 1 | 0,50% |
 | ![](../assets/itens/60006.png){ loading=lazy } | Álbum de Cartas Lendário | 1 | 1,00% |
 | ![](../assets/itens/2655.png){ loading=lazy } | Bola de Ferro Ensanguentada [1] | 1 | 1,00% |
 | ![](../assets/itens/60027.png){ loading=lazy } | Pergaminho de Refino de Arma +10 | 1 | 1,00% |
@@ -198,12 +202,12 @@ Gerente de Moedas Douradas (700 Moedas Douradas), Trocador de Bandeiras (5.000 B
 | ![](../assets/itens/60019.png){ loading=lazy } | Caixa de SOR +10 | 1 | 3,50% |
 | ![](../assets/itens/14545.png){ loading=lazy } | Manual de Combate 300% | 1 | 4,00% |
 | ![](../assets/itens/60003.png){ loading=lazy } | Goma de Mascar 250% | 1 | 4,00% |
+| ![](../assets/itens/616.png){ loading=lazy } | Velho Álbum de Cartas | 1 | 4,50% |
+| ![](../assets/itens/14232.png){ loading=lazy } | Caixa de Fruto de Yggdrasil[10] | 1 | 4,50% |
 | ![](../assets/itens/60004.png){ loading=lazy } | Caixa Misteriosa | 10 | 5,00% |
-| ![](../assets/itens/616.png){ loading=lazy } | Velho Álbum de Cartas | 1 | 5,00% |
-| ![](../assets/itens/14232.png){ loading=lazy } | Caixa de Fruto de Yggdrasil[10] | 1 | 5,00% |
 | ![](../assets/itens/60000.png){ loading=lazy } | Moeda de Loki | 50 | 5,00% |
 | ![](../assets/itens/60022.png){ loading=lazy } | Caixa de Poções Azuis | 10 | 5,20% |
-| ![](../assets/itens/7928.png){ loading=lazy } | Bandeira Nacional | 200 | 7,00% |
+| ![](../assets/itens/7928.png){ loading=lazy } | Bandeira Nacional | 200 | 6,90% |
 
 ## :egg: Ovo Misterioso
 

@@ -64,6 +64,8 @@ Mudanças em relação ao Ragnarok pré-renovação original.
   uma porcentagem do HP e do SP máximos a cada 1,5 segundo: **sentado 3%** (cerca de 1 minuto de 0 a 100%) e **em pé 1%**.
   Não vale com excesso de peso nem logo depois do Asura.
 - **Conjuração instantânea com 100 de DES.**
+- **Ferreiro e Mestre-Ferreiro:** Refinar Arma com **+15% de chance**, e só eles usam a [Forja Lendária](armas-lendarias.md).
+- **Alquimista e Criador:** cozinham com **+40% de chance** (comidas +10 bem mais fáceis).
 - **Encantamento de arma** (Encantadora e Conversores Elementais) não acaba ao morrer.
 
 ## Pets e homúnculos

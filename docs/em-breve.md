@@ -4,17 +4,9 @@ O que ainda vai chegar ao Ragnalothus. A ordem e os detalhes podem mudar.
 
 ## :sparkles: Sistemas e eventos
 
-- **Visual raro** que dá chance de ganhar Bandeiras, Moedas Douradas ou Moedas de Loki a cada monstro derrotado.
-- **Item para refinar carta**, com chance pequena de vir do visual raro e de caixas e prêmios.
-- **Ferreiro:** mais chance de refinar sem quebrar e criação de **equipamentos lendários**.
-- **Alquimista:** comidas +10 mais fáceis de fazer.
-- **Caixa lendária de armamento:** uma arma lendária por classe.
 - **Equipamentos especiais para Aprendiz**, para ele usar qualquer habilidade e ficar mais equilibrado.
-- **Evento de lançamento** com moeda de lançamento caindo dos monstros.
-- **Consumíveis de HP e SP** de eventos sazonais.
-- **Evento pique-pega:** caçadores proporcionais ao número de participantes, congelamento de 10 s, sem arma e sem equipamento.
+- **Consumíveis de HP e SP** de outros eventos sazonais.
 - **Evento detetive.**
-- **Parceria de streamers:** inscrição e recompensa mensal para quem fizer 10 lives.
 
 ## :crossed_swords: PvP e competição
 

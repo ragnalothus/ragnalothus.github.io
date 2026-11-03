@@ -20,6 +20,15 @@ Todos os itens do servidor estão na [Database de itens](../database/itens.md).
 | ![](../assets/itens/533.png) | Suco de Uva | 4.000z na Utilidades VIP |
 | ![](../assets/itens/9087.png) | Ovo de Grand Orc | Novo nome do Ovo de Orc Superior |
 
+### Visual da Fortuna
+
+![](../assets/itens/60041.png) **Visual da Fortuna** (visual do meio, com a aparência das Asas Malignas). A cada monstro derrotado com ele equipado:
+1% de chance de 1 Bandeira, 1% de 1 Moeda de Loki, 0,2% de 1 Moeda Dourada e 0,01% de um ![](../assets/itens/60042.png) **Martelo de Refinar Carta**
+(para o refino de cartas, que chega em breve). Vem da Caixa Misteriosa Rara (0,5%), do Trocador de Bandeiras (15.000), do Gerente de Moedas Douradas (3.000)
+e do Organizador do Lançamento (300). O Martelo também sai das Caixas Misteriosas.
+
+Armas lendárias: veja [Armas lendárias](armas-lendarias.md).
+
 ### Arco Élfico
 
 ![](../assets/itens/1746.png) **Arco Élfico [2]** (trazido da renovação): ATQ 160, DES +2, nível 90, Arqueiros, Bardos, Odaliscas e evoluções.

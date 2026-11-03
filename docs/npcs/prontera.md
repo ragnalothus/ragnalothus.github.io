@@ -40,6 +40,9 @@ Uma fileira de NPCs de serviço, quase todos na linha 178:
 | ![](../assets/npcs/4_m_job_blacksmith.png){ loading=lazy } | 172,178 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
 | ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 176,178 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
 | ![](../assets/npcs/4_m_job_blacksmith.png){ loading=lazy } | 180,178 | **Forjador de Armas** | Transforma armas +10 em armas melhores. [Serviços](../sistemas/servicos.md#forjador-de-armas) |
+| ![](../assets/npcs/4_m_job_blacksmith.png){ loading=lazy } | 184,178 | **Forja Lendária** | Ferreiros forjam armas lendárias. [Armas lendárias](../mudancas/armas-lendarias.md) |
+| ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 188,178 | **Organizador do Lançamento** | Troca as Moedas de Lançamento. [Lançamento](../eventos/lancamento-e-streamers.md) |
+| ![](../assets/npcs/4_f_zondagirl.png){ loading=lazy } | 192,178 | **Parceria de Streamers** | Inscrição de streamers. [Streamers](../eventos/lancamento-e-streamers.md#parceria-de-streamers) |
 
 ## :crystal_ball: Teleportadora
 

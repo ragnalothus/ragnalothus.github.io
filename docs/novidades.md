@@ -2,6 +2,15 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
+## 03/11/2026 (Fase 5)
+
+- :crossed_swords: **Armas lendárias:** uma para cada classe, na Caixa Lendária de Armamento e na Forja Lendária (só Ferreiros). [Armas lendárias](mudancas/armas-lendarias.md)
+- :four_leaf_clover: **Visual da Fortuna:** chance de Bandeira, Moeda de Loki, Moeda Dourada e Martelo de Refinar Carta a cada monstro. [Itens](mudancas/itens.md#visual-da-fortuna)
+- :hammer: **Ferreiro** refina com +15% de chance; **Alquimista e Criador** cozinham com +40%. [Classes](mudancas/classes.md)
+- :rocket: **Evento de Lançamento** (moedas, poções e elixires dos monstros) e **Parceria de Streamers**. [Lançamento e streamers](eventos/lancamento-e-streamers.md)
+- :runner: **Pique-pega** todo dia às 15h15 e 19h15. [Eventos automáticos](eventos/automaticos.md#pique-pega)
+- :shopping_cart: **Cupons** na loja de cash. [Loja de cash](servidor/loja-cash.md)
+
 ## 03/11/2026 (noite)
 
 - :scroll: **Missões:** Hobota (Missões de Caça a cada 8 horas, com Loja de Pontos de Missão) e Quadro de Missões (entregas e caças repetíveis). [Missões](sistemas/missoes.md)
