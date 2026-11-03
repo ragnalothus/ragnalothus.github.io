@@ -47,6 +47,12 @@ Entrada na Blackroom (104,108) ou pela Teleportadora (Especiais).
 - Grupo de 1 pessoa já basta. Depois de criar a torre, há 20 minutos para entrar.
 - Ao sair, você volta para Prontera.
 
+## Conteúdo liberado sem quest
+
+- **Geffenia:** pela Teleportadora (Especiais), sem a quest O Sinal.
+- **Templo de Rachel:** a doação coletiva de zeny já está completa, então a 2ª parte já está liberada.
+- **Ktullanux** e os outros MVPs da tabela acima nascem sozinhos.
+
 ## Aviso de drop raro
 
 Quando alguém pega uma **carta** ou um item com chance de **até 1%**, todo o servidor vê:

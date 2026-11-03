@@ -74,6 +74,7 @@ nav:
       - Prontera: npcs/prontera.md
       - Blackroom: npcs/blackroom.md
       - Sala VIP: npcs/sala-vip.md
+      - Mercado Negro: npcs/mercado-negro.md
   - Sistemas:
       - Caixas e ovos: sistemas/caixas-e-ovos.md
       - Chapeleira e visuais: sistemas/chapeleira.md
@@ -87,6 +88,7 @@ nav:
       - Evento dos Cristais: eventos/cristais.md
       - Invasão de Cristais: eventos/invasao.md
       - Arena Lothus: eventos/arena-lothus.md
+      - Arena PvP: eventos/arena-pvp.md
   - Mudanças:
       - Classes e habilidades: mudancas/classes.md
       - Itens: mudancas/itens.md
