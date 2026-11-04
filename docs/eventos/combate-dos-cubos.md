@@ -26,6 +26,7 @@ O objetivo é **ficar no top 3**: quebre os baús, junte **Cubos de Poder** para
 
 **Passe o mouse em cima de um jogador** para ver quantos cubos ele tem (aparece "N Cubos" no nome).
 O número muda na hora, sempre que alguém pega um cubo, e todo mundo da sala recebe um aviso.
+Quando o combate começa, a sala vira **PvP**: na tela aparece a sua posição e quantos jogadores ainda estão na sala.
 
 ## A arena
 

@@ -4,6 +4,8 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :pray: **Curandeira de Prontera:** Aumentar Agilidade e Bênção agora duram **30 minutos**. [Prontera](npcs/prontera.md)
+- :package: **Combate dos Cubos:** a sala vira PvP quando o combate começa, com a contagem de jogadores na tela, e o vencedor agora é levado para Prontera com o prêmio. [Combate dos Cubos](eventos/combate-dos-cubos.md)
 - :package: **Combate dos Cubos (ajustes):** quem cai vai direto para Prontera, e o vencedor também; o 1º, o 2º e o 3º recebem o prêmio na hora, ao chegar. A borda da **névoa venenosa** agora aparece como fumaça no chão. Cada cubo agora dá **+5% de dano** (o HP continua +10%). Os baús de cada largada ficaram um pouco mais longe (no caminho para o centro) e os 10 do meio ficaram mais juntos. **Aprendiz e Super Aprendiz não participam.** Para ver quantos cubos alguém tem, passe o mouse em cima dele. [Combate dos Cubos](eventos/combate-dos-cubos.md)
 - :package: **Combate dos Cubos:** evento novo de sobrevivência numa arena da cidade de Doubrius. Quebre os baús, pegue os **Cubos de Poder** (cada um dá +10% de HP e +10% de dano), veja no emblema em cima da cabeça quantos cubos cada um tem e fuja da **névoa venenosa**, que fecha o mapa aos poucos. Até 10 por sala; às 19h30 de terça, quinta, sexta e domingo, com `@evento`. [Combate dos Cubos](eventos/combate-dos-cubos.md)
 - :art: **Visual novo para vários NPCs:** agora cada NPC tem a sua aparência, ligada ao que ele faz (o Estilista é um barbeiro, o Banqueiro anda de terno, a Chapeleira usa chapéu, o Oficial de Guerra é um comandante...). Curandeira e Lotérica trocaram de visual entre si. [Prontera](npcs/prontera.md) · [Central do Aventureiro](npcs/central-aventureiro.md)
