@@ -1,7 +1,7 @@
 # :alarm_clock: Eventos automáticos
 
 Eventos que começam sozinhos. O prêmio é em ![](../assets/itens/60000.png) **Moedas de Loki** (o Resta 1 também dá Bandeiras e Moedas Douradas).
-A **Agenda de Eventos**, na [Central do Aventureiro](../npcs/central-aventureiro.md), mostra os eventos de hoje e da semana; ao lado dela fica um NPC de cada evento, que explica as regras e diz quando é o próximo.
+A **Agenda de Eventos**, em Prontera (168,178), mostra os eventos de hoje e da semana. Na [Central do Aventureiro](../npcs/central-aventureiro.md) fica um NPC de cada evento, que explica as regras e diz quando é o próximo.
 
 Nos eventos com inscrição, o servidor avisa **minuto a minuto nos 5 minutos antes de começar**, e a inscrição fica aberta durante esse aviso (`@evento`, ou `@piquepega` no Pique-pega, ou pelo NPC do evento).
 

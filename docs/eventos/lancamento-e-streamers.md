@@ -1,8 +1,6 @@
-# :rocket: Lançamento e streamers
+# :rocket: Evento de Lançamento
 
 ## Evento de Lançamento
-
-![](../assets/npcs/4_m_brz_indian.png){ align=right loading=lazy }
 
 Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) derrubam, direto no inventário:
 
@@ -23,13 +21,3 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 | Visual da Fortuna | 300 |
 | Pergaminho de Refino de Arma +10 | 400 |
 | Pergaminho de Refino de Equipamento +10 | 400 |
-
-## :clapper: Parceria de Streamers
-
-![](../assets/npcs/4_f_zondagirl.png){ align=right loading=lazy }
-
-Faz live de Ragnalothus? Fale com a **Parceria de Streamers** ([Central do Aventureiro](../npcs/central-aventureiro.md)) e inscreva o link do seu canal (Twitch, YouTube, Kick...).
-
-- A equipe confere e marca cada live.
-- Quem fizer **10 lives no mês** ganha no dia 1, pelo correio: **Bilhete VIP 30 dias + 2 Caixas Misteriosas Raras**.
-- No dia 1 a contagem zera.

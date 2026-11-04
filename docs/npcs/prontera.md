@@ -36,6 +36,7 @@ Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as arm
 | ![](../assets/npcs/4_f_zondagirl.png){ loading=lazy } | 156,178 | **Sala VIP** | Entrada da [Sala VIP](sala-vip.md) (só VIP) |
 | ![](../assets/npcs/4_m_01.png){ loading=lazy } | 160,178 | **Cambista do Bilhão** | Troca 1 bilhão de zeny por uma ficha e a ficha de volta. [Serviços](../sistemas/servicos.md#cambista-do-bilhao) |
 | | 164,178 | **Central do Aventureiro** | Leva para a [Central do Aventureiro](central-aventureiro.md) |
+| ![](../assets/npcs/4_f_valkyrie.png){ loading=lazy } | 168,178 | **Agenda de Eventos** | Eventos de hoje e da semana. [Eventos automáticos](../eventos/automaticos.md) |
 
 ## :crystal_ball: Teleportadora
 
