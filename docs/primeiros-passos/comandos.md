@@ -8,6 +8,7 @@ Comandos que qualquer jogador pode usar.
 | `@vip` | Leva para a Sala VIP e mostra até quando vai o seu VIP |
 | `@pontos` | Mostra quantas Moedas Douradas você tem e como ganhar mais |
 | `@rankmvp` | Ranking de MVPs da semana e do mês |
+| `@galeria` | Abre a [Galeria de Cartas](../sistemas/galeria.md): o álbum de cartas da sua conta |
 | `@r <resposta>` ou `@resposta <resposta>` | Responde a pergunta do [Quiz](../eventos/quiz.md) |
 | `@arena` | Entra na fila da [Arena Lothus](../eventos/arena-lothus.md) |
 | `@arena sair` | Sai da fila da Arena Lothus |

@@ -35,6 +35,7 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 | ![](../assets/npcs/4_m_knight_gold.png){ loading=lazy } | 52,54 | **Armamento Lendário** | Troca armas lendárias. [Armas lendárias](../mudancas/armas-lendarias.md) |
 | ![](../assets/npcs/4_m_dwarf.png){ loading=lazy } | 55,54 | **Forja Lendária** | Ferreiros forjam armas lendárias. [Armas lendárias](../mudancas/armas-lendarias.md) |
 | ![](../assets/npcs/4_f_aruna_pop.png){ loading=lazy } | 62,54 | **Evento de Lançamento** | Troca as Moedas de Lançamento. [Lançamento](../eventos/lancamento-e-streamers.md) |
+| ![](../assets/npcs/1_f_librarygirl.png){ loading=lazy } | 65,54 | **Curadora da Galeria** | Abre a Galeria de Cartas e troca as Fichas da Galeria. [Galeria de Cartas](../sistemas/galeria.md) |
 
 ## Eventos (parede da direita)
 

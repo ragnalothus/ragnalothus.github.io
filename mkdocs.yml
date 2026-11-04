@@ -78,6 +78,8 @@ nav:
       - Sala VIP: npcs/sala-vip.md
   - Sistemas:
       - Caixas e ovos: sistemas/caixas-e-ovos.md
+      - Galeria de Cartas: sistemas/galeria.md
+      - Categorias da Galeria: sistemas/galeria-categorias.md
       - O que sai das caixas: sistemas/conteudo-caixas.md
       - Missões: sistemas/missoes.md
       - Serviços: sistemas/servicos.md

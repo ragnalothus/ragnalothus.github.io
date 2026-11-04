@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :card_index: **Galeria de Cartas:** toda carta que você consegue (drop, loja, troca, correio, armazém) entra no álbum da sua conta para sempre, mesmo se vender depois. 22 categorias (elementos, Cartas Raras, Chefes e MVPs); categoria completa dá **Fichas da Galeria**, trocadas com a **Curadora da Galeria** na Central do Aventureiro. Abra com `@galeria`. [Galeria de Cartas](sistemas/galeria.md)
 - :scroll: **Resumo da loja:** ao fechar a sua loja de venda aparece no chat o que foi vendido, quanto zeny entrou e o que sobrou. [Serviços](sistemas/servicos.md#resumo-da-loja)
 - :trophy: **Rankings de fama:** no dia 1 de cada mês os pontos de fama de Ferreiro, Alquimista e Taekwon caem 5%. [Classes e habilidades](mudancas/classes.md#rankings-de-fama-ferreiro-alquimista-e-taekwon)
 - :crossed_swords: **Mais mudanças nas classes:** o Magnus Exorcismus continua dando dano mesmo se quem usou ficar atordoado ou congelado; o Apunhalar tem espera de 0,333 s; o Choque do Carrinho conta sempre como carrinho cheio; o Super Aprendiz ganhou +2.000 de peso e +10 de DES. [Classes e habilidades](mudancas/classes.md)
