@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :crossed_swords: **Mudanças nas classes:** várias habilidades ficaram melhores (Esmagamento Mágico, Derreter, Auto-Magia com Coluna de Pedra, Cara ou Coroa sempre acerta, Preservar liga/desliga, Ninja e Justiceiro com menos SP e espera, Espiritualista até o nível 70, forja com Migalhas Estelares mais forte, produção de até 300 Águas Bentas, Venenos Mortais e Conversores de uma vez) e algumas ganharam limites (Portal, Barreira de Gelo e Véu de Loki fora dos mapas de MVP, Devoção só na guilda, Abracadabra fora das cidades). [Classes e habilidades](mudancas/classes.md)
 - :mag: A busca de lojas pelo comando (`@ws`, `@whosell`, `@ws2`, `@wb`) agora acha o item **sem ligar para maiúsculas e acentos** (`pocao`, `POÇÃO` e `Poção` dão o mesmo resultado). [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
 - :mag: **`@ws <item>`** agora também abre a janela de Busca de Lojas com o item (aceita o número ou o nome); a lista no chat fica no `@ws2`. Kyrie Eleison das Curandeiras: **15 golpes** na Curandeira VIP e **5** na Curandeira da Ilha. [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
 - :pray: **Curandeira da Ilha** na Ilha do Noviço: cura, conserta e dá de graça os buffs de 1 hora da Curandeira VIP. O **pack inicial** agora traz também **50 Asas de Mosca**. [Começando](primeiros-passos/comecando.md)
