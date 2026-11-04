@@ -33,19 +33,29 @@ Junte as cartas de uma categoria para completá-la e ganhar **Fichas da Galeria*
 
 ## Como uma carta entra no álbum
 
-Vale **qualquer** jeito de a carta chegar ao seu inventário ou carrinho:
+**Contam:**
 
-- drop de monstro (inclusive com o autoloot);
-- compra em loja de NPC ou de jogador;
-- troca com outro jogador;
-- correio;
+- drop de monstro (pegando do chão, com o autoloot ou como prêmio de MVP);
+- compra em loja de NPC;
 - caixas, ovos e álbuns de cartas (Velho Álbum de Cartas, Álbum de Cartas Lendário...);
-- tirar do armazém, do armazém da guilda ou do carrinho;
-- **equipamento com a carta encaixada**: as cartas que estão nos slots também contam.
+- tirar do **seu** armazém ou do carrinho;
+- **equipamento com a carta encaixada**: as cartas que estão nos slots também contam;
+- comprar de outro jogador **pela loja (mercador)** ou vender para a **loja de compra** dele, **por 200.000 zeny
+  ou mais** cada carta.
+
+**Não contam:**
+
+- **troca** entre jogadores (janela de troca);
+- **correio**;
+- **armazém da guilda**;
+- carta **largada no chão** por outro jogador;
+- compra em loja de jogador por **menos de 200.000 zeny**.
+
+Uma carta que não contou pode contar depois, se você conseguir outra cópia dela de um jeito que vale.
 
 **Cartas que você já tinha:** na **primeira vez** que a sua conta abre a Galeria, entram as cartas que já
 estavam no inventário, no carrinho e no armazém de **todos os seus personagens**, inclusive as encaixadas nos
-equipamentos. Cartas que estão no armazém da guilda entram quando você tirar de lá.
+equipamentos.
 
 **Quais cartas valem:** só as **cartas de monstros que aparecem nos mapas** (437 cartas). Cartas de monstros
 que não aparecem no jogo (de eventos, de quest ou de outras versões) não fazem parte da Galeria.
@@ -212,14 +222,18 @@ As **Fichas da Galeria** podem ser trocadas entre jogadores, guardadas no armaz�
 No futuro, a equipe vai liberar a opção de cada jogador **recomeçar o próprio álbum** (para juntar as cartas e
 ganhar os prêmios de novo) ou continuar com o atual. Quando isso existir, depois do reset:
 
-- **não contam** cartas tiradas do **armazém**;
-- **não contam** cartas recebidas por **troca entre jogadores**;
-- **contam** cartas que caírem de monstros e cartas **compradas em loja de jogador (mercador) por pelo menos 200.000 zeny**.
+- continuam valendo as regras de cima (troca, correio, armazém da guilda e carta largada no chão não contam;
+  loja de jogador só por 200.000 zeny ou mais);
+- e **também não contam** as cartas tiradas do **seu armazém**.
 
 ## Perguntas frequentes
 
 **Vendi a carta. Ela sai do álbum?**
 Não. Depois que a carta entra no álbum, ela fica lá para sempre.
+
+**Um amigo pode me passar uma carta?**
+Pela troca, pelo correio, pelo armazém da guilda ou largando no chão, **não conta**. Só conta se você comprar
+a carta na loja dele (mercador) por 200.000 zeny ou mais.
 
 **Preciso juntar as cartas no mesmo personagem?**
 Não. O álbum é da conta: uma carta conseguida em qualquer personagem conta para todos.
