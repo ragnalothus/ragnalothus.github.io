@@ -1,62 +1,160 @@
 # :card_index: Galeria de Cartas
 
-A **Galeria de Cartas** é o álbum de cartas da sua conta. Toda carta que você consegue entra no álbum
-**para sempre**: basta ter a carta uma vez. Se depois você vender, trocar ou usar a carta, ela continua no álbum.
+A **Galeria de Cartas** é o álbum de cartas da sua **conta**. Toda carta que você consegue entra no álbum
+**para sempre**. Basta ter a carta uma vez: se depois você vender, trocar ou encaixar a carta, ela continua no álbum.
 
-Abra o álbum em qualquer lugar com **`@galeria`** ou fale com a **Curadora da Galeria** na
-[Central do Aventureiro](../npcs/central-aventureiro.md) (65,54).
+Junte as cartas de uma categoria para completá-la e ganhar **Fichas da Galeria**. Troque as fichas por itens com a
+**Curadora da Galeria**.
 
 ![](../assets/npcs/1_f_librarygirl.png){ loading=lazy }
 
+## Resumo rápido
+
+| O quê | Como é |
+|---|---|
+| Abrir o álbum | `@galeria` em qualquer lugar, ou a **Curadora da Galeria** na [Central do Aventureiro](../npcs/central-aventureiro.md) (65,54) |
+| Quantas cartas | **437 cartas** em **22 categorias** de até 25 cartas |
+| O álbum é de quem | Da **conta**: todos os seus personagens enchem o mesmo álbum |
+| Quantas vezes preciso ter a carta | **1 vez** só. Vender ou trocar depois não tira a carta do álbum |
+| Prêmio por categoria completa | **5 a 45 Fichas da Galeria** (quanto mais rara a categoria, mais fichas) |
+| Nível da Galeria | **1 nível a cada 10 cartas**. A cada **5 níveis**, **3 Fichas** |
+| Álbum completo (437 cartas) | Mais **50 Fichas** e um aviso para todo o servidor |
+| Onde trocar as fichas | Loja da **Curadora da Galeria** |
+
+## Passo a passo
+
+1. **Consiga cartas** como sempre: matando monstros, comprando em lojas, trocando com outros jogadores.
+2. Cada carta nova entra sozinha no álbum. Aparece uma mensagem no chat, por exemplo:
+   `[Galeria] Carta nova no álbum: Carta Poring (Neutro I 12/24)`.
+3. Quando uma categoria fica completa, o chat avisa: `[Galeria] Categoria Neutro I (7 Fichas) completa!`.
+4. Abra o álbum (`@galeria` ou a Curadora) e escolha **Resgatar**. Você recebe na hora todas as fichas que tem
+   para resgatar (categorias completas, prêmios de nível e álbum completo).
+5. Vá até a **Curadora da Galeria** e escolha **Loja de Fichas** para trocar as fichas por itens.
+
 ## Como uma carta entra no álbum
 
-Vale qualquer jeito de conseguir a carta:
+Vale **qualquer** jeito de a carta chegar ao seu inventário ou carrinho:
 
-- drop de monstro;
+- drop de monstro (inclusive com o autoloot);
 - compra em loja de NPC ou de jogador;
-- troca com outro jogador, correio ou caixas;
-- tirar do armazém ou do carrinho;
-- equipamento com a carta encaixada.
+- troca com outro jogador;
+- correio;
+- caixas, ovos e álbuns de cartas (Velho Álbum de Cartas, Álbum de Cartas Lendário...);
+- tirar do armazém, do armazém da guilda ou do carrinho;
+- **equipamento com a carta encaixada**: as cartas que estão nos slots também contam.
 
-Na **primeira vez** que você abre a Galeria, entram também as cartas que a sua conta já tinha: no inventário,
-no carrinho e no armazém de todos os personagens, inclusive as encaixadas nos equipamentos.
+**Cartas que você já tinha:** na **primeira vez** que a sua conta abre a Galeria, entram as cartas que já
+estavam no inventário, no carrinho e no armazém de **todos os seus personagens**, inclusive as encaixadas nos
+equipamentos. Cartas que estão no armazém da guilda entram quando você tirar de lá.
 
-Quando uma carta nova entra, aparece no chat o nome dela e como ficaram as categorias dela (por exemplo,
-"Terra I 12/25").
+**Quais cartas valem:** só as **cartas de monstros que aparecem nos mapas** (437 cartas). Cartas de monstros
+que não aparecem no jogo (de eventos, de quest ou de outras versões) não fazem parte da Galeria.
 
 ## Categorias
 
-São **437 cartas** em **22 categorias** de até 25 cartas. Só entram cartas de monstros que aparecem nos mapas.
+Cada categoria tem **até 25 cartas**. Elas são de quatro grupos:
 
-- **Elementos:** por elemento do monstro (Neutro, Água, Terra, Fogo, Vento, Veneno, Sagrado e Fantasma,
-  Sombrio, Morto-Vivo). Os elementos com muitas cartas são divididos em partes (I, II, III) pelo nível do monstro.
-- **Cartas Raras:** as 25 cartas de monstros que quase não aparecem nos mapas.
-- **Chefes:** cartas dos chefes (miniboss), em 2 partes.
-- **MVPs:** cartas dos MVPs, em 2 partes.
+### Elementos (17 categorias)
 
-Uma carta pode contar em mais de uma categoria: uma carta de chefe de fogo conta só em Chefes, mas uma carta
-rara de Terra conta em Terra e em Cartas Raras.
+As cartas dos **monstros comuns** separadas pelo **elemento do monstro**: Neutro, Água, Terra, Fogo, Vento,
+Veneno, Sagrado e Fantasma (juntos), Sombrio e Morto-Vivo.
 
-A lista completa, com todas as cartas de cada categoria, está em [Categorias da Galeria](galeria-categorias.md).
+Os elementos com mais de 25 cartas foram divididos em partes pelo **nível do monstro**: a parte **I** tem os
+monstros mais fracos e a **II** (e a **III**, em Terra) os mais fortes. As partes de monstros mais fortes dão mais fichas.
 
-## Prêmios: Fichas da Galeria
+### Cartas Raras (1 categoria)
 
-![](../assets/itens/60048.png) Ao completar uma categoria você resgata **Fichas da Galeria** pelo álbum
-(opção "Resgatar"). Quanto mais rara a categoria, mais fichas:
+As **25 cartas dos monstros comuns que menos aparecem nos mapas** (monstros que nascem só 1 a 10 vezes em todo o
+jogo, como Chepet, Zealotus, Goblin Leader e Bloody Knight). Essas cartas também contam na categoria do elemento
+delas.
 
-| Categoria | Fichas |
+### Chefes (2 categorias)
+
+As cartas dos **chefes (miniboss)**, como Angeling, Deviling, Ghostring, Mastering, Dragon Fly e Toad, em duas
+partes pelo nível.
+
+### MVPs (2 categorias)
+
+As cartas dos **MVPs** que aparecem nos mapas, em duas partes pelo nível: **MVPs I** (até o nível 80) e
+**MVPs II** (do 81 ao 99).
+
+!!! info "Uma carta pode contar em duas categorias"
+    Uma carta rara conta no elemento dela **e** em Cartas Raras. Cartas de Chefes e de MVPs contam só no grupo
+    delas (não entram nos elementos).
+
+### Todas as categorias e prêmios
+
+| Categoria | Cartas | Monstros (nível) | Prêmio |
+|---|---|---|---|
+| Neutro I | 24 | 3 a 59 | 7 Fichas |
+| Neutro II | 24 | 60 a 79 | 10 Fichas |
+| Água I | 20 | 1 a 31 | 5 Fichas |
+| Água II | 19 | 33 a 83 | 8 Fichas |
+| Terra I | 25 | 2 a 24 | 5 Fichas |
+| Terra II | 25 | 25 a 51 | 7 Fichas |
+| Terra III | 24 | 51 a 106 | 9 Fichas |
+| Fogo I | 22 | 3 a 43 | 6 Fichas |
+| Fogo II | 22 | 46 a 91 | 9 Fichas |
+| Vento I | 22 | 4 a 51 | 6 Fichas |
+| Vento II | 22 | 54 a 104 | 10 Fichas |
+| Veneno | 21 | 14 a 110 | 8 Fichas |
+| Sagrado e Fantasma | 18 | 24 a 108 | 9 Fichas |
+| Sombrio I | 22 | 4 a 52 | 6 Fichas |
+| Sombrio II | 21 | 53 a 85 | 10 Fichas |
+| Morto-Vivo I | 16 | 10 a 40 | 6 Fichas |
+| Morto-Vivo II | 16 | 47 a 77 | 9 Fichas |
+| **Cartas Raras** | 25 | 18 a 82 | **25 Fichas** |
+| **Chefes I** | 19 | 2 a 76 | **20 Fichas** |
+| **Chefes II** | 19 | 76 a 92 | **25 Fichas** |
+| **MVPs I** | 18 | 64 a 80 | **35 Fichas** |
+| **MVPs II** | 18 | 81 a 99 | **45 Fichas** |
+
+Quais cartas estão em cada categoria (e qual monstro dropa cada uma): [Categorias da Galeria](galeria-categorias.md).
+
+## Nível da Galeria
+
+Você sobe **1 nível a cada 10 cartas diferentes** no álbum (contando todas as categorias, sem repetir cartas).
+A cada **5 níveis** ganha **3 Fichas**:
+
+| Nível | Cartas no álbum | Prêmio |
+|---|---|---|
+| 5 | 50 | 3 Fichas |
+| 10 | 100 | 3 Fichas |
+| 15 | 150 | 3 Fichas |
+| 20 | 200 | 3 Fichas |
+| 25 | 250 | 3 Fichas |
+| 30 | 300 | 3 Fichas |
+| 35 | 350 | 3 Fichas |
+| 40 | 400 | 3 Fichas |
+| Álbum completo | 437 | **50 Fichas** + aviso no servidor |
+
+Somando tudo (todas as categorias, todos os níveis e o álbum completo) a Galeria dá **354 Fichas** por conta.
+
+## A janela do álbum
+
+Ao abrir a Galeria você vê:
+
+- **Cartas no álbum**, **Nível da Galeria** e **categorias completas**;
+- as fichas que você tem para **resgatar** (se houver).
+
+No menu:
+
+| Opção | O que mostra |
 |---|---|
-| Elementos | 5 a 10 (mais nas partes de monstros de nível alto) |
-| Cartas Raras | 25 |
-| Chefes I / Chefes II | 20 / 25 |
-| MVPs I / MVPs II | 35 / 45 |
+| **Resgatar** | Só aparece quando há prêmio. Entrega todas as fichas de uma vez |
+| **Elementos**, **Cartas Raras**, **Chefes**, **MVPs** | Quantas cartas você tem no grupo. Ao entrar, a lista das categorias com o progresso (ex.: `Terra I - 12/25 - 5 Fichas`), "completa!" ou "resgatada" |
+| **Nível da Galeria** | Seu nível e em quantas cartas sai o próximo prêmio |
+| **Prêmios de cada categoria** | Quantas fichas dá cada categoria, o nível e o álbum completo |
+| **Como funciona** | O resumo das regras |
 
-Quem completa Cartas Raras, Chefes ou MVPs é anunciado no servidor.
+Dentro de uma categoria, as cartas que você **já tem** aparecem em **verde** (clique no nome para ver a carta) e as
+que **faltam** aparecem em **cinza**, com o nome do monstro que dropa a carta.
 
-### Nível da Galeria
+## Resgatar as fichas
 
-Você sobe **1 nível a cada 10 cartas** diferentes no álbum. A cada **5 níveis** (50 cartas) ganha
-**3 Fichas**. Quem completar **o álbum inteiro** ganha mais **50 Fichas** e é anunciado no servidor.
+- Cada categoria dá o prêmio **uma vez por conta**. Depois de resgatada ela fica marcada como "resgatada".
+- As fichas vão para o personagem que fez o resgate. Precisa ter **espaço no inventário** (as fichas não pesam).
+- Quem completa **Cartas Raras**, **Chefes** ou **MVPs**, e quem completa **o álbum inteiro**, é anunciado no servidor.
 
 ## Loja de Fichas (Curadora da Galeria)
 
@@ -74,4 +172,22 @@ Você sobe **1 nível a cada 10 cartas** diferentes no álbum. A cada **5 nívei
 | Pergaminho de Refino de Equipamento +10 | 60 |
 | Visual da Fortuna | 150 |
 
-As Fichas da Galeria podem ser trocadas entre jogadores e vendidas em loja de jogador.
+As **Fichas da Galeria** podem ser trocadas entre jogadores, guardadas no armazém e vendidas em loja de jogador.
+
+## Perguntas frequentes
+
+**Vendi a carta. Ela sai do álbum?**
+Não. Depois que a carta entra no álbum, ela fica lá para sempre.
+
+**Preciso juntar as cartas no mesmo personagem?**
+Não. O álbum é da conta: uma carta conseguida em qualquer personagem conta para todos.
+
+**Encaixei a carta num equipamento antes de abrir a Galeria. Conta?**
+Conta. Na primeira abertura entram também as cartas encaixadas nos equipamentos que estão no inventário, no
+carrinho ou no armazém.
+
+**Uma carta que saiu do Velho Álbum de Cartas ou de uma caixa conta?**
+Conta, como qualquer carta que chega ao inventário.
+
+**Completei uma categoria e não recebi nada.**
+O prêmio não é automático: abra a Galeria (`@galeria`) e escolha **Resgatar**.
