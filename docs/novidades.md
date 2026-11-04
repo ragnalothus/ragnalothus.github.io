@@ -10,7 +10,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 - :loudspeaker: Os avisos de eventos agora aparecem **na tela** e no chat.
 - :performing_arts: **Disfarce:** a resposta agora é o **nome oficial em português** do monstro (com ou sem acento). [Eventos automáticos](eventos/automaticos.md#disfarce)
 - :dart: **Sala de Treino** já abre com um boneco e não começa mais num lugar sem saída; a **Sala de Galhos** também chega num lugar aberto e o "Voltar para a sala alugada" acha a sala sua, do grupo ou da guilda. [Serviços](sistemas/servicos.md#sala-de-treino)
-- :gem: **Sala VIP:** chegaram o **Mestre das Habilidades** e o **Gerente de Builds**. O Gerente de Builds agora cobra **100.000z** por carregar uma build. [Sala VIP](npcs/sala-vip.md)
+- :gem: **Sala VIP:** o **Mestre das Habilidades** e o **Gerente de Builds** agora ficam **só na Sala VIP** (saíram da Central do Aventureiro e de Prontera). O Gerente de Builds cobra **100.000z** por carregar uma build. [Sala VIP](npcs/sala-vip.md)
 - :moneybag: **Trocadora de Moedas:** Passe Anti-Gravitacional 300, Licença de Loja de Compra 20 e Velho Álbum de Cartas 300 Moedas de Loki. [Moedas](servidor/moedas.md)
 - :four_leaf_clover: **Visual da Fortuna:** chance de Moeda Dourada subiu para **0,5%**. [Itens alterados](mudancas/itens.md)
 - :hammer: **Forja Lendária:** se a forja falhar, o zeny não volta mais (Bandeiras e Moedas de Loki continuam voltando). [Armas lendárias](mudancas/armas-lendarias.md)

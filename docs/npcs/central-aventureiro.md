@@ -12,7 +12,6 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 |---|---|---|---|
 | ![](../assets/npcs/4_m_barber.png){ loading=lazy } | 36,39 | **Estilista** | Cabelo e cor do cabelo grátis; cor da roupa 100.000z ou cupom. [Serviços](../sistemas/servicos.md#estilista) |
 | ![](../assets/npcs/4_f_agentkafra.png){ loading=lazy } | 39,39 | **Resgatador de Cupons** | Troca de nome, de sexo, de nome da guilda e vaga de personagem. [Serviços](../sistemas/servicos.md#resgatador-de-cupons) |
-| | 42,39 | **Mestre das Habilidades** | Classes sem NPC próprio escolhem 1 habilidade de qualquer classe. [Classes](../mudancas/classes.md) |
 | | 45,39 | **Invasão de Cristais** (o cristal) | Regras e horário. [Eventos automáticos](../eventos/automaticos.md) |
 | ![](../assets/npcs/4_m_redsword.png){ loading=lazy } | 47,39 | **Resta 1** | Regras, prêmio, próximo horário e inscrição |
 | ![](../assets/npcs/4_f_kid2.png){ loading=lazy } | 56,39 | **Pique-pega** | Regras, prêmio, próximo horário e inscrição |

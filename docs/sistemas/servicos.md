@@ -1,6 +1,6 @@
 # :bellhop_bell: Serviços
 
-Uns ficam em [Prontera](../npcs/prontera.md) (Banqueiro, Cambista do Bilhão e Gerente de Builds) e outros na [Central do Aventureiro](../npcs/central-aventureiro.md) (entrada pelo NPC Central do Aventureiro em Prontera, 164,178).
+Uns ficam em [Prontera](../npcs/prontera.md) (Banqueiro e Cambista do Bilhão), o Gerente de Builds fica na [Sala VIP](../npcs/sala-vip.md) e outros na [Central do Aventureiro](../npcs/central-aventureiro.md) (entrada pelo NPC Central do Aventureiro em Prontera, 164,178).
 
 ## Estilista
 
@@ -88,7 +88,7 @@ Traga a arma **equipada e em +10**. A chance é de **50%**; se falhar, **a arma 
 
 ![](../assets/npcs/4_f_02.png){ align=right loading=lazy }
 
-Ao lado da Resetadora (147,193) e também na [Sala VIP](../servidor/vip.md). Guarda até **10 builds de atributos** e **10 de habilidades** por personagem, com o nome que você quiser.
+Fica na [Sala VIP](../npcs/sala-vip.md) (51,26). Guarda até **10 builds de atributos** e **10 de habilidades** por personagem, com o nome que você quiser.
 
 - **Carregar** uma build custa **100.000z**.
 - Uma build de habilidades some se o personagem mudar de classe.
