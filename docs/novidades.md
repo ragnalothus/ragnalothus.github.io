@@ -4,6 +4,12 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :office: **Central do Aventureiro:** as missões, os serviços, as armas lendárias e os NPCs dos eventos saíram de Prontera e foram para um centro novo. Fale com o NPC **Central do Aventureiro** em Prontera (160,178) para ir até lá. [Central do Aventureiro](npcs/central-aventureiro.md)
+- :crossed_swords: **Resta 1:** PvP todos contra todos às 10h, 13h, 16h, 19h e 22h, com `@evento`. O último vivo ganha 100 Bandeiras, 75 Moedas de Loki, 20 Moedas Douradas e 1 Caixa Misteriosa; cada abate dá 3 Bandeiras. [Eventos automáticos](eventos/automaticos.md#resta-1)
+- :alarm_clock: **Horário dos eventos:** nenhum evento automático acontece antes das 9h nem depois das 22h. Os eventos com inscrição (Resta 1, Dados, Bombring, Pique-pega, Quiz, Cristais e Invasão) são avisados minuto a minuto nos 5 minutos antes, e a inscrição fica aberta durante o aviso. O Evento dos Cristais das 22h passou para as 21h. [Eventos automáticos](eventos/automaticos.md)
+- :ticket: As loterias avisam meia hora antes do sorteio. [Loteria](sistemas/rankings-e-loteria.md#loterias)
+- :package: A **Caixa Lendária de Armamento** saiu do Trocador de Bandeiras e do Gerente de Moedas Douradas: agora só vem da Caixa Misteriosa Rara. A arma lendária à sua escolha continua no Armamento Lendário. [Armas lendárias](mudancas/armas-lendarias.md)
+- :wrench: As **Arenas Privadas** voltaram a funcionar.
 - :shield: **Armamento Lendário** (Prontera 196,178): troque qualquer arma lendária por 20.000 Bandeiras + 10.000 Moedas de Loki + 2.000 Moedas Douradas. [Armas lendárias](mudancas/armas-lendarias.md)
 - :rocket: O NPC do **Evento de Lançamento** agora é uma loja de troca, com a Moeda de Lançamento ao lado de cada prêmio. A Caixa Misteriosa Rara e a Caixa Lendária de Armamento saíram dessa loja. [Lançamento](eventos/lancamento-e-streamers.md)
 - :crossed_swords: **Armas lendárias:** nova Adaga Lendária do Aprendiz; Revólver Lendário do Justiceiro (era rifle) com Rajada Certeira e Desperado; Super Aprendiz com todos os atributos +10; Maça do Sumo Sacerdote com Magnus +5% no +9; nomes das habilidades corrigidos nas descrições. A troca pede também 2 materiais de cada arma, e as armas lendárias não aceitam o Pergaminho de Refino +10. [Armas lendárias](mudancas/armas-lendarias.md)

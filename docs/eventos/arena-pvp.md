@@ -11,7 +11,7 @@
 
 ![](../assets/npcs/4_m_brz_indian.png){ align=right loading=lazy }
 
-O NPC **Arenas Privadas** (Prontera 176,178) aluga uma arena PvP **só sua por 1 hora** por **200.000z**:
+O NPC **Arenas Privadas** ([Central do Aventureiro](../npcs/central-aventureiro.md)) aluga uma arena PvP **só sua por 1 hora** por **200.000z**:
 
 - 5 mapas, com 8 salas cada.
 - A arena fica trancada com um **código de 6 letras**. Só entra quem tiver o código: passe para quem você quiser chamar.
@@ -22,7 +22,7 @@ O NPC **Arenas Privadas** (Prontera 176,178) aluga uma arena PvP **só sua por 1
 
 ![](../assets/npcs/4_m_job_blacksmith.png){ align=right loading=lazy }
 
-A luta começa agora! Na sala do **Oficial de Guerra** (Prontera 172,178) as guildas resolvem suas rivalidades:
+A luta começa agora! Na sala do **Oficial de Guerra** ([Central do Aventureiro](../npcs/central-aventureiro.md)) as guildas resolvem suas rivalidades:
 
 - No máximo **2 guildas** na sala por vez.
 - Só entram **membros das guildas** (as duas primeiras que entrarem). Quando uma guilda sai inteira, a vaga fica livre.

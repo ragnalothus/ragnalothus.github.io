@@ -19,7 +19,7 @@ Comandos que qualquer jogador pode usar.
 | `@ws <item>` (ou `@ws2`, `@whosell`) | Quem está vendendo o item, do mais barato para o mais caro. Filtros: `+refino` e `mín-máx`. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
 | `@wb <item>` (ou `@wb2`, `@whobuy`) | Quem está comprando o item, do que paga mais para o que paga menos |
 | `@at` | Deixa a sua loja (de venda ou de compra) aberta enquanto você está fora |
-| `@evento` | Entra no evento automático com inscrição aberta (Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
+| `@evento` | Entra no evento automático com inscrição aberta (Resta 1, Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
 | `@boneco` | Dentro da Sala de Treino: cria e troca os bonecos de treino. [Serviços](../sistemas/servicos.md#sala-de-treino) |
 
 ## Oração do Super Aprendiz

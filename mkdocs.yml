@@ -73,13 +73,14 @@ nav:
       - Loja de cash: servidor/loja-cash.md
   - NPCs:
       - Prontera: npcs/prontera.md
+      - Central do Aventureiro: npcs/central-aventureiro.md
       - Blackroom: npcs/blackroom.md
       - Sala VIP: npcs/sala-vip.md
   - Sistemas:
       - Caixas e ovos: sistemas/caixas-e-ovos.md
       - O que sai das caixas: sistemas/conteudo-caixas.md
       - Missões: sistemas/missoes.md
-      - Serviços de Prontera: sistemas/servicos.md
+      - Serviços: sistemas/servicos.md
       - Chapeleira e visuais: sistemas/chapeleira.md
       - Mestre Ferreiro e refino: sistemas/ferreiro-e-refino.md
       - MVPs: sistemas/mvps.md

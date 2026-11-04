@@ -1,12 +1,12 @@
-# :bellhop_bell: Serviços de Prontera
+# :bellhop_bell: Serviços
 
-Quase todos ficam na praça ao sul da fonte de Prontera. Veja as posições em [NPCs de Prontera](../npcs/prontera.md).
+Quase todos ficam na [Central do Aventureiro](../npcs/central-aventureiro.md) (entrada pelo NPC Central do Aventureiro em Prontera, 160,178). O Banqueiro e o Gerente de Builds continuam em [Prontera](../npcs/prontera.md).
 
 ## Estilista
 
 ![](../assets/npcs/4_f_02.png){ align=right loading=lazy }
 
-Fica em Prontera (152,178) e na [Sala VIP](../npcs/sala-vip.md). Abre a janela de visual do jogo.
+Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP](../npcs/sala-vip.md). Abre a janela de visual do jogo.
 
 - **Cabelo e cor do cabelo:** grátis.
 - **Cor da roupa:** 100.000z ou 1 **Cupom de Cor de Roupa** (vendido na [loja de cash](../servidor/loja-cash.md)).

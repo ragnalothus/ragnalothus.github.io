@@ -4,7 +4,7 @@
 
 ![](../assets/npcs/4_m_brz_indian.png){ align=right loading=lazy }
 
-O Hobota fica em Prontera (128,178). Cada missão pede **3 monstros** sorteados. **Não tem prazo** para terminar.
+O Hobota fica na [Central do Aventureiro](../npcs/central-aventureiro.md). Cada missão pede **3 monstros** sorteados. **Não tem prazo** para terminar.
 
 | Dificuldade | Nível | Abates de cada monstro | Zeny | Pontos de Missão |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ Além do zeny e dos pontos, a missão dá EXP igual à EXP dos monstros pedidos.
 
 ## Quadro de Missões
 
-O Quadro de Missões fica em Prontera (124,178). As missões podem ser repetidas **quantas vezes você quiser**.
+O Quadro de Missões fica na [Central do Aventureiro](../npcs/central-aventureiro.md). As missões podem ser repetidas **quantas vezes você quiser**.
 
 ### Entregas
 

@@ -12,7 +12,7 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 | ![](../assets/itens/60044.png) | Poção de Lançamento | 3% | Recupera 10% do HP. Peso 0,5 |
 | ![](../assets/itens/60045.png) | Elixir de Lançamento | 3% | Recupera 8% do SP. Peso 0,5 |
 
-**Evento de Lançamento** (Prontera 188,178): loja de troca, a Moeda de Lançamento aparece ao lado de cada prêmio com a quantidade.
+**Evento de Lançamento** ([Central do Aventureiro](../npcs/central-aventureiro.md)): loja de troca, a Moeda de Lançamento aparece ao lado de cada prêmio com a quantidade.
 
 | Prêmio | Moedas |
 |---|---|
@@ -28,7 +28,7 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 
 ![](../assets/npcs/4_f_zondagirl.png){ align=right loading=lazy }
 
-Faz live de Ragnalothus? Fale com a **Parceria de Streamers** (Prontera 192,178) e inscreva o link do seu canal (Twitch, YouTube, Kick...).
+Faz live de Ragnalothus? Fale com a **Parceria de Streamers** ([Central do Aventureiro](../npcs/central-aventureiro.md)) e inscreva o link do seu canal (Twitch, YouTube, Kick...).
 
 - A equipe confere e marca cada live.
 - Quem fizer **10 lives no mês** ganha no dia 1, pelo correio: **Bilhete VIP 30 dias + 2 Caixas Misteriosas Raras**.

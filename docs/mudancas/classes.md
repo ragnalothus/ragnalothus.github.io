@@ -24,7 +24,7 @@ Mudanças em relação ao Ragnarok pré-renovação original.
 
 ## Habilidades extras
 
-- **Mestre das Habilidades** (Prontera 180,185): classes sem NPC próprio escolhem **1 habilidade de qualquer classe**, de graça. Sai ao mudar de classe.
+- **Mestre das Habilidades** ([Central do Aventureiro](../npcs/central-aventureiro.md)): classes sem NPC próprio escolhem **1 habilidade de qualquer classe**, de graça. Sai ao mudar de classe.
 - **Mestre do Plágio** (Sala VIP): o Arruaceiro ganha Preservar + 1 habilidade à escolha; o Desordeiro ganha 2 à escolha. Pode retirar.
 
 ## Sacerdote e Noviço

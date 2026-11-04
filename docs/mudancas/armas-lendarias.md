@@ -5,9 +5,9 @@ Uma **arma lendária** para cada classe. Todas têm **2 slots**, nível da arma 
 ## Como conseguir
 
 - ![](../assets/itens/60046.png) **Caixa Lendária de Armamento:** dá a arma da sua classe. Quem é de 2ª classe e ainda não renasceu fica com a caixa (abra depois de renascer). As outras classes escolhem a arma.
-  Vem da Caixa Misteriosa Rara (0,1%), do Trocador de Bandeiras (20.000), do Gerente de Moedas Douradas (5.000) (a caixa não sai mais do Evento de Lançamento).
-- :shield: **Armamento Lendário** (Prontera 196,178): troca qualquer arma lendária, à sua escolha, por **20.000 Bandeiras + 10.000 Moedas de Loki + 2.000 Moedas Douradas + 2 materiais próprios de cada arma** (coluna "Materiais da troca" abaixo). Esses materiais não são vendidos em lojas: só caem de monstros. As armas aparecem numa janela de loja; ao escolher uma, a janela mostra os itens pedidos e a troca só acontece se você tiver tudo.
-- :hammer: **Forja Lendária** (Prontera 184,178): só **Ferreiro** ou **Mestre-Ferreiro** forja, qualquer arma da lista.
+  Só vem da Caixa Misteriosa Rara (0,1%). Não é vendida em nenhuma loja de troca.
+- :shield: **Armamento Lendário** ([Central do Aventureiro](../npcs/central-aventureiro.md)): troca qualquer arma lendária, à sua escolha, por **20.000 Bandeiras + 10.000 Moedas de Loki + 2.000 Moedas Douradas + 2 materiais próprios de cada arma** (coluna "Materiais da troca" abaixo). Esses materiais não são vendidos em lojas: só caem de monstros. As armas aparecem numa janela de loja; ao escolher uma, a janela mostra os itens pedidos e a troca só acontece se você tiver tudo.
+- :hammer: **Forja Lendária** ([Central do Aventureiro](../npcs/central-aventureiro.md)): só **Ferreiro** ou **Mestre-Ferreiro** forja, qualquer arma da lista.
 
 | Material | Quantidade |
 |---|---|
