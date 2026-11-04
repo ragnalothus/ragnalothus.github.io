@@ -39,7 +39,7 @@ Quando o combate começa, a sala vira **PvP**: na tela aparece a sua posição e
 
 ## A névoa venenosa
 
-- Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 5 segundos**. Quando você entra na névoa, a **tela escurece** e aparece um aviso; a borda da área livre aparece no **minimapa** com **8 marcas roxas**, que andam junto com a névoa (a marca verde é o centro).
+- Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 5 segundos**. A borda da névoa aparece como uma **linha roxa no chão** que vai fechando junto com ela: não passe dela. Quando você entra na névoa, a **tela escurece** e aparece um aviso; a borda da área livre aparece no **minimapa** com **8 marcas roxas**, que andam junto com a névoa (a marca verde é o centro).
 - Por volta dos **3 minutos e meio** ela chega nas largadas; por volta dos **6 minutos e meio** só sobra uma roda pequena no meio.
 - Quem fica na névoa perde **5% do HP máximo a cada 2 segundos**, e o veneno fica mais forte a cada minuto (até 20%).
 - O combate dura no máximo **8 minutos**. Se o tempo acabar com mais de um vivo, vence quem tem **mais cubos** (empate: mais abates).
