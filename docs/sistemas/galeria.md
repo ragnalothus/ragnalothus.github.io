@@ -13,12 +13,12 @@ Junte as cartas de uma categoria para completá-la e ganhar **Fichas da Galeria*
 | O quê | Como é |
 |---|---|
 | Abrir o álbum | `@galeria` em qualquer lugar, ou a **Curadora da Galeria** na [Central do Aventureiro](../npcs/central-aventureiro.md) (65,54) |
-| Quantas cartas | **437 cartas** em **22 categorias** de até 25 cartas |
+| Quantas cartas | **437 cartas** em **35 categorias** de até 25 cartas |
 | O álbum é de quem | Da **conta**: todos os seus personagens enchem o mesmo álbum |
 | Quantas vezes preciso ter a carta | **1 vez** só. Vender ou trocar depois não tira a carta do álbum |
-| Prêmio por categoria completa | **5 a 45 Fichas da Galeria** (quanto mais rara a categoria, mais fichas) |
+| Prêmio por categoria completa | **5 a 45 Fichas da Galeria** (quanto mais difícil a categoria, mais fichas) |
 | Nível da Galeria | **1 nível a cada 10 cartas**. A cada **5 níveis**, **3 Fichas** |
-| Álbum completo (437 cartas) | Mais **50 Fichas** e um aviso para todo o servidor |
+| Álbum completo (todas as 437 cartas) | Mais **500 Fichas** e um aviso para todo o servidor |
 | Onde trocar as fichas | Loja da **Curadora da Galeria** |
 
 ## Passo a passo
@@ -52,7 +52,7 @@ que não aparecem no jogo (de eventos, de quest ou de outras versões) não faze
 
 ## Categorias
 
-Cada categoria tem **até 25 cartas**. Elas são de quatro grupos:
+Cada categoria tem **até 25 cartas**. Elas são de seis grupos:
 
 ### Elementos (17 categorias)
 
@@ -78,9 +78,21 @@ partes pelo nível.
 As cartas dos **MVPs** que aparecem nos mapas, em duas partes pelo nível: **MVPs I** (até o nível 80) e
 **MVPs II** (do 81 ao 99).
 
-!!! info "Uma carta pode contar em duas categorias"
-    Uma carta rara conta no elemento dela **e** em Cartas Raras. Cartas de Chefes e de MVPs contam só no grupo
-    delas (não entram nos elementos).
+### Raças (10 categorias)
+
+Uma categoria por **raça do monstro**: Bruto, Demônio, Humanoide, Amorfo, Inseto, Morto-Vivo, Planta, Peixe,
+Dragão e Anjo. Nas raças com mais de 25 cartas, a categoria tem as **25 cartas dos monstros comuns mais fortes**
+(de nível mais alto) daquela raça. Peixe, Dragão e Anjo têm menos de 25 cartas, então entram **todas**,
+inclusive as de chefes e MVPs (por isso dão mais fichas).
+
+### Tamanhos (3 categorias)
+
+Uma categoria por **tamanho do monstro**: Pequeno, Médio e Grande, cada uma com as **25 cartas dos monstros comuns
+mais fortes** daquele tamanho.
+
+!!! info "Uma carta pode contar em várias categorias"
+    A mesma carta pode completar ao mesmo tempo o elemento, Cartas Raras, a raça e o tamanho dela.
+    As cartas de Chefes e de MVPs não entram nos elementos (só nos grupos delas e em Peixe, Dragão e Anjo).
 
 ### Todas as categorias e prêmios
 
@@ -108,6 +120,19 @@ As cartas dos **MVPs** que aparecem nos mapas, em duas partes pelo nível: **MVP
 | **Chefes II** | 19 | 76 a 92 | **25 Fichas** |
 | **MVPs I** | 18 | 64 a 80 | **35 Fichas** |
 | **MVPs II** | 18 | 81 a 99 | **45 Fichas** |
+| Raça Bruto | 25 | 51 a 108 | 12 Fichas |
+| Raça Demônio | 25 | 60 a 91 | 13 Fichas |
+| Raça Humanoide | 25 | 61 a 92 | 13 Fichas |
+| Raça Amorfo | 25 | 56 a 83 | 12 Fichas |
+| Raça Inseto | 25 | 21 a 110 | 10 Fichas |
+| Raça Morto-Vivo | 25 | 30 a 77 | 11 Fichas |
+| Raça Planta | 25 | 10 a 57 | 8 Fichas |
+| Raça Peixe | 19 | 5 a 61 | 8 Fichas |
+| Raça Dragão | 16 | 42 a 90 | 15 Fichas |
+| Raça Anjo | 9 | 20 a 99 | 16 Fichas |
+| Tamanho Pequeno | 25 | 50 a 105 | 12 Fichas |
+| Tamanho Médio | 25 | 73 a 110 | 15 Fichas |
+| Tamanho Grande | 25 | 63 a 83 | 13 Fichas |
 
 Quais cartas estão em cada categoria (e qual monstro dropa cada uma): [Categorias da Galeria](galeria-categorias.md).
 
@@ -126,9 +151,9 @@ A cada **5 níveis** ganha **3 Fichas**:
 | 30 | 300 | 3 Fichas |
 | 35 | 350 | 3 Fichas |
 | 40 | 400 | 3 Fichas |
-| Álbum completo | 437 | **50 Fichas** + aviso no servidor |
+| Álbum completo | 437 (todas) | **500 Fichas** + aviso no servidor |
 
-Somando tudo (todas as categorias, todos os níveis e o álbum completo) a Galeria dá **354 Fichas** por conta.
+Somando tudo (todas as categorias, todos os níveis e o álbum completo) a Galeria dá **962 Fichas** por conta. A Galeria foi feita para durar: completar tudo leva muito tempo.
 
 ## A janela do álbum
 
@@ -142,7 +167,7 @@ No menu:
 | Opção | O que mostra |
 |---|---|
 | **Resgatar** | Só aparece quando há prêmio. Entrega todas as fichas de uma vez |
-| **Elementos**, **Cartas Raras**, **Chefes**, **MVPs** | Quantas cartas você tem no grupo. Ao entrar, a lista das categorias com o progresso (ex.: `Terra I - 12/25 - 5 Fichas`), "completa!" ou "resgatada" |
+| **Elementos**, **Cartas Raras**, **Chefes**, **MVPs**, **Raças**, **Tamanhos** | Quantas cartas você tem no grupo. Ao entrar, a lista das categorias com o progresso (ex.: `Terra I - 12/25 - 5 Fichas`), "completa!" ou "resgatada" |
 | **Nível da Galeria** | Seu nível e em quantas cartas sai o próximo prêmio |
 | **Prêmios de cada categoria** | Quantas fichas dá cada categoria, o nível e o álbum completo |
 | **Como funciona** | O resumo das regras |
@@ -154,23 +179,25 @@ que **faltam** aparecem em **cinza**, com o nome do monstro que dropa a carta.
 
 - Cada categoria dá o prêmio **uma vez por conta**. Depois de resgatada ela fica marcada como "resgatada".
 - As fichas vão para o personagem que fez o resgate. Precisa ter **espaço no inventário** (as fichas não pesam).
-- Quem completa **Cartas Raras**, **Chefes** ou **MVPs**, e quem completa **o álbum inteiro**, é anunciado no servidor.
+- Quem completa uma categoria que não é de elemento (Raras, Chefes, MVPs, raças e tamanhos), e quem completa **o álbum inteiro**, é anunciado no servidor.
 
 ## Loja de Fichas (Curadora da Galeria)
 
 | Item | Fichas |
 |---|---|
-| Caixa Misteriosa | 3 |
-| Velho Álbum de Cartas | 6 |
-| Caixa de 100 Bandeiras | 8 |
-| Bênção do Ferreiro | 12 |
-| Caixa Misteriosa Rara | 20 |
-| Álbum de Cartas Lendário | 35 |
-| Ovo Lendário | 40 |
-| Cupom de Cor Infinito | 45 |
-| Pergaminho de Refino de Arma +10 | 60 |
-| Pergaminho de Refino de Equipamento +10 | 60 |
-| Visual da Fortuna | 150 |
+| Caixa Misteriosa | 8 |
+| Velho Álbum de Cartas | 15 |
+| Caixa de 100 Bandeiras | 20 |
+| Bênção do Ferreiro | 30 |
+| Caixa Misteriosa Rara | 60 |
+| Álbum de Cartas Lendário | 100 |
+| Ovo Lendário | 120 |
+| Cupom de Cor Infinito | 130 |
+| Pergaminho de Refino de Arma +10 | 180 |
+| Pergaminho de Refino de Equipamento +10 | 180 |
+| Visual da Fortuna | 450 |
+
+Os itens da loja são **renovados de tempos em tempos** pela equipe: guarde fichas para as novidades.
 
 As **Fichas da Galeria** podem ser trocadas entre jogadores, guardadas no armazém e vendidas em loja de jogador.
 
