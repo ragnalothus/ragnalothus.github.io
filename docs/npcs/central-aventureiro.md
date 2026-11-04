@@ -1,6 +1,6 @@
 # :office: Central do Aventureiro
 
-Um centro com as missões, os serviços, as armas lendárias e os NPCs dos eventos. Para entrar, fale com o NPC
+Um centro com as missões, os serviços, as armas lendárias e o Caçador de Cogumelos. Para entrar, fale com o NPC
 **Central do Aventureiro** em Prontera (160,178, com o balão em cima). Para voltar, saia pela porta de baixo:
 você aparece em Prontera, ao lado do NPC.
 
@@ -38,9 +38,8 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 | ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 62,54 | **Evento de Lançamento** | Troca as Moedas de Lançamento. [Lançamento](../eventos/lancamento-e-streamers.md) |
 | ![](../assets/npcs/4_f_zondagirl.png){ loading=lazy } | 65,54 | **Parceria de Streamers** | Inscrição de streamers. [Streamers](../eventos/lancamento-e-streamers.md#parceria-de-streamers) |
 
-## Eventos (parede da direita)
+## Evento (parede da direita)
 
 | | Posição | NPC | O que faz |
 |---|---|---|---|
 | ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 68,43 | **Caçador de Cogumelos** | Diz onde está a Caça ao Cogumelo. [Eventos automáticos](../eventos/automaticos.md#caca-ao-cogumelo) |
-| ![](../assets/npcs/4_m_job_wizard.png){ loading=lazy } | 68,46 | **Disfarce** | Evento Disfarce nas horas ímpares. [Eventos automáticos](../eventos/automaticos.md#disfarce) |

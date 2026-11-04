@@ -24,7 +24,7 @@ PvP de **todos contra todos** numa arena em espiral: o último que ficar de pé 
 1. Nos 5 minutos antes (9h55, 12h55, 15h55, 18h55 e 21h55), digite **`@evento`** para se inscrever (precisa de pelo menos 3 jogadores).
 2. Na hora, cada um aparece num ponto diferente da arena. Você tem **10 segundos** para se preparar, depois o PvP começa.
 3. Grupo e guilda não protegem: todo mundo é inimigo. Não dá para sair da arena nem usar teleporte, e a morte **não tira EXP**.
-4. Cada abate dá **3 Bandeiras** na hora. Quem morre está fora e volta para onde estava.
+4. Cada abate dá **3 Bandeiras** na hora. **Quem morre sai do evento:** volta vivo para onde estava antes de entrar.
 5. A partir do 2º minuto, o **radar** mostra a cada minuto onde estão os jogadores vivos.
 6. O PvP dura até **10 minutos**. Se o tempo acabar com mais de um vivo, ganha quem tem mais abates (se empatar, ninguém ganha).
 
@@ -37,7 +37,7 @@ PvP de **todos contra todos** numa arena em espiral: o último que ficar de pé 
 
 ![](../assets/npcs/4_m_job_wizard.png){ align=right loading=lazy }
 
-O NPC **Disfarce**, na [Central do Aventureiro](../npcs/central-aventureiro.md), vira um monstro aleatório, 10 vezes seguidas.
+O NPC **Disfarce** (Prontera 150,172) vira um monstro aleatório, 10 vezes seguidas.
 **Grite o nome do monstro no chat perto do NPC.** Quem acertar primeiro ganha 5 Moedas de Loki. Cada rodada dura até 60 segundos.
 O nome é o que aparece no jogo quando você vê o monstro (ex.: `Poring`, `Drops`, `Lunatic`).
 

@@ -4,7 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
-- :office: **Central do Aventureiro:** as missões, os serviços, as armas lendárias e os NPCs dos eventos saíram de Prontera e foram para um centro novo. Fale com o NPC **Central do Aventureiro** em Prontera (160,178) para ir até lá. [Central do Aventureiro](npcs/central-aventureiro.md)
+- :office: **Central do Aventureiro:** as missões, os serviços, as armas lendárias e o Caçador de Cogumelos saíram de Prontera e foram para um centro novo. Fale com o NPC **Central do Aventureiro** em Prontera (160,178) para ir até lá. [Central do Aventureiro](npcs/central-aventureiro.md)
 - :crossed_swords: **Resta 1:** PvP todos contra todos às 10h, 13h, 16h, 19h e 22h, com `@evento`. O último vivo ganha 100 Bandeiras, 75 Moedas de Loki, 20 Moedas Douradas e 1 Caixa Misteriosa; cada abate dá 3 Bandeiras. [Eventos automáticos](eventos/automaticos.md#resta-1)
 - :alarm_clock: **Horário dos eventos:** nenhum evento automático acontece antes das 9h nem depois das 22h. Os eventos com inscrição (Resta 1, Dados, Bombring, Pique-pega, Quiz, Cristais e Invasão) são avisados minuto a minuto nos 5 minutos antes, e a inscrição fica aberta durante o aviso. O Evento dos Cristais das 22h passou para as 21h. [Eventos automáticos](eventos/automaticos.md)
 - :ticket: As loterias avisam meia hora antes do sorteio. [Loteria](sistemas/rankings-e-loteria.md#loterias)

@@ -1,6 +1,6 @@
 # :european_castle: NPCs de Prontera
 
-Prontera ficou só com os NPCs do dia a dia. As missões, os serviços, as armas lendárias e os NPCs dos eventos estão na
+Prontera ficou só com os NPCs do dia a dia. As missões, os serviços, as armas lendárias e o Caçador de Cogumelos estão na
 [Central do Aventureiro](central-aventureiro.md): fale com o NPC **Central do Aventureiro** (160,178) para ir até lá.
 
 ## Perto da fonte
@@ -24,6 +24,7 @@ Prontera ficou só com os NPCs do dia a dia. As missões, os serviços, as armas
 | | Posição | NPC | O que faz |
 |---|---|---|---|
 | ![](../assets/npcs/4_m_01.png){ loading=lazy } | 140,178 | **Banqueiro** | Banco de zeny da conta (também abre com `Ctrl+B`). [Serviços](../sistemas/servicos.md#banqueiro) |
+| ![](../assets/npcs/4_m_job_wizard.png){ loading=lazy } | 150,172 | **Disfarce** | Evento Disfarce nas horas ímpares. [Eventos automáticos](../eventos/automaticos.md#disfarce) |
 | ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 148,176 | **Guia dos Cristais** | Leva até o Guarda do [Evento dos Cristais](../eventos/cristais.md) |
 | ![](../assets/npcs/4_f_zondagirl.png){ loading=lazy } | 156,178 | **Sala VIP** | Entrada da [Sala VIP](sala-vip.md) (só VIP) |
 | | 160,178 | **Central do Aventureiro** | Leva para a [Central do Aventureiro](central-aventureiro.md) |
