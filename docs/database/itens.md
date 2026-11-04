@@ -870,7 +870,7 @@ Peso como no jogo (o 10 do servidor é 1 no jogo).
 | ![](../assets/itens/1641.png){ loading=lazy } | 1641 | Varinha Gloriosa de Cura | Arma | 0 |
 | ![](../assets/itens/1642.png){ loading=lazy } | 1642 | Staff Of Darkness | Arma | 0 |
 | ![](../assets/itens/1643.png){ loading=lazy } | 1643 | Cajado da Árvore Morta | Arma | 10 |
-| ![](../assets/itens/1644.png){ loading=lazy } | 1644 | Staff of Piercing | Arma | 50 |
+| ![](../assets/itens/1644.png){ loading=lazy } | 1644 | Cajado Perfurante | Arma | 50 |
 | ![](../assets/itens/1645.png){ loading=lazy } | 1645 | Lich's Bone Wand [2] | Arma | 80 |
 | ![](../assets/itens/1646.png){ loading=lazy } | 1646 | Bastão de Lágrimas [2] | Arma | 50 |
 | ![](../assets/itens/1647.png){ loading=lazy } | 1647 | Cajado da Cruz [1] | Arma | 50 |
@@ -2513,7 +2513,7 @@ Peso como no jogo (o 10 do servidor é 1 no jogo).
 |  | 5385 | Chapéu de Yoyo | Equipamento | 30 |
 | ![](../assets/itens/5386.png){ loading=lazy } | 5386 | Ayam | Equipamento | 7 |
 | ![](../assets/itens/5387.png){ loading=lazy } | 5387 | Tiara de Kafra Gatinha [1] | Equipamento | 20 |
-|  | 5388 | Chapéu de Jiboia [1] | Equipamento | 20 |
+|  | 5388 | Chapéu de Jiboia | Equipamento | 20 |
 | ![](../assets/itens/5389.png){ loading=lazy } | 5389 | Espírito Olímpico | Equipamento | 20 |
 | ![](../assets/itens/5390.png){ loading=lazy } | 5390 | Gorro Natalino de Gelo | Equipamento | 10 |
 | ![](../assets/itens/5391.png){ loading=lazy } | 5391 | Crunch Toast | Equipamento | 0 |

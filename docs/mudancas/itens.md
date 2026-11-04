@@ -2,6 +2,81 @@
 
 Todos os itens do servidor estão na [Database de itens](../database/itens.md).
 
+## Itens que mudaram como no UaRO
+
+Mudanças trazidas do UaRO para os itens que existem no nosso servidor (pré-renovação).
+
+### Armas
+
+| | Item | Mudança |
+|---|---|---|
+| ![](../assets/itens/13414.png) | Espada Elemental [3] | As Lanças de Gelo automáticas só saem da espada na **mão direita**; com duas espadas, a chance não soma |
+| ![](../assets/itens/1282.png) | Jamadhar Glorioso | Não ignora mais 20% da defesa de humanoides; no lugar, **dano crítico +20%** |
+| ![](../assets/itens/1624.png) | Cajado do Feiticeiro (Osso de Lich) | **Espiritualista** também equipa |
+| ![](../assets/itens/1644.png) | Cajado Perfurante | **Espiritualista** também equipa |
+| ![](../assets/itens/1636.png) | Cajado de Espinhos da Escuridão | **Espiritualista** também equipa |
+| ![](../assets/itens/1723.png) | Arco de Luna | DEF +2, **+3** a partir do +6 e **+5** a partir do +9 (era 2/5/7) |
+| ![](../assets/itens/1384.png) | Machado Veterano | ATQ +10 por habilidade de forja no **nível 2 ou mais** (antes só no 3) |
+| ![](../assets/itens/1625.png) | Cajado de Cura | Também cai da **Margaretha Sorin** (Laboratório de Biologia) |
+| ![](../assets/itens/1311.png) | Machado Vecer [2] | Agora cai do **Majoruros** |
+| ![](../assets/itens/1460.png) | Tridente [2] | Saiu das lojas de armas (Prontera, Comodo, Einbroch e Sala VIP). Cai do Merman e pode ser forjado. Um Tridente +10 vira [Lança Gigante](../sistemas/servicos.md#forjador-de-armas) |
+| | Soqueiras | Dano em tamanho **pequeno 100%, médio 100% e grande 75%** (era 100/75/50) |
+
+### Equipamentos
+
+| | Item | Mudança |
+|---|---|---|
+| ![](../assets/itens/22006.png) | Botas Temporais | Versão do UaRO, veja [abaixo](#botas-temporais) |
+| ![](../assets/itens/5283.png) | Chapéu de Pintinho | Também reduz em 3% o dano de monstros **Brutos** |
+| | Máscara da Morte (Coroa da Mentira) | **INT +3** (era 4). Agora cai do **Bispo Decadente** |
+| ![](../assets/itens/5340.png) | Boneca de Denise | Sem o FOR +2 |
+| ![](../assets/itens/5341.png) | Boneca de Sofia | Sem o INT +2 |
+| ![](../assets/itens/5356.png) | Chapéu de Abóbora do Festival | **Todos os atributos +3**; dano físico **e mágico** +5% contra Demônio; -5% de dano de Demônio |
+| ![](../assets/itens/5182.png) | Chapéu de Cachorrinho | Com 77 ou mais de AGI base, a Glória automática sai com **5%** (era 3%) |
+| ![](../assets/itens/5529.png) | Elmo do Rei Youkai | Nível necessário **1** (era 70) |
+| | Chapéu de Jiboia (Cabeça de Cobra) | Sem slot. Agora cai do **Senhor das Serpentes** |
+| ![](../assets/itens/2720.png) | Medalha de Honra | **Taekwon** também equipa |
+| ![](../assets/itens/18505.png) | Piercing de Umbala | HP máximo +1% (no lugar de VIT +1); Carne recupera +25%; 1% de chance de ganhar Carne ao derrotar monstros |
+| ![](../assets/itens/18656.png) | Poderoso Chapéu de Bruxa | DEF **1** (era 10) |
+
+### Itens que agora caem de monstros
+
+Chance antes das rates do servidor (no jogo, multiplique pela rate de drop: 9x na semana, 12x no fim de semana; MVPs 5x e 9x).
+
+| | Item | Monstro | Chance |
+|---|---|---|---|
+| ![](../assets/itens/5481.png) | Chapéu de Hermod [1] | Algoz Eremes (Laboratório de Biologia) | 3% |
+| ![](../assets/itens/5389.png) | Espírito Angelical | Valquíria Randgris | 0,45% |
+| ![](../assets/itens/5325.png) | Olhos Biônicos | Vesper | 0,42% |
+| ![](../assets/itens/1625.png) | Cajado de Cura | Margaretha Sorin | 0,2% |
+| | | Anubis | 0,07% (era 0,1%) |
+| | Máscara da Morte (Coroa da Mentira) [1] | Bispo Decadente | 1,2% |
+| ![](../assets/itens/5592.png) | Asas de Sigrun | Grifo | 0,18% |
+| | Chapéu de Jiboia | Senhor das Serpentes | 0,18% |
+| ![](../assets/itens/1311.png) | Machado Vecer [2] | Majoruros | 0,04% |
+| ![](../assets/itens/2790.png) | Broche de Bradium [1] | Golem de Bradium | 0,01% |
+| ![](../assets/itens/5509.png) | Chapéu de Sting | Sting | 0,01% |
+
+### Cartas
+
+| | Carta | Mudança |
+|---|---|---|
+| ![](../assets/itens/4131.png) | Carta Flor do Luar | Velocidade de movimento **+40%** (era 25%) |
+| ![](../assets/itens/4206.png) | Carta Presente (Caixa Misteriosa) | Caixa de Presente com **2,25%** (era 0,3%) |
+| ![](../assets/itens/4230.png) | Carta Shinobi | A Furtividade automática **não funciona** com o conjunto das cartas de Gatuno equipado |
+| ![](../assets/itens/4299.png) | Carta Relógio | Quando o Bloqueio sai de novo com ele já ativo, o tempo **renova** (antes desligava) |
+
+### Consumíveis e outros
+
+| | Item | Mudança |
+|---|---|---|
+| ![](../assets/itens/601.png) | Asas de Mosca (normal, de Iniciante e Ilimitada) | Funcionam durante a **Fúria (Berserk)** |
+| ![](../assets/itens/613.png) | Martelos de forja e kits de culinária | Só são gastos quando você **tenta criar** (abrir e fechar a janela não gasta mais) |
+| ![](../assets/itens/12214.png) | Espelho Convexo | Uma vez a cada **60 minutos** |
+| ![](../assets/itens/7621.png) | Amuleto de Siegfried | Ressuscita **uma vez a cada 15 minutos** |
+| ![](../assets/itens/997.png) | Natureza Grandiosa | Não pode ser enviada pelo correio |
+| | Todos os itens | Intervalo entre usos de itens de **0,05 s** (era 0,1 s) |
+
 ## Mudanças de 03/11
 
 | | Item | Mudança |
@@ -82,7 +157,17 @@ DEF 11 (era 1).
 
 ### Botas Temporais
 
-Botas de FOR, AGI, VIT, INT, DES e SOR, com slot, DEF 4, só para transclasse. Vêm do [Trocador de Bandeiras](../servidor/moedas.md#bandeira).
+Botas de FOR, AGI, VIT, INT, DES e SOR, com slot, só para transclasse. Vêm do [Trocador de Bandeiras](../servidor/moedas.md#bandeira).
+Todas dão HP máximo +300 e SP máximo +30, e mais HP +100 e SP +10 a cada 3 refinos (versão do UaRO):
+
+| Bota | A cada 3 refinos | Com o atributo base alto |
+|---|---|---|
+| FOR | FOR +1 | FOR 90+: dano físico +5% |
+| AGI | Velocidade de ataque +3% | AGI 90+: velocidade de ataque +3% |
+| VIT | HP +200 (no lugar de +100) e HP +4% (base HP +500) | VIT 75+: HP +10% |
+| INT | INT +1 e DES +1 | INT 90+: ATQM +5% |
+| DES | DES +1 | DES 90+: dano a distância +5% |
+| SOR | Dano crítico +5% | SOR 50+: dano crítico +10%; SOR 70+: dano crítico +15% e DEFM +5 |
 
 ### Arco dos Orcs [3]
 

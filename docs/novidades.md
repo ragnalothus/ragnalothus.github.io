@@ -2,6 +2,16 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
+## 03/11/2026 (itens do UaRO)
+
+- :shield: **Itens como no UaRO:** Espada Elemental, Jamadhar Glorioso, cajados para Espiritualista, Arco de Luna, Machado Veterano, chapéus, Piercing de Umbala, Medalha de Honra para Taekwon, Botas Temporais novas e mais. [Itens](mudancas/itens.md#itens-que-mudaram-como-no-uaro)
+- :boar: **Novos drops:** Chapéu de Hermod, Broche de Bradium, Asas de Sigrun, Chapéu de Sting, Espírito Angelical, Olhos Biônicos, Máscara da Morte, Chapéu de Jiboia, Machado Vecer e Cajado de Cura. [Itens](mudancas/itens.md#itens-que-agora-caem-de-monstros)
+- :black_joker: **Cartas:** Flor do Luar +40% de velocidade, Carta Presente 2,25%, Shinobi e Relógio ajustadas. [Itens](mudancas/itens.md#cartas)
+- :fist: **Soqueiras** com menos penalidade de tamanho (100/100/75).
+- :hammer: **Martelos e kits de culinária** só são gastos ao tentar criar; **Asas de Mosca** funcionam na Fúria; Amuleto de Siegfried a cada 15 min; Espelho Convexo a cada 60 min.
+- :crossed_swords: Tridente saiu das lojas de armas.
+- :wrench: **Correções:** o Evento dos Cristais voltou a começar normalmente; a Caixa Lendária de Armamento fica guardada para quem ainda não renasceu; Violão e Chicote lendários só para o Menestrel e a Cigana, respectivamente.
+
 ## 03/11/2026 (Fase 5)
 
 - :crossed_swords: **Armas lendárias:** uma para cada classe, na Caixa Lendária de Armamento e na Forja Lendária (só Ferreiros). [Armas lendárias](mudancas/armas-lendarias.md)

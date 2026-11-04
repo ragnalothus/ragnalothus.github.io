@@ -4,7 +4,7 @@ Uma **arma lendária** para cada classe. Todas têm **2 slots**, nível da arma 
 
 ## Como conseguir
 
-- ![](../assets/itens/60046.png) **Caixa Lendária de Armamento:** dá a arma da sua classe. Quem ainda não tem uma das classes abaixo escolhe a arma.
+- ![](../assets/itens/60046.png) **Caixa Lendária de Armamento:** dá a arma da sua classe. Quem é de 2ª classe e ainda não renasceu fica com a caixa (abra depois de renascer). As outras classes escolhem a arma.
   Vem da Caixa Misteriosa Rara (0,1%), do Trocador de Bandeiras (20.000), do Gerente de Moedas Douradas (5.000) e do Organizador do Lançamento (1.500 Moedas de Lançamento).
 - :hammer: **Forja Lendária** (Prontera 184,178): só **Ferreiro** ou **Mestre-Ferreiro** forja, qualquer arma da lista.
 
