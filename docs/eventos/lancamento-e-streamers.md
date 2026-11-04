@@ -21,3 +21,4 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 | Visual da Fortuna | 300 |
 | Pergaminho de Refino de Arma +10 | 400 |
 | Pergaminho de Refino de Equipamento +10 | 400 |
+| [Caixa de Visuais](../sistemas/visuais.md) (1 visual exclusivo aleatório) | 100 |

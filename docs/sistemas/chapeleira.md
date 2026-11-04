@@ -21,5 +21,5 @@ Se o chapéu que você quer não está na lista, peça pela Chapeleira ("Pedir u
 
 ## Visuais Limitados
 
-Os mesmos visuais aparecem na aba **Limited** da loja de cash: 9 por semana, trocando toda segunda às 20h.
+A aba **Limited** da loja de cash agora vende os [Visuais exclusivos](visuais.md) (9 por semana, trocando toda segunda às 20h), não os visuais da Chapeleira.
 [Loja de cash](../servidor/loja-cash.md#visuais-limitados-aba-limited)
