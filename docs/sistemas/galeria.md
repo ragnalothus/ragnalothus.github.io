@@ -201,6 +201,21 @@ Os itens da loja são **renovados de tempos em tempos** pela equipe: guarde fich
 
 As **Fichas da Galeria** podem ser trocadas entre jogadores, guardadas no armazém e vendidas em loja de jogador.
 
+## Regras
+
+!!! danger "Burlar a Galeria dá ban"
+    Quem for pego tentando burlar a Galeria **de qualquer forma** (passar cartas entre contas para completar
+    categorias, usar bugs, combinar trocas para ganhar fichas sem conseguir as cartas) **leva ban**.
+
+### Reset do álbum (em breve)
+
+No futuro, a equipe vai liberar a opção de cada jogador **recomeçar o próprio álbum** (para juntar as cartas e
+ganhar os prêmios de novo) ou continuar com o atual. Quando isso existir, depois do reset:
+
+- **não contam** cartas tiradas do **armazém**;
+- **não contam** cartas recebidas por **troca entre jogadores**;
+- **contam** cartas que caírem de monstros e cartas **compradas em loja de jogador (mercador) por pelo menos 200.000 zeny**.
+
 ## Perguntas frequentes
 
 **Vendi a carta. Ela sai do álbum?**

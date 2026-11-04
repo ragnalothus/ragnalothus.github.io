@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :no_entry: **Galeria de Cartas:** quem for pego tentando burlar a Galeria de qualquer forma leva ban. Também já estão na página as regras do futuro reset do álbum. [Galeria de Cartas](sistemas/galeria.md#regras)
 - :card_index: **Galeria de Cartas:** 13 categorias novas, uma por **raça** (10) e por **tamanho** (3) do monstro, agora são 35. O **álbum completo** (todas as 437 cartas) passa a dar **500 Fichas**, e os itens da loja da Curadora ficaram mais caros (a Galeria é para durar). [Galeria de Cartas](sistemas/galeria.md)
 - :card_index: **Galeria de Cartas:** a Curadora e o álbum agora mostram quantas fichas dá cada categoria, o Nível da Galeria (1 nível a cada 10 cartas, 3 Fichas a cada 5 níveis) e o prêmio do álbum completo (50 Fichas). A página da Galeria na wiki ficou bem mais completa. [Galeria de Cartas](sistemas/galeria.md)
 - :card_index: **Galeria de Cartas:** toda carta que você consegue (drop, loja, troca, correio, armazém) entra no álbum da sua conta para sempre, mesmo se vender depois. 22 categorias (elementos, Cartas Raras, Chefes e MVPs); categoria completa dá **Fichas da Galeria**, trocadas com a **Curadora da Galeria** na Central do Aventureiro. Abra com `@galeria`. [Galeria de Cartas](sistemas/galeria.md)
