@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :mag: **`@whosell` e `@ws` sozinhos** agora abrem a janela de **Busca de Lojas** do jogo (procura quem vende ou compra em todos os mapas). Escrevendo o item depois (`@ws <item>`), e no `@ws2`, a lista continua aparecendo no chat. [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
 - :package: **Combate dos Cubos:** a névoa venenosa fecha **mais rápido** (chega nas largadas em uns 2 minutos e meio e fecha tudo em uns 4 minutos e meio). O número de cubos de cada jogador voltou a aparecer ao passar o mouse, e a contagem de posição e de jogadores vivos continua na tela. [Combate dos Cubos](eventos/combate-dos-cubos.md)
 - :package: **Combate dos Cubos:** agora dá para ver a névoa venenosa: uma **linha roxa no chão** marca a borda e vai fechando junto com ela, a **tela escurece** enquanto você está dentro dela, e a borda da área livre aparece no **minimapa** com marcas roxas. [Combate dos Cubos](eventos/combate-dos-cubos.md#a-nevoa-venenosa)
 - :pray: **Curandeira de Prontera:** Aumentar Agilidade e Bênção agora duram **30 minutos**. [Prontera](npcs/prontera.md)
