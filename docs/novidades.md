@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :hourglass: **Presença:** a cada Moeda Dourada de presença o chat mostra há quanto tempo você está online e quantas moedas de presença ganhou nesta sessão (zera ao sair do jogo). Também no `@pontos`. [Moedas](servidor/moedas.md)
 - :black_joker: **Cartas sempre 1%:** o bônus de cartas a 2% do fim de semana saiu. EXP e drop do fim de semana continuam. [Rates](servidor/rates.md)
 - :zap: **ASPD máxima 193.** [Rates](servidor/rates.md#aspd-maxima)
 - :busts_in_silhouette: **Drop para o grupo todo** também na **Torre MVP** e na **Torre sem Fim**: cada item que cai vai para todos do grupo que estão lá. Em mapa normal não. [MVPs](sistemas/mvps.md#mvp-em-grupo)

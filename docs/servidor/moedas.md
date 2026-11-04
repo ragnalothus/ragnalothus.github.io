@@ -33,7 +33,7 @@ A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Asa de Mosca
 
 ## ![](../assets/itens/60013.png) Moeda Dourada
 
-- **Presença:** 1 moeda a cada 6 minutos online (10 por hora). Não conta quem está parado há 5 minutos, com loja aberta (inclusive `@autotrade`) ou em chat.
+- **Presença:** 1 moeda a cada 6 minutos online (10 por hora). Não conta quem está parado há 5 minutos, com loja aberta (inclusive `@autotrade`) ou em chat. A cada moeda o chat mostra **há quanto tempo você está online** e **quantas moedas de presença ganhou** nesta sessão (volta do zero quando você sai do jogo). O `@pontos` também mostra.
 - **MVP:** 15 moedas para quem mata um MVP.
 - Também vem do [Quiz](../eventos/quiz.md), da [Torre MVP](../sistemas/mvps.md#torre-mvp) e da [Arena Lothus](../eventos/arena-lothus.md).
 - `@pontos` mostra quantas você tem.
