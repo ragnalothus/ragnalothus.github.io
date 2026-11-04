@@ -19,7 +19,7 @@ O objetivo é **ficar no top 3**: quebre os baús, junte **Cubos de Poder** para
 
 - Os **baús** (sem nome) estão sempre nos mesmos lugares. Todo golpe tira só 1 de vida do baú, então **qualquer classe quebra um baú com 12 golpes**.
 - Cada baú quebrado solta 1 **Cubo de Poder** no chão. É só pegar.
-- **Cada cubo dá +10% de HP máximo** (e cura esse tanto na hora) **e +10% de dano**, físico e mágico, até o fim do combate.
+- **Cada cubo dá +10% de HP máximo** (e cura esse tanto na hora) **e +5% de dano**, físico e mágico, até o fim do combate.
 - Quem cai **solta todos os cubos** que tinha, no lugar onde caiu.
 
 ## Ver a força dos outros
@@ -40,7 +40,7 @@ O número muda na hora, sempre que alguém pega um cubo, e todo mundo da sala re
 
 - Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 5 segundos**. A borda da névoa aparece como uma **fumaça** no chão: não passe dela.
 - Por volta dos **3 minutos e meio** ela chega nas largadas; por volta dos **6 minutos e meio** só sobra uma roda pequena no meio.
-- Quem fica na névoa perde **3% do HP máximo a cada 2 segundos**, e o veneno fica um pouco mais forte a cada minuto (até 10%).
+- Quem fica na névoa perde **5% do HP máximo a cada 2 segundos**, e o veneno fica mais forte a cada minuto (até 20%).
 - O combate dura no máximo **8 minutos**. Se o tempo acabar com mais de um vivo, vence quem tem **mais cubos** (empate: mais abates).
 
 ## Prêmios (por sala)
