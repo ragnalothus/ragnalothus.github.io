@@ -2,15 +2,16 @@
 
 ![](../assets/npcs/4_treasure_box.png){ align=right loading=lazy }
 
-Evento de sobrevivência, todos contra todos, numa arena no centro da cidade de **Doubrius**.
-Quebre os baús, junte **Cubos de Poder** para ficar mais forte e seja o último de pé antes que a **névoa venenosa** feche o mapa.
+**Evento de sobrevivência**, todos contra todos, numa arena no centro da cidade de **Doubrius**.
+O objetivo é **ficar no top 3**: quebre os baús, junte **Cubos de Poder** para ficar mais forte e aguente o máximo que puder antes que a **névoa venenosa** feche o mapa.
 
 ## Quando e como entrar
 
 - **Horário:** às **19h30** de **terça, quinta, sexta e domingo** (veja a [agenda da noite](automaticos.md#a-noite-19h-as-22h)).
 - **Inscrição:** nos 5 minutos antes, o servidor avisa minuto a minuto. Digite `@evento` ou fale com o NPC **Combate dos Cubos** na [Central do Aventureiro](../npcs/central-aventureiro.md) (parede da direita).
 - Precisa de pelo menos **2 jogadores**. Cada sala tem **até 10**: com mais gente, abrem mais salas ao mesmo tempo, e cada sala tem o seu vencedor.
-- Você entra com o seu personagem e o seu equipamento, e volta para onde estava quando sair.
+- Você entra com o seu personagem e o seu equipamento. Quando cai (ou quando o combate acaba), vai **direto para Prontera**.
+- :no_entry: **Aprendiz e Super Aprendiz não participam** (por causa da habilidade Fingir de Morto).
 
 ## Os baús e os Cubos de Poder
 
@@ -23,27 +24,28 @@ Quebre os baús, junte **Cubos de Poder** para ficar mais forte e seja o último
 
 ## Ver a força dos outros
 
-Em cima da cabeça de cada jogador aparece um **emblema com o número de cubos** que ele tem. Ao passar o mouse sobre o jogador, aparece também o nome "N Cubos".
+**Passe o mouse em cima de um jogador** para ver quantos cubos ele tem (aparece "N Cubos" no nome).
 O número muda na hora, sempre que alguém pega um cubo, e todo mundo da sala recebe um aviso.
-
-![Emblemas do Combate dos Cubos](../assets/combate_emblemas.png)
 
 ## A arena
 
 ![Arena do Combate dos Cubos](../assets/combate_arena.png)
 
-- :large_blue_circle: **Largadas (azul):** 10 lugares fixos, todos à **mesma distância andando** do centro. Cada largada tem **2 baús só dela** por perto (:green_square: verde).
-- :red_circle: **Centro (vermelho):** **10 baús juntos**. Vale muito, mas todo mundo vai querer.
+- :large_blue_circle: **Largadas (azul):** 10 lugares fixos, todos à **mesma distância andando** do centro.
+- :green_square: **Baús (verde):** cada largada tem 1 ou 2 baús **no caminho para o centro**, um pouco longe de onde você nasce. Fique atento: no caminho você pode cruzar com um vizinho.
+- :red_circle: **Centro (vermelho):** **10 baús bem juntos**. Vale muito, mas todo mundo vai querer, e a briga é certa.
 - O centro aparece marcado no seu minimapa durante o combate.
 
 ## A névoa venenosa
 
-- Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 5 segundos**.
+- Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 5 segundos**. A borda da névoa aparece como uma **fumaça** no chão: não passe dela.
 - Por volta dos **3 minutos e meio** ela chega nas largadas; por volta dos **6 minutos e meio** só sobra uma roda pequena no meio.
-- Quem fica na névoa perde **5% do HP máximo a cada 2 segundos**, e o veneno fica mais forte a cada minuto (até 20%).
+- Quem fica na névoa perde **3% do HP máximo a cada 2 segundos**, e o veneno fica um pouco mais forte a cada minuto (até 10%).
 - O combate dura no máximo **8 minutos**. Se o tempo acabar com mais de um vivo, vence quem tem **mais cubos** (empate: mais abates).
 
-## Prêmios (por sala, pelo correio)
+## Prêmios (por sala)
+
+O prêmio chega **assim que você aparece em Prontera**: o 3º e o 2º recebem ao cair, e o vencedor (o último de pé) é levado para Prontera e recebe na hora. Se estiver sem peso livre, o prêmio vai pelo correio.
 
 | Colocação | Prêmio |
 |---|---|
