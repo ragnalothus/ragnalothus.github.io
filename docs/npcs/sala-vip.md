@@ -7,7 +7,7 @@ A saída para Prontera fica embaixo (30,10).
 
 | Posição | NPC | O que faz |
 |---|---|---|
-| 31,31 | **Curandeira VIP** | Cura, conserta e dá buffs de 1 hora (Agi 10, Bênção 10, Kyrie 10, Impositio 5, Magnificat 5) |
+| 31,31 | **Curandeira VIP** | Cura, conserta e dá buffs de 1 hora (Agi 10, Bênção 10, Kyrie 10 com 15 golpes, Impositio 5, Magnificat 5) |
 | 35,18 | **Teleportadora VIP** | Qualquer andar de 35 cavernas, grátis, em ponto aleatório; cidades; especiais |
 | 26,24 | **Kafra VIP** | Armazém, carrinho, falcão, Peco Peco; grava o retorno na Sala VIP |
 | 40,20 | **Guardiã dos MVPs** | 2 MVPs + 2 minibosses por dia. [MVPs](../sistemas/mvps.md#sala-de-mvp) |
