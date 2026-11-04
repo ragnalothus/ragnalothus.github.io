@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :package: **Combate dos Cubos:** agora dá para ver a névoa venenosa: a **tela escurece** enquanto você está dentro dela, e a borda da área livre aparece no **minimapa** com marcas roxas. [Combate dos Cubos](eventos/combate-dos-cubos.md#a-nevoa-venenosa)
 - :pray: **Curandeira de Prontera:** Aumentar Agilidade e Bênção agora duram **30 minutos**. [Prontera](npcs/prontera.md)
 - :package: **Combate dos Cubos:** a sala vira PvP quando o combate começa, com a contagem de jogadores na tela, e o vencedor agora é levado para Prontera com o prêmio. [Combate dos Cubos](eventos/combate-dos-cubos.md)
 - :package: **Combate dos Cubos (ajustes):** quem cai vai direto para Prontera, e o vencedor também; o 1º, o 2º e o 3º recebem o prêmio na hora, ao chegar. A borda da **névoa venenosa** agora aparece como fumaça no chão. Cada cubo agora dá **+5% de dano** (o HP continua +10%). Os baús de cada largada ficaram um pouco mais longe (no caminho para o centro) e os 10 do meio ficaram mais juntos. **Aprendiz e Super Aprendiz não participam.** Para ver quantos cubos alguém tem, passe o mouse em cima dele. [Combate dos Cubos](eventos/combate-dos-cubos.md)
