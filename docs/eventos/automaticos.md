@@ -22,7 +22,7 @@ O [Quiz](quiz.md), o [Evento dos Cristais](cristais.md) e a [Invasão de Cristai
 PvP de **todos contra todos** numa arena em espiral: o último que ficar de pé ganha.
 
 1. Nos 5 minutos antes (9h55, 12h55, 15h55, 18h55 e 21h55), digite **`@evento`** para se inscrever (precisa de pelo menos 3 jogadores).
-2. Na hora, cada um aparece num ponto diferente da arena. Você tem **10 segundos** para se preparar, depois o PvP começa.
+2. Na hora, cada um aparece num **lugar aleatório** da arena. Não tem limite de jogadores. Você tem **10 segundos** para se preparar, depois o PvP começa.
 3. Grupo e guilda não protegem: todo mundo é inimigo. Não dá para sair da arena nem usar teleporte, e a morte **não tira EXP**.
 4. Cada abate dá **3 Bandeiras** na hora. **Quem morre sai do evento:** volta vivo para onde estava antes de entrar.
 5. A partir do 2º minuto, o **radar** mostra a cada minuto onde estão os jogadores vivos.
