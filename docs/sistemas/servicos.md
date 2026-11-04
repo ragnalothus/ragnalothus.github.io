@@ -105,7 +105,7 @@ Ao lado da Resetadora (147,193). Guarda até **10 builds de atributos** e **10 d
 | `@wb <item>` (ou `@wb2`, `@whobuy`) | Lista quem está **comprando** o item, do que paga mais para o que paga menos |
 | `@wb 969 45-60` | Só quem paga de 45 a 60z |
 
-Funciona com o nome do item (em português, pode ser só um pedaço) ou com o ID. Lojas em `@at` também aparecem.
+Funciona com o nome do item (em português, pode ser só um pedaço) ou com o ID. Não importa se você escreve com maiúsculas, minúsculas ou sem acento. Lojas em `@at` também aparecem.
 
 **Loja de compra:** a **Licença de Loja de Compra** custa 5 Moedas de Loki na Trocadora de Moedas (Blackroom). Ela abre uma loja que **compra** até 5 itens (itens comuns e consumíveis). Use `@at` para deixar a loja aberta enquanto estiver fora.
 

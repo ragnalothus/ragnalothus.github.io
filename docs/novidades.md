@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :mag: A busca de lojas pelo comando (`@ws`, `@whosell`, `@ws2`, `@wb`) agora acha o item **sem ligar para maiúsculas e acentos** (`pocao`, `POÇÃO` e `Poção` dão o mesmo resultado). [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
 - :mag: **`@ws <item>`** agora também abre a janela de Busca de Lojas com o item (aceita o número ou o nome); a lista no chat fica no `@ws2`. Kyrie Eleison das Curandeiras: **15 golpes** na Curandeira VIP e **5** na Curandeira da Ilha. [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
 - :pray: **Curandeira da Ilha** na Ilha do Noviço: cura, conserta e dá de graça os buffs de 1 hora da Curandeira VIP. O **pack inicial** agora traz também **50 Asas de Mosca**. [Começando](primeiros-passos/comecando.md)
 - :mag: **`@whosell <item>`** (nome ou número do item) abre a janela de Busca de Lojas já com quem vende o item. [Serviços](sistemas/servicos.md#procurar-lojas-ws-e-wb)
