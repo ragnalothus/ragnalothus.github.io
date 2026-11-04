@@ -26,7 +26,7 @@ O objetivo é **ficar no top 3**: quebre os baús, junte **Cubos de Poder** para
 
 **Passe o mouse em cima de um jogador** para ver quantos cubos ele tem (aparece "N Cubos" no nome).
 O número muda na hora, sempre que alguém pega um cubo, e todo mundo da sala recebe um aviso.
-Quando o combate começa, a sala vira **PvP**: na tela aparece a sua posição e quantos jogadores ainda estão na sala.
+Durante o combate aparece na tela a sua **posição** (pelos cubos) e **quantos jogadores ainda estão vivos** na sala.
 
 ## A arena
 
@@ -39,8 +39,8 @@ Quando o combate começa, a sala vira **PvP**: na tela aparece a sua posição e
 
 ## A névoa venenosa
 
-- Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 5 segundos**. A borda da névoa aparece como uma **linha roxa no chão** que vai fechando junto com ela: não passe dela. Quando você entra na névoa, a **tela escurece** e aparece um aviso; a borda da área livre aparece no **minimapa** com **8 marcas roxas**, que andam junto com a névoa (a marca verde é o centro).
-- Por volta dos **3 minutos e meio** ela chega nas largadas; por volta dos **6 minutos e meio** só sobra uma roda pequena no meio.
+- Depois de **40 segundos**, a névoa começa a fechar o mapa, das bordas para o centro (pela distância andando), **1 passo a cada 3 segundos e pouco**. A borda da névoa aparece como uma **linha roxa no chão** que vai fechando junto com ela: não passe dela. Quando você entra na névoa, a **tela escurece** e aparece um aviso; a borda da área livre aparece no **minimapa** com **8 marcas roxas**, que andam junto com a névoa (a marca verde é o centro).
+- Por volta dos **2 minutos e meio** ela chega nas largadas; por volta dos **4 minutos e meio** só sobra uma roda pequena no meio.
 - Quem fica na névoa perde **5% do HP máximo a cada 2 segundos**, e o veneno fica mais forte a cada minuto (até 20%).
 - O combate dura no máximo **8 minutos**. Se o tempo acabar com mais de um vivo, vence quem tem **mais cubos** (empate: mais abates).
 
