@@ -33,3 +33,15 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 | ![](../assets/npcs/4_m_job_blacksmith.png){ loading=lazy } | 55,54 | **Forja Lendária** | Ferreiros forjam armas lendárias. [Armas lendárias](../mudancas/armas-lendarias.md) |
 | ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 62,54 | **Evento de Lançamento** | Troca as Moedas de Lançamento. [Lançamento](../eventos/lancamento-e-streamers.md) |
 | ![](../assets/npcs/4_f_zondagirl.png){ loading=lazy } | 65,54 | **Parceria de Streamers** | Inscrição de streamers. [Streamers](../eventos/lancamento-e-streamers.md#parceria-de-streamers) |
+
+## Eventos (parede da direita)
+
+| Posição | NPC | O que faz |
+|---|---|---|
+| 68,38 | **Agenda de Eventos** | Eventos de hoje, da noite de cada dia da semana e do dia. [Eventos automáticos](../eventos/automaticos.md) |
+| 68,40 | **Resta 1** | Regras, prêmio, próximo horário e inscrição |
+| 68,42 | **Evento dos Dados** | Regras, prêmio, próximo horário e inscrição |
+| 68,44 | **Bombring** | Regras, prêmio, próximo horário e inscrição |
+| 68,46 | **Pique-pega** | Regras, prêmio, próximo horário e inscrição |
+| 68,48 | **Quiz** | Regras e horários |
+| 68,50 | **Invasão de Cristais** | Regras e horário |

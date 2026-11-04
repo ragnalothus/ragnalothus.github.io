@@ -1,6 +1,6 @@
 # :gem: Evento dos Cristais
 
-- **Quando:** todo dia às **12h, 18h e 21h** (dura 1 hora). O servidor avisa minuto a minuto nos 5 minutos antes.
+- **Quando:** **sábado, domingo e quarta às 20h** (dura 1 hora). O servidor avisa minuto a minuto nos 5 minutos antes. Veja a [agenda da noite](automaticos.md#a-noite-19h-as-22h).
 - **Onde:** fale com o **Guia dos Cristais** em Prontera (148,176): ele leva você até o **Guarda dos Cristais** (prt_fild08 163,367). A sala só tem entrada pelo Guarda.
 - **Como:** quebre os cristais para ganhar **Bandeiras**. Os cristais vêm em triplo.
 - **Limite:** até 50 jogadores na sala principal. **VIP entra sempre.**

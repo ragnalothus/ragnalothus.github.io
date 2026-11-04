@@ -4,6 +4,8 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :calendar: **Nova agenda de eventos:** de dia (9h às 19h) ficam o Disfarce, o Quiz, a Caça ao Cogumelo e a Invasão de Cristais (domingo). À noite (19h às 22h) cada dia tem alguns eventos, com folga entre eles; o **Evento dos Cristais** é garantido **sábado e domingo às 20h** (e na quarta). [Eventos automáticos](eventos/automaticos.md)
+- :information_source: Na Central do Aventureiro: **Agenda de Eventos** e um NPC para cada evento, com as regras, o prêmio, o próximo horário e a inscrição. [Central do Aventureiro](npcs/central-aventureiro.md#eventos-parede-da-direita)
 - :scroll: **Hobota:** mostra o prêmio completo (EXP, zeny e pontos) antes de você aceitar, e as caças aparecem no **diário de missões** do jogo, no canto direito da tela. As missões ficaram mais difíceis (100 a 250 de cada monstro, com nível mínimo) e o zeny subiu. [Missões](sistemas/missoes.md)
 - :scroll: **Quadro de Missões:** a EXP de cada entrega e de cada caça aparece na lista, antes de escolher. [Missões](sistemas/missoes.md#quadro-de-missoes)
 - :european_castle: Voltaram para Prontera: **Lotérica** (146,197), **Caçador de Cogumelos** (136,178) e o **Cambista do Bilhão** (era o Bill Doors, 160,178). **Oficial de Guerra** e **Arenas Privadas** agora ficam ao lado da Arena PvP. O NPC da Central do Aventureiro foi para 164,178. [Prontera](npcs/prontera.md)
