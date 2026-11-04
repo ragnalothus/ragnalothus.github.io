@@ -2,9 +2,9 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
-## 03/11/2026 (itens do UaRO)
+## 03/11/2026 (itens alterados)
 
-- :shield: **Itens como no UaRO:** Espada Elemental, Jamadhar Glorioso, cajados para Espiritualista, Arco de Luna, Machado Veterano, chapéus, Piercing de Umbala, Medalha de Honra para Taekwon, Botas Temporais novas e mais. [Itens](mudancas/itens.md#itens-que-mudaram-como-no-uaro)
+- :shield: **Itens alterados:** Espada Elemental, Jamadhar Glorioso, cajados para Espiritualista, Arco de Luna, Machado Veterano, chapéus, Piercing de Umbala, Medalha de Honra para Taekwon, Botas Temporais novas e mais. [Itens](mudancas/itens.md#itens-alterados)
 - :boar: **Novos drops:** Chapéu de Hermod, Broche de Bradium, Asas de Sigrun, Chapéu de Sting, Espírito Angelical, Olhos Biônicos, Máscara da Morte, Chapéu de Jiboia, Machado Vecer e Cajado de Cura. [Itens](mudancas/itens.md#itens-que-agora-caem-de-monstros)
 - :black_joker: **Cartas:** Flor do Luar +40% de velocidade, Carta Presente 2,25%, Shinobi e Relógio ajustadas. [Itens](mudancas/itens.md#cartas)
 - :fist: **Soqueiras** com menos penalidade de tamanho (100/100/75).
@@ -36,7 +36,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 - :gift: **MVP em Grupo:** os itens que caem vão para todos do grupo na sala. [MVPs](sistemas/mvps.md#mvp-em-grupo)
 - :hammer: **Mestre Ferreiro:** a forja da Bênção do Ferreiro dá 5 de uma vez (200 Moedas de Loki e 120 Fragmentos Estelares). [Mestre Ferreiro](sistemas/ferreiro-e-refino.md)
 - :shield: **Itens:** Bandeira com peso 0,1 e livre para negociar; Carta Besouro-Ladrão Dourado com -40% de dano mágico; slots na Bola de Ferro Ensanguentada, Olhos Biônicos e Frigideira Lunar (4); Arco Élfico [2]. [Itens](mudancas/itens.md)
-- :zap: **Regeneração do UaRO:** sentado 3% de HP e SP a cada 1,5 s, em pé 1%. [Classes](mudancas/classes.md)
+- :zap: **Regeneração nova:** sentado 3% de HP e SP a cada 1,5 s, em pé 1%. [Classes](mudancas/classes.md)
 - :sparkles: Encantadora com preços novos; Quiz dá 2 Moedas Douradas por acerto; Suco de Uva a 4.000z; Ovo Lendário por 700 Moedas Douradas; Velho Álbum de Cartas nas trocas; trocas por ROPs removidas.
 - :map: Mudaram de lugar em Prontera: Chapeleira (166,198), Sala VIP (156,178) e o novo Guia dos Cristais (148,176). [Prontera](npcs/prontera.md)
 - :books: **Database de itens** com todos os itens do servidor e os ícones do jogo. [Database](database/itens.md)

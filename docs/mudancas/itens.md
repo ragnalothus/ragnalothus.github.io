@@ -2,9 +2,7 @@
 
 Todos os itens do servidor estão na [Database de itens](../database/itens.md).
 
-## Itens que mudaram como no UaRO
-
-Mudanças trazidas do UaRO para os itens que existem no nosso servidor (pré-renovação).
+## Itens alterados
 
 ### Armas
 
@@ -26,7 +24,7 @@ Mudanças trazidas do UaRO para os itens que existem no nosso servidor (pré-ren
 
 | | Item | Mudança |
 |---|---|---|
-| ![](../assets/itens/22006.png) | Botas Temporais | Versão do UaRO, veja [abaixo](#botas-temporais) |
+| ![](../assets/itens/22006.png) | Botas Temporais | Bônus novos, veja [abaixo](#botas-temporais) |
 | ![](../assets/itens/5283.png) | Chapéu de Pintinho | Também reduz em 3% o dano de monstros **Brutos** |
 | | Máscara da Morte (Coroa da Mentira) | **INT +3** (era 4). Agora cai do **Bispo Decadente** |
 | ![](../assets/itens/5340.png) | Boneca de Denise | Sem o FOR +2 |
@@ -106,7 +104,7 @@ Armas lendárias: veja [Armas lendárias](armas-lendarias.md).
 
 ### Arco Élfico
 
-![](../assets/itens/1746.png) **Arco Élfico [2]** (trazido da renovação): ATQ 160, DES +2, nível 90, Arqueiros, Bardos, Odaliscas e evoluções.
+![](../assets/itens/1746.png) **Arco Élfico [2]**: ATQ 160, DES +2, nível 90, Arqueiros, Bardos, Odaliscas e evoluções.
 
 - Com a ![](../assets/itens/1773.png) **Flecha Élfica**: dano físico a distância **+50%**.
 - Com o **Tesouro do Arruaceiro** e o **Coração Gélido**: dano contra monstros de tamanho Médio **+20%**.
@@ -158,7 +156,7 @@ DEF 11 (era 1).
 ### Botas Temporais
 
 Botas de FOR, AGI, VIT, INT, DES e SOR, com slot, só para transclasse. Vêm do [Trocador de Bandeiras](../servidor/moedas.md#bandeira).
-Todas dão HP máximo +300 e SP máximo +30, e mais HP +100 e SP +10 a cada 3 refinos (versão do UaRO):
+Todas dão HP máximo +300 e SP máximo +30, e mais HP +100 e SP +10 a cada 3 refinos:
 
 | Bota | A cada 3 refinos | Com o atributo base alto |
 |---|---|---|
