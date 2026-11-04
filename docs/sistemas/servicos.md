@@ -46,7 +46,7 @@ Serve para guardar mais que o limite de 2 bilhões que dá para carregar.
 
 O **Contratante** ([Central do Aventureiro](../npcs/central-aventureiro.md)) aluga uma sala particular por **120 minutos** por **1.200.000z**:
 
-- Para você, para o seu grupo ou para a sua guilda.
+- Para você, para o seu grupo ou para a sua guilda. A sala é **particular**: ninguém de fora entra.
 - Todos podem sair e voltar quando quiserem enquanto o aluguel durar (fale com o Contratante e escolha "Voltar para a sala alugada").
 - :warning: **Galhos (Galho Seco, Galho Sangrento e parecidos) só funcionam dentro da Sala de Galhos.** Em qualquer outro lugar eles não são usados.
 
@@ -54,7 +54,7 @@ O **Contratante** ([Central do Aventureiro](../npcs/central-aventureiro.md)) alu
 
 ![](../assets/npcs/4_m_uncleknight.png){ align=right loading=lazy }
 
-O **Treinador** ([Central do Aventureiro](../npcs/central-aventureiro.md)) abre uma sala só sua (2 horas) com **bonecos de treino** para testar a sua build:
+O **Treinador** ([Central do Aventureiro](../npcs/central-aventureiro.md)) abre uma sala só sua (2 horas) com **bonecos de treino** para testar a sua build. A sala já abre com um boneco (do jeito que você montou):
 
 - Escolha o **tamanho**, a **raça**, o **elemento** (e o nível do elemento), se é **normal ou chefe** e a **defesa**.
 - Os bonecos não andam, não atacam e têm 1 bilhão de HP. Até 10 por vez.
@@ -88,9 +88,9 @@ Traga a arma **equipada e em +10**. A chance é de **50%**; se falhar, **a arma 
 
 ![](../assets/npcs/4_f_02.png){ align=right loading=lazy }
 
-Ao lado da Resetadora (147,193). Guarda até **10 builds de atributos** e **10 de habilidades** por personagem, com o nome que você quiser.
+Ao lado da Resetadora (147,193) e também na [Sala VIP](../servidor/vip.md). Guarda até **10 builds de atributos** e **10 de habilidades** por personagem, com o nome que você quiser.
 
-- **Carregar** uma build cobra como a Resetadora: grátis até o nível 80, depois 1.500.000z.
+- **Carregar** uma build custa **100.000z**.
 - Uma build de habilidades some se o personagem mudar de classe.
 - Uma build de atributos fica escondida se o seu nível for menor que o nível em que ela foi salva.
 
@@ -107,7 +107,7 @@ Ao lado da Resetadora (147,193). Guarda até **10 builds de atributos** e **10 d
 
 Funciona com o nome do item (em português, pode ser só um pedaço) ou com o ID. Não importa se você escreve com maiúsculas, minúsculas ou sem acento. Lojas em `@at` também aparecem.
 
-**Loja de compra:** a **Licença de Loja de Compra** custa 5 Moedas de Loki na Trocadora de Moedas (Blackroom). Ela abre uma loja que **compra** até 5 itens (itens comuns e consumíveis). Use `@at` para deixar a loja aberta enquanto estiver fora.
+**Loja de compra:** a **Licença de Loja de Compra** custa 20 Moedas de Loki na Trocadora de Moedas (Blackroom). Ela abre uma loja que **compra** até 5 itens (itens comuns e consumíveis). Use `@at` para deixar a loja aberta enquanto estiver fora.
 
 ## :scroll: Resumo da loja
 

@@ -62,7 +62,7 @@ PvP de **todos contra todos** numa arena em espiral: o último que ficar de pé 
 
 O NPC **Disfarce** (Prontera 150,172) vira um monstro aleatório, 10 vezes seguidas.
 **Grite o nome do monstro no chat perto do NPC.** Quem acertar primeiro ganha 5 Moedas de Loki. Cada rodada dura até 60 segundos.
-O nome é o que aparece no jogo quando você vê o monstro (ex.: `Poring`, `Drops`, `Lunatic`).
+Vale o **nome oficial em português** do monstro (o mesmo da carta dele, ex.: `Poring`, `Zangão`, `Lunático`, `Flor do Luar`), com ou sem acento. O nome em inglês também vale.
 
 ## Caça ao Cogumelo
 

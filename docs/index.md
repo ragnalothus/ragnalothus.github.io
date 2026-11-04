@@ -15,7 +15,7 @@ com rates médias, muito conteúdo liberado sem quests chatas e sistemas própri
 | Nível máximo | 99 de base · 50 de classe (2ª classe) · 70 de classe (transclasse) |
 | Atributos | Máximo 99 |
 | Rates na semana | EXP 10x · Classe 10x · Drop 9x · Cartas 1% · MVP 5x |
-| Rates no fim de semana | EXP 13x · Classe 13x · Drop 12x · MVP 9x · Cartas 2% (sábado 20h até domingo 15h) |
+| Rates no fim de semana | EXP 13x · Classe 13x · Drop 12x · MVP 9x · Cartas 1% (como na semana) |
 | Conjuração | Instantânea com 100 de DES |
 | Contas por IP | Até 2 contas online ao mesmo tempo |
 

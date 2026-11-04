@@ -64,7 +64,7 @@ e do presente de primeiro login (1 de cada, preso à conta).
 
 - ![](../assets/itens/60006.png) **Álbum de Cartas Lendário:** **30%** de chance de uma carta de **MVP** e **70%** de **miniboss**, só de monstros que nascem nos mapas.
   Também na troca de Bandeiras (4.000).
-- ![](../assets/itens/616.png) **Velho Álbum de Cartas:** uma carta aleatória do álbum oficial. Na Trocadora de Moedas (200 Moedas de Loki),
+- ![](../assets/itens/616.png) **Velho Álbum de Cartas:** uma carta aleatória do álbum oficial. Na Trocadora de Moedas (300 Moedas de Loki),
   no Gerente de Moedas Douradas (250) e na Troca de Cartas (170 pontos).
 - Os dois anunciam para o servidor inteiro a carta que saiu.
 

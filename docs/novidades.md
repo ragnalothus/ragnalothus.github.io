@@ -4,6 +4,17 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :black_joker: **Cartas sempre 1%:** o bônus de cartas a 2% do fim de semana saiu. EXP e drop do fim de semana continuam. [Rates](servidor/rates.md)
+- :zap: **ASPD máxima 193.** [Rates](servidor/rates.md#aspd-maxima)
+- :busts_in_silhouette: **Drop para o grupo todo** também na **Torre MVP** e na **Torre sem Fim**: cada item que cai vai para todos do grupo que estão lá. Em mapa normal não. [MVPs](sistemas/mvps.md#mvp-em-grupo)
+- :loudspeaker: Os avisos de eventos agora aparecem **na tela** e no chat.
+- :performing_arts: **Disfarce:** a resposta agora é o **nome oficial em português** do monstro (com ou sem acento). [Eventos automáticos](eventos/automaticos.md#disfarce)
+- :dart: **Sala de Treino** já abre com um boneco e não começa mais num lugar sem saída; a **Sala de Galhos** também chega num lugar aberto e o "Voltar para a sala alugada" acha a sala sua, do grupo ou da guilda. [Serviços](sistemas/servicos.md#sala-de-treino)
+- :gem: **Sala VIP:** chegaram o **Mestre das Habilidades** e o **Gerente de Builds**. O Gerente de Builds agora cobra **100.000z** por carregar uma build. [Sala VIP](npcs/sala-vip.md)
+- :moneybag: **Trocadora de Moedas:** Passe Anti-Gravitacional 300, Licença de Loja de Compra 20 e Velho Álbum de Cartas 300 Moedas de Loki. [Moedas](servidor/moedas.md)
+- :four_leaf_clover: **Visual da Fortuna:** chance de Moeda Dourada subiu para **0,5%**. [Itens alterados](mudancas/itens.md)
+- :hammer: **Forja Lendária:** se a forja falhar, o zeny não volta mais (Bandeiras e Moedas de Loki continuam voltando). [Armas lendárias](mudancas/armas-lendarias.md)
+
 - :no_entry: **Galeria de Cartas:** cartas passadas entre jogadores **não contam mais** no álbum (troca, correio, armazém da guilda e carta largada no chão). Comprada de outro jogador só conta pela loja (mercador) e por **200.000 zeny ou mais**. [Galeria de Cartas](sistemas/galeria.md#como-uma-carta-entra-no-album)
 - :no_entry: **Galeria de Cartas:** quem for pego tentando burlar a Galeria de qualquer forma leva ban. Também já estão na página as regras do futuro reset do álbum. [Galeria de Cartas](sistemas/galeria.md#regras)
 - :card_index: **Galeria de Cartas:** 13 categorias novas, uma por **raça** (10) e por **tamanho** (3) do monstro, agora são 35. O **álbum completo** (todas as 437 cartas) passa a dar **500 Fichas**, e os itens da loja da Curadora ficaram mais caros (a Galeria é para durar). [Galeria de Cartas](sistemas/galeria.md)

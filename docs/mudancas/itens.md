@@ -88,7 +88,7 @@ Chance antes das rates do servidor (no jogo, multiplique pela rate de drop: 9x n
 | ![](../assets/itens/1266.png) | Infiltrador | O da Caixa Misteriosa agora vem **com slot** |
 | ![](../assets/itens/60020.png) | Caixa de Comidas +10 | Dá **10 de cada** comida +10 (antes era 1) |
 | ![](../assets/itens/616.png) | Velho Álbum de Cartas | Anuncia para o servidor a carta que saiu |
-| ![](../assets/itens/12548.png) | Licença de Loja de Compra | Abre uma loja de compra com 5 itens; 5 Moedas de Loki |
+| ![](../assets/itens/12548.png) | Licença de Loja de Compra | Abre uma loja de compra com 5 itens; 20 Moedas de Loki |
 | ![](../assets/itens/5308.png) | Chapéu de Bandeira Brasileira | Ganhou sprite (o do cliente não existia; usa o laço da Bandeira Brasileira) |
 | ![](../assets/itens/533.png) | Suco de Uva | 4.000z na Utilidades VIP |
 | ![](../assets/itens/9087.png) | Ovo de Grand Orc | Novo nome do Ovo de Orc Superior |
@@ -96,7 +96,7 @@ Chance antes das rates do servidor (no jogo, multiplique pela rate de drop: 9x n
 ### Visual da Fortuna
 
 ![](../assets/itens/60041.png) **Visual da Fortuna** (visual do meio, com a aparência das Asas Malignas). A cada monstro derrotado com ele equipado:
-1% de chance de 1 Bandeira, 1% de 1 Moeda de Loki, 0,2% de 1 Moeda Dourada e 0,01% de um ![](../assets/itens/60042.png) **Martelo de Refinar Carta**
+1% de chance de 1 Bandeira, 1% de 1 Moeda de Loki, 0,5% de 1 Moeda Dourada e 0,01% de um ![](../assets/itens/60042.png) **Martelo de Refinar Carta**
 (para o refino de cartas, que chega em breve). Vem da Caixa Misteriosa Rara (0,5%), do Trocador de Bandeiras (15.000), do Gerente de Moedas Douradas (3.000)
 e do Evento de Lançamento (300). O Martelo também sai das Caixas Misteriosas.
 

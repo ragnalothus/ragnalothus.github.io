@@ -25,10 +25,11 @@ O servidor tem três "moedas" de prêmio, todas trocadas na [Blackroom](../npcs/
 | Bênção de Tyr | 50 |
 | Galho Sangrento | 270 |
 | Asa de Mosca Ilimitada | 700 |
-| Velho Álbum de Cartas | 200 |
-| Licença de Loja de Compra | 5 |
+| Velho Álbum de Cartas | 300 |
+| Licença de Loja de Compra | 20 |
+| Passe Anti-Gravitacional | 300 |
 
-A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Passe Anti-Gravitacional.
+A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Asa de Mosca Ilimitada.
 
 ## ![](../assets/itens/60013.png) Moeda Dourada
 

@@ -19,7 +19,7 @@ Uma **arma lendária** para cada classe. Todas têm **2 slots**, nível da arma 
 | ![](../assets/itens/60000.png) Moeda de Loki | 500 |
 | Zeny | 10.000.000 |
 
-Chance de **40%** (Mestre-Ferreiro **50%**). Se falhar, perde os minérios, o Ouro e as Bênçãos; as Bandeiras, as Moedas de Loki e o zeny voltam.
+Chance de **40%** (Mestre-Ferreiro **50%**). Se falhar, perde os minérios, o Ouro e as Bênçãos; o zeny também é perdido; as Bandeiras e as Moedas de Loki voltam.
 
 ## As armas
 

@@ -18,9 +18,12 @@
 | EXP de classe | Sábado 00h até domingo 23h59 | 13x |
 | Drop de itens | Sábado 00h até domingo 23h59 | 12x |
 | Drop de MVP | Sábado 00h até domingo 23h59 | 9x |
-| Cartas | **Sábado 20h até domingo 15h** | 2% fixo |
 
-A troca é automática.
+A troca é automática. As **cartas ficam sempre em 1%**, também no fim de semana.
+
+## ASPD máxima
+
+A velocidade de ataque (ASPD) máxima do servidor é **193**.
 
 ## Outros bônus
 

@@ -35,7 +35,7 @@ Quando um MVP dos mapas morre, aparece a **tumba** dele no lugar. Clique nela pa
 
 - Grupo com 2 ou mais pessoas online; o líder escolhe até 2 MVPs.
 - Sala sem PvP por 1 hora. Quem entra espera 24 horas para entrar de novo.
-- :gift: **Drop para todos:** cada item que cai de um monstro dentro da sala do MVP em Grupo vai para o inventário de **todos os membros do grupo que estão na sala** (cada um ganha o seu). Isso só acontece nessa sala.
+- :gift: **Drop para todos:** cada item que cai de um monstro dentro da sala do MVP em Grupo vai para o inventário de **todos os membros do grupo que estão na sala** (cada um ganha o seu). O mesmo vale na **Torre MVP** e na **Torre sem Fim**. Em mapa normal nunca acontece.
 
 ## Torre MVP
 
