@@ -6292,8 +6292,9 @@ Peso como no jogo (o 10 do servidor é 1 no jogo).
 | ![](../assets/itens/60063.png){ loading=lazy } | 60063 | Livro Estelar do Mestre Taekwon [2] | Arma | 60 |
 | ![](../assets/itens/60064.png){ loading=lazy } | 60064 | Cajado Lendário do Espiritualista [2] | Arma | 50 |
 | ![](../assets/itens/60065.png){ loading=lazy } | 60065 | Huuma Lendária do Ninja [2] | Arma | 150 |
-| ![](../assets/itens/60066.png){ loading=lazy } | 60066 | Rifle Lendário do Justiceiro [2] | Arma | 150 |
+| ![](../assets/itens/60066.png){ loading=lazy } | 60066 | Revólver Lendário do Justiceiro [2] | Arma | 100 |
 | ![](../assets/itens/60067.png){ loading=lazy } | 60067 | Adaga Lendária do Super Aprendiz [2] | Arma | 60 |
+| ![](../assets/itens/60068.png){ loading=lazy } | 60068 | Adaga Lendária do Aprendiz [2] | Arma | 60 |
 | ![](../assets/itens/61000.png){ loading=lazy } | 61000 | [Visual] Óculos de Mergulho | Equipamento | 0 |
 | ![](../assets/itens/61001.png){ loading=lazy } | 61001 | [Visual] Véu de Noiva | Equipamento | 0 |
 | ![](../assets/itens/61002.png){ loading=lazy } | 61002 | [Visual] Florzinha | Equipamento | 0 |

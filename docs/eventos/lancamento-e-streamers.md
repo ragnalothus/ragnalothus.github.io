@@ -16,7 +16,6 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 
 | Prêmio | Moedas |
 |---|---|
-| Poção ou Elixir de Lançamento | 1 |
 | Caixa Misteriosa | 10 |
 | Grimório de Combate | 10 |
 | Manual de Classe 100% | 10 |
