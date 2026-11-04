@@ -8,6 +8,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 - :rocket: O NPC do **Evento de Lançamento** agora é uma loja de troca, com a Moeda de Lançamento ao lado de cada prêmio. A Caixa Misteriosa Rara e a Caixa Lendária de Armamento saíram dessa loja. [Lançamento](eventos/lancamento-e-streamers.md)
 - :crossed_swords: **Armas lendárias:** nova Adaga Lendária do Aprendiz; Revólver Lendário do Justiceiro (era rifle) com Rajada Certeira e Desperado; Super Aprendiz com todos os atributos +10; Maça do Sumo Sacerdote com Magnus +5% no +9; nomes das habilidades corrigidos nas descrições. A troca pede também 2 materiais de cada arma, e as armas lendárias não aceitam o Pergaminho de Refino +10. [Armas lendárias](mudancas/armas-lendarias.md)
 - :rocket: Poção e Elixir de Lançamento saíram da loja do Evento de Lançamento (eles caem dos monstros).
+- :mushroom: **Caça ao Cogumelo:** agora são 90 cogumelos, e cada caça é anunciada com quantos restam. [Eventos automáticos](eventos/automaticos.md#caca-ao-cogumelo)
 - :handshake: **Moedas de Loki e Moedas Douradas** podem ser negociadas entre jogadores, por troca ou loja. [Moedas](servidor/moedas.md)
 
 ## 03/11/2026 (itens alterados)

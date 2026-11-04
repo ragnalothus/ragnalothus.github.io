@@ -20,7 +20,7 @@ O nome é o que aparece no jogo quando você vê o monstro (ex.: `Poring`, `Drop
 
 ## Caça ao Cogumelo
 
-30 **Cogumelos Negros** aparecem numa cidade sorteada. Cada um que você derrotar vale **4 Moedas de Loki**.
+90 **Cogumelos Negros** aparecem numa cidade sorteada. Cada um que você derrotar vale **4 Moedas de Loki**, e o servidor anuncia quem caçou e quantos ainda restam.
 A caça acaba quando todos forem derrotados ou depois de 1 hora. O **Caçador de Cogumelos** (Prontera 136,178) diz em qual cidade eles estão.
 
 ## Dados
