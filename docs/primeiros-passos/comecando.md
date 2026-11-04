@@ -6,6 +6,7 @@ Todo personagem novo nasce na **Ilha do Noviço**. Lá tem:
 
 - **Porings e Esporos** para os primeiros níveis;
 - a **Guia da Ilha**, que explica o servidor e leva você para Prontera;
+- a **Curandeira da Ilha**, ao lado da Guia: cura, conserta seus equipamentos e dá, de graça, os mesmos buffs de 1 hora da Curandeira VIP (Aumentar Agilidade 10, Bênção 10, Kyrie Eleison 10, Impositio Manus 5 e Magnificat 5);
 - um **portal na trilha ao norte**, que também leva para Prontera.
 
 Ao sair da ilha, seu ponto de retorno passa a ser Prontera.
@@ -25,6 +26,7 @@ Cada personagem novo recebe, preso a ele (não dá para trocar, vender nem guard
 | Caixa de Semente de Yggdrasil | 10 |
 | Suco de Uva (peso 0,5) | 200 |
 | Poção do Aprendiz | 400 |
+| Asa de Mosca | 50 |
 
 ## Presente de boas-vindas (primeiro login)
 

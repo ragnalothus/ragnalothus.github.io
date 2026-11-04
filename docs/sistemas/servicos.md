@@ -99,7 +99,8 @@ Ao lado da Resetadora (147,193). Guarda até **10 builds de atributos** e **10 d
 | Comando | O que faz |
 |---|---|
 | `@whosell` ou `@ws` (sozinhos) | Abrem a janela **Busca de Lojas** do jogo: escolha Vender ou Comprar, escreva o nome do item (e, se quiser, a carta e a faixa de preço) e clique em procurar. Procura em todos os mapas, até 99 buscas por vez, e dá para abrir a loja de quem aparece na lista sem ir até ela |
-| `@ws <item>` (ou `@ws2`, `@whosell <item>`) | Lista quem está **vendendo** o item, do mais barato para o mais caro, com o mapa e a posição (`/navi`) |
+| `@whosell <item>` | Abre a mesma janela já com quem **vende** o item. Aceita o **número do item** (ex.: `@whosell 2302`) ou o nome, e a faixa de preço (`@whosell 2302 0-500000`). Na janela, escreva o nome do item: lá ela não aceita o número |
+| `@ws <item>` (ou `@ws2 <item>`) | Lista quem está **vendendo** o item, do mais barato para o mais caro, com o mapa e a posição (`/navi`) |
 | `@ws +4 2302 0-500000` | Só itens +4 ou mais, de 0 a 500.000z |
 | `@wb <item>` (ou `@wb2`, `@whobuy`) | Lista quem está **comprando** o item, do que paga mais para o que paga menos |
 | `@wb 969 45-60` | Só quem paga de 45 a 60z |
