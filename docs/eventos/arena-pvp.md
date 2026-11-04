@@ -9,7 +9,7 @@
 
 ## Arenas Privadas
 
-![](../assets/npcs/4_m_brz_indian.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_dst_tough.png){ align=right loading=lazy }
 
 O NPC **Arenas Privadas** (Prontera 153,191, ao lado da Arena PvP) aluga uma arena PvP **só sua por 1 hora** por **200.000z**:
 
@@ -20,7 +20,7 @@ O NPC **Arenas Privadas** (Prontera 153,191, ao lado da Arena PvP) aluga uma are
 
 ## Guerra de Guildas
 
-![](../assets/npcs/4_m_job_blacksmith.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_ky_head.png){ align=right loading=lazy }
 
 A luta começa agora! Na sala do **Oficial de Guerra** (Prontera 151,191, ao lado da Arena PvP) as guildas resolvem suas rivalidades:
 

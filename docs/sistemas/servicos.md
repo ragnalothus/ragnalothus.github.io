@@ -4,7 +4,7 @@ Uns ficam em [Prontera](../npcs/prontera.md) (Banqueiro, Cambista do Bilhão e G
 
 ## Estilista
 
-![](../assets/npcs/4_f_02.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_barber.png){ align=right loading=lazy }
 
 Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP](../npcs/sala-vip.md). Abre a janela de visual do jogo.
 
@@ -14,9 +14,9 @@ Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP]
 
 ## Resgatador de Cupons
 
-![](../assets/npcs/4_m_job_wizard.png){ align=right loading=lazy }
+![](../assets/npcs/4_f_agentkafra.png){ align=right loading=lazy }
 
-Quer um nome novo, outro visual ou mais espaço? O Resgatador (144,178) troca os cupons da loja de cash:
+Quer um nome novo, outro visual ou mais espaço? O Resgatador ([Central do Aventureiro](../npcs/central-aventureiro.md)) troca os cupons da loja de cash:
 
 | Cupom | O que faz |
 |---|---|
@@ -27,7 +27,7 @@ Quer um nome novo, outro visual ou mais espaço? O Resgatador (144,178) troca os
 
 ## Banqueiro
 
-![](../assets/npcs/4_m_01.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_manager.png){ align=right loading=lazy }
 
 Guarda o seu zeny no banco. O banco é da **conta**: todos os seus personagens usam o mesmo saldo.
 Você também abre o banco em qualquer lugar com **`Ctrl + B`**.
@@ -42,9 +42,9 @@ Serve para guardar mais que o limite de 2 bilhões que dá para carregar.
 
 ## Sala de Galhos
 
-![](../assets/npcs/4_m_job_blacksmith.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_mocass1.png){ align=right loading=lazy }
 
-O **Contratante** (164,178) aluga uma sala particular por **120 minutos** por **1.200.000z**:
+O **Contratante** ([Central do Aventureiro](../npcs/central-aventureiro.md)) aluga uma sala particular por **120 minutos** por **1.200.000z**:
 
 - Para você, para o seu grupo ou para a sua guilda.
 - Todos podem sair e voltar quando quiserem enquanto o aluguel durar (fale com o Contratante e escolha "Voltar para a sala alugada").
@@ -52,9 +52,9 @@ O **Contratante** (164,178) aluga uma sala particular por **120 minutos** por **
 
 ## Sala de Treino
 
-![](../assets/npcs/4_m_job_wizard.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_uncleknight.png){ align=right loading=lazy }
 
-O **Treinador** (168,178) abre uma sala só sua (2 horas) com **bonecos de treino** para testar a sua build:
+O **Treinador** ([Central do Aventureiro](../npcs/central-aventureiro.md)) abre uma sala só sua (2 horas) com **bonecos de treino** para testar a sua build:
 
 - Escolha o **tamanho**, a **raça**, o **elemento** (e o nível do elemento), se é **normal ou chefe** e a **defesa**.
 - Os bonecos não andam, não atacam e têm 1 bilhão de HP. Até 10 por vez.
@@ -62,7 +62,7 @@ O **Treinador** (168,178) abre uma sala só sua (2 horas) com **bonecos de trein
 
 ## Troca de Cartas
 
-![](../assets/npcs/4_f_madame.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_oldscholar.png){ align=right loading=lazy }
 
 Troca as cartas que você não quer mais por pontos: **10 pontos por carta**. Cartas de Besouro-Ladrão (comum, fêmea, macho e ovo), Tarou e Plâncton não são aceitas.
 
@@ -74,7 +74,7 @@ Troca as cartas que você não quer mais por pontos: **10 pontos por carta**. Ca
 
 ## Forjador de Armas
 
-![](../assets/npcs/4_m_job_blacksmith.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_repair.png){ align=right loading=lazy }
 
 Traga a arma **equipada e em +10**. A chance é de **50%**; se falhar, **a arma some**. O refino e as cartas não passam para a arma nova.
 

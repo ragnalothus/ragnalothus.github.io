@@ -57,7 +57,7 @@ PvP de **todos contra todos** numa arena em espiral: o último que ficar de pé 
 
 ## Disfarce
 
-![](../assets/npcs/4_m_job_wizard.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_mask.png){ align=right loading=lazy }
 
 O NPC **Disfarce** (Prontera 150,172) vira um monstro aleatório, 10 vezes seguidas.
 **Grite o nome do monstro no chat perto do NPC.** Quem acertar primeiro ganha 5 Moedas de Loki. Cada rodada dura até 60 segundos.

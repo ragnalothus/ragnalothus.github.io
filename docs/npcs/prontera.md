@@ -13,30 +13,30 @@ Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as arm
 | ![](../assets/npcs/4_f_01.png){ loading=lazy } | 149,193 | **Resetadora** | Reseta atributos e habilidades. Grátis até o nível 80; depois 1,5kk cada ou 2kk os dois |
 | ![](../assets/npcs/4_f_02.png){ loading=lazy } | 147,193 | **Gerente de Builds** | Guarda até 10 builds de atributos e 10 de habilidades. [Serviços](../sistemas/servicos.md#gerente-de-builds) |
 | | 151,193 | **Removedora de Cartas** | Tira as cartas do equipamento por 350.000 zeny, sem risco |
-| | 155,193 | **Curandeira** | Cura HP e SP, Aumentar Agilidade 10, Bênção 10 e conserta tudo. Grátis e sem espera |
+| ![](../assets/npcs/4_f_madame.png){ loading=lazy } | 155,193 | **Curandeira** | Cura HP e SP, Aumentar Agilidade 10, Bênção 10 e conserta tudo. Grátis e sem espera |
 | | 157,193 | **Platina** | Dá as habilidades de quest (platina) da sua classe. Vai mudar de lugar em breve |
 | | 159,192 | **Teleportadora** | Cidades, cavernas e lugares especiais (detalhes abaixo) |
-| ![](../assets/npcs/4_f_madame.png){ loading=lazy } | 166,198 | **Chapeleira** | Transforma chapéus em visuais. [Chapeleira](../sistemas/chapeleira.md) |
+| ![](../assets/npcs/4_f_pinkwoman.png){ loading=lazy } | 166,198 | **Chapeleira** | Transforma chapéus em visuais. [Chapeleira](../sistemas/chapeleira.md) |
 | | 149,191 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md) e mostra o ranking |
-| ![](../assets/npcs/4_m_job_blacksmith.png){ loading=lazy } | 151,191 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
-| ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 153,191 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
-| ![](../assets/npcs/4_f_madame.png){ loading=lazy } | 146,197 | **Lotérica** | Loteria Semanal e Loteria Diária. [Loteria](../sistemas/rankings-e-loteria.md#loterias) |
+| ![](../assets/npcs/4_m_ky_head.png){ loading=lazy } | 151,191 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
+| ![](../assets/npcs/4_m_dst_tough.png){ loading=lazy } | 153,191 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
+| ![](../assets/npcs/4_f_sister.png){ loading=lazy } | 146,197 | **Lotérica** | Loteria Semanal e Loteria Diária. [Loteria](../sistemas/rankings-e-loteria.md#loterias) |
 | | 145,187 | **Kafra** | Salva o ponto de retorno em Prontera, abre o armazém e coloca ou tira Carrinho, Falcão e Peco Peco (precisa da habilidade). Grátis |
-| | 148,182 | **Blackroom** | Leva para a [Blackroom](blackroom.md) |
-| | 164,185 | **Mestra das Classes** | Muda de classe de graça: 1ª e 2ª classe, transclasse, Super Aprendiz, Taekwon, Ninja e Justiceiro. Já dá as habilidades de quest |
+| ![](../assets/npcs/4_m_maskman.png){ loading=lazy } | 148,182 | **Blackroom** | Leva para a [Blackroom](blackroom.md) |
+| ![](../assets/npcs/4_f_eden_master.png){ loading=lazy } | 164,185 | **Mestra das Classes** | Muda de classe de graça: 1ª e 2ª classe, transclasse, Super Aprendiz, Taekwon, Ninja e Justiceiro. Já dá as habilidades de quest |
 
 ## Praça ao sul da fonte
 
 | | Posição | NPC | O que faz |
 |---|---|---|---|
-| ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 136,178 | **Caçador de Cogumelos** | Diz onde está a Caça ao Cogumelo. [Eventos automáticos](../eventos/automaticos.md#caca-ao-cogumelo) |
-| ![](../assets/npcs/4_m_01.png){ loading=lazy } | 140,178 | **Banqueiro** | Banco de zeny da conta (também abre com `Ctrl+B`). [Serviços](../sistemas/servicos.md#banqueiro) |
-| ![](../assets/npcs/4_m_job_wizard.png){ loading=lazy } | 150,172 | **Disfarce** | Evento Disfarce nas horas ímpares. [Eventos automáticos](../eventos/automaticos.md#disfarce) |
-| ![](../assets/npcs/4_m_brz_indian.png){ loading=lazy } | 148,176 | **Guia dos Cristais** | Leva até o Guarda do [Evento dos Cristais](../eventos/cristais.md) |
+| ![](../assets/npcs/4_m_nov_hunt.png){ loading=lazy } | 136,178 | **Caçador de Cogumelos** | Diz onde está a Caça ao Cogumelo. [Eventos automáticos](../eventos/automaticos.md#caca-ao-cogumelo) |
+| ![](../assets/npcs/4_m_manager.png){ loading=lazy } | 140,178 | **Banqueiro** | Banco de zeny da conta (também abre com `Ctrl+B`). [Serviços](../sistemas/servicos.md#banqueiro) |
+| ![](../assets/npcs/4_m_mask.png){ loading=lazy } | 150,172 | **Disfarce** | Evento Disfarce nas horas ímpares. [Eventos automáticos](../eventos/automaticos.md#disfarce) |
+| | 148,176 | **Guia dos Cristais** | Leva até o Guarda do [Evento dos Cristais](../eventos/cristais.md) |
 | ![](../assets/npcs/4_f_zondagirl.png){ loading=lazy } | 156,178 | **Sala VIP** | Entrada da [Sala VIP](sala-vip.md) (só VIP) |
-| ![](../assets/npcs/4_m_01.png){ loading=lazy } | 160,178 | **Cambista do Bilhão** | Troca 1 bilhão de zeny por uma ficha e a ficha de volta. [Serviços](../sistemas/servicos.md#cambista-do-bilhao) |
+| ![](../assets/npcs/4_m_president.png){ loading=lazy } | 160,178 | **Cambista do Bilhão** | Troca 1 bilhão de zeny por uma ficha e a ficha de volta. [Serviços](../sistemas/servicos.md#cambista-do-bilhao) |
 | | 164,178 | **Central do Aventureiro** | Leva para a [Central do Aventureiro](central-aventureiro.md) |
-| ![](../assets/npcs/4_f_valkyrie.png){ loading=lazy } | 168,178 | **Agenda de Eventos** | Eventos de hoje e da semana. [Eventos automáticos](../eventos/automaticos.md) |
+| ![](../assets/npcs/4_f_eden_officer.png){ loading=lazy } | 168,178 | **Agenda de Eventos** | Eventos de hoje e da semana. [Eventos automáticos](../eventos/automaticos.md) |
 
 ## :crystal_ball: Teleportadora
 

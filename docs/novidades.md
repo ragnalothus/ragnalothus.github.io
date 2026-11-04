@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :art: **Visual novo para vários NPCs:** agora cada NPC tem a sua aparência, ligada ao que ele faz (o Estilista é um barbeiro, o Banqueiro anda de terno, a Chapeleira usa chapéu, o Oficial de Guerra é um comandante...). Curandeira e Lotérica trocaram de visual entre si. [Prontera](npcs/prontera.md) · [Central do Aventureiro](npcs/central-aventureiro.md)
 - :calendar: A **Agenda de Eventos** agora fica em **Prontera (168,178)**. Na Central do Aventureiro, a **Invasão de Cristais**, o **Resta 1** e o **Pique-pega** ficam logo na entrada; o **Quiz** continua na parede da direita. Os NPCs dos cristais (Invasão, Guia e Guarda dos Cristais) agora têm a cara de um cristal, e o Hobota e o Evento de Lançamento ganharam visual novo. [Central do Aventureiro](npcs/central-aventureiro.md)
 - :calendar: **Nova agenda de eventos:** de dia (9h às 19h) ficam o Disfarce, o Quiz, a Caça ao Cogumelo e a Invasão de Cristais (domingo). À noite (19h às 22h) cada dia tem alguns eventos, com folga entre eles; o **Evento dos Cristais** é garantido **sábado e domingo às 20h** (e na quarta). [Eventos automáticos](eventos/automaticos.md)
 - :information_source: Na Central do Aventureiro: **Agenda de Eventos** e um NPC para cada evento, com as regras, o prêmio, o próximo horário e a inscrição. [Central do Aventureiro](npcs/central-aventureiro.md#eventos-parede-da-direita)

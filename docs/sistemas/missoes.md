@@ -2,7 +2,7 @@
 
 ## Hobota: Missões de Caça
 
-![](../assets/npcs/4_m_brz_indian.png){ align=right loading=lazy }
+![](../assets/npcs/4_m_job_hunter.png){ align=right loading=lazy }
 
 O Hobota fica na [Central do Aventureiro](../npcs/central-aventureiro.md). Cada missão pede **3 monstros** sorteados. **Não tem prazo** para terminar.
 
