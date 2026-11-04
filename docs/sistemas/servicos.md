@@ -109,6 +109,16 @@ Funciona com o nome do item (em português, pode ser só um pedaço) ou com o ID
 
 **Loja de compra:** a **Licença de Loja de Compra** custa 5 Moedas de Loki na Trocadora de Moedas (Blackroom). Ela abre uma loja que **compra** até 5 itens (itens comuns e consumíveis). Use `@at` para deixar a loja aberta enquanto estiver fora.
 
+## :scroll: Resumo da loja
+
+Quando você fecha a sua loja de venda, aparece no chat um resumo de tudo o que aconteceu desde que ela abriu:
+
+- **o que foi vendido** (quantidade e quanto zeny cada item rendeu);
+- **o total recebido** (já sem a taxa, quando houver);
+- **o que sobrou na loja** (quantidade e preço de cada item que ninguém comprou).
+
+O resumo só aparece para quem está com o jogo aberto. Uma loja deixada aberta com `@at` fecha sem resumo.
+
 ## :gear: Configurações que ficam salvas (@config)
 
 Digite **`@config`** para abrir uma janela com os comandos que você quer sempre ligados. O que você escolher volta sozinho toda vez que o personagem entra no jogo:

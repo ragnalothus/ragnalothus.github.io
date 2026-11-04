@@ -17,6 +17,8 @@ Mudanças em relação ao Ragnarok pré-renovação original.
 ## Super Aprendiz
 
 - **Não perde EXP ao morrer.**
+- **+2.000 de limite de peso.**
+- **+10 de DES extra**, 1 ponto a cada 5 níveis de classe até o nível 50 (somado aos bônus normais da classe).
 - **No nível 99:**
     - a oração do anjo dá a **Fúria de Crítico** a cada **20 minutos** (se ainda não deu o tempo, aparece quanto falta);
     - o **anjo salva da morte** (volta com HP e SP cheios e Corpo Fechado) a cada **3 horas**.
@@ -51,7 +53,7 @@ Mudanças em relação ao Ragnarok pré-renovação original.
 
 - **Kyrie Eleison:** a barreira absorve **60% do HP máximo** de quem recebe (mínimo de 2.000) e aguenta **30 golpes** no nível 10.
   Nos outros níveis, o dobro da barreira e o triplo de golpes do original.
-- **Magnus Exorcismus:** **não gasta Gema Azul** e acerta **qualquer inimigo**. Continua com +30% de dano em morto-vivo e demônio.
+- **Magnus Exorcismus:** **não gasta Gema Azul** e acerta **qualquer inimigo**. Continua com +30% de dano em morto-vivo e demônio. **Continua dando dano mesmo se quem usou ficar atordoado, congelado ou petrificado.**
 - **Impositio Manus:** além do ATQ, dá **+1% de ATQM por nível** (+5% no nível 5). O ATQM não vale na Guerra do Emperium.
 - **Perícia com Maça:** além do ATQ, dá **+1 de crítico por nível** com maças.
 - **Aqua Benedicta:** faz **até 300 Águas Bentas de uma vez** (quantas as Garrafas Vazias deixarem).
@@ -71,12 +73,12 @@ Mudanças em relação ao Ragnarok pré-renovação original.
   A **Coluna de Pedra (Earth Spike)** entrou no lugar da Rajada Congelante: nível 1 com Auto-Magia 2, nível 2 com Auto-Magia 3 e nível 5 a partir da Auto-Magia 4.
   Com o Espírito do Sábio, as Lanças vão até o nível 10 e a Coluna de Pedra sai sempre no nível 5.
 - **Criar Conversor Elemental:** faz **até 300 de uma vez**.
-- **Quebrar a Mente (Mind Breaker):** reduz a **MDEF do equipamento** (na Guerra do Emperium continua reduzindo a MDEF da INT).
+- **Enlouquecedor (Mind Breaker):** reduz a **MDEF do equipamento** (na Guerra do Emperium continua reduzindo a MDEF da INT).
 
 ## Mercador, Ferreiro e Mestre-Ferreiro
 
 - **Mamonita:** metade do zeny (nível 10 = 500 zeny).
-- **Choque do Carrinho:** metade do zeny (nível 10 = 750 zeny).
+- **Choque do Carrinho:** metade do zeny (nível 10 = 750 zeny). O dano conta **sempre como se o carrinho estivesse cheio**, qualquer que seja o peso dentro dele.
 - **Cavalo-de-Pau (Cart Revolution):** sempre dá o dano de carrinho cheio, qualquer que seja o peso.
 - **Adrenalina:** funciona também com **espada de uma mão**.
 - **Força Violenta e Força Violenta Máxima:** **não quebram mais a arma**. A Força Violenta Máxima continua depois de sair do jogo.
@@ -89,7 +91,7 @@ Mudanças em relação ao Ragnarok pré-renovação original.
 ## Gatuno, Mercenário e Arruaceiro
 
 - **Ataque Duplo pode ser crítico** (o do Gatuno e o de itens, como o Chapéu de Bebê Dragão).
-- **Apunhalar:** funciona **de qualquer posição** (não precisa estar atrás do alvo).
+- **Apunhalar:** funciona **de qualquer posição** (não precisa estar atrás do alvo), com uma espera fixa de **0,333 s** entre um uso e outro.
 - **Pegar Pedra:** funciona mesmo com excesso de peso.
 - **Névoa Tóxica (Venom Dust):** não gasta Gema Vermelha.
 - **Criar Veneno Mortal:** custa 10 de SP, **não tira HP se falhar** e faz **até 300 de uma vez**.
@@ -155,3 +157,7 @@ Mudanças em relação ao Ragnarok pré-renovação original.
 - Não precisam ser alimentados: a fome fica sempre cheia.
 - O pet nasce com **lealdade máxima**.
 - Intimidade de pet e homúnculo sobe 3x mais rápido.
+
+## Rankings de fama (Ferreiro, Alquimista e Taekwon)
+
+- No **dia 1 de cada mês** os pontos de fama de todos caem **5%**. Quem não continua forjando, fazendo poções ou cumprindo as missões Taekwon vai descendo no ranking aos poucos, e quem está ativo consegue chegar ao topo.
