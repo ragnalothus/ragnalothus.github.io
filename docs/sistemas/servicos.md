@@ -1,6 +1,6 @@
 # :bellhop_bell: Serviços
 
-Quase todos ficam na [Central do Aventureiro](../npcs/central-aventureiro.md) (entrada pelo NPC Central do Aventureiro em Prontera, 160,178). O Banqueiro e o Gerente de Builds continuam em [Prontera](../npcs/prontera.md).
+Uns ficam em [Prontera](../npcs/prontera.md) (Banqueiro, Cambista do Bilhão e Gerente de Builds) e outros na [Central do Aventureiro](../npcs/central-aventureiro.md) (entrada pelo NPC Central do Aventureiro em Prontera, 164,178).
 
 ## Estilista
 
@@ -32,7 +32,10 @@ Quer um nome novo, outro visual ou mais espaço? O Resgatador (144,178) troca os
 Guarda o seu zeny no banco. O banco é da **conta**: todos os seus personagens usam o mesmo saldo.
 Você também abre o banco em qualquer lugar com **`Ctrl + B`**.
 
-## Bill Doors
+## Cambista do Bilhão
+
+Fica em Prontera (160,178).
+
 
 Troca **1.000.000.000z** por uma **Ficha de 1 Bilhão de Zeny**, e a ficha de volta por zeny.
 Serve para guardar mais que o limite de 2 bilhões que dá para carregar.

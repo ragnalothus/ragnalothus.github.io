@@ -6,17 +6,17 @@
 
 O Hobota fica na [Central do Aventureiro](../npcs/central-aventureiro.md). Cada missão pede **3 monstros** sorteados. **Não tem prazo** para terminar.
 
-| Dificuldade | Nível | Abates de cada monstro | Zeny | Pontos de Missão |
+| Dificuldade | Nível mínimo | Abates de cada monstro | Zeny | Pontos de Missão |
 |---|---|---|---|---|
-| Iniciante | 1 a 40 | 50 | 50.000 | 1 |
-| Intermediário | 41 a 70 | 80 | 150.000 | 2 |
-| Avançado | 71 a 90 | 100 | 400.000 | 3 |
-| Elite | 91 a 99 | 120 | 800.000 | 5 |
+| Iniciante | 1 | 100 | 100.000 | 1 |
+| Intermediário | 41 | 150 | 300.000 | 2 |
+| Avançado | 71 | 200 | 800.000 | 3 |
+| Elite | 91 | 250 | 1.500.000 | 5 |
 
-Além do zeny e dos pontos, a missão dá EXP igual à EXP dos monstros pedidos.
-
+- **Antes de aceitar**, o Hobota mostra os 3 monstros e o prêmio completo: EXP de base, EXP de classe, zeny e Pontos de Missão. A EXP é a mesma de todos os monstros pedidos somados (ex.: 100 Porings = a EXP de 100 Porings).
+- Depois de aceitar, as 3 caças ficam no seu **diário de missões**, no canto direito da tela, com a contagem de cada monstro. Quando as 3 estiverem completas, volte ao Hobota para entregar.
 - **Uma missão a cada 8 horas por conta**, em um personagem por vez.
-- **Em grupo:** o líder pega a missão e todo o grupo (online, perto dele e sem outra missão) recebe a mesma. Abates de membros do grupo no mesmo mapa e na mesma tela contam para todos. Sair do grupo não cancela a missão.
+- **Em grupo:** o líder pega a missão e todo o grupo (online, perto dele e sem outra missão) recebe a mesma. Abates de membros do grupo na mesma tela contam para todos. Sair do grupo não cancela a missão.
 - **Bônus de grupo:** +1 Ponto de Missão a cada 2 membros.
 - **Desistir:** 50.000z (solo) ou 100.000z (grupo). Depois de desistir dá para pegar outra na hora.
 
@@ -38,6 +38,7 @@ Além do zeny e dos pontos, a missão dá EXP igual à EXP dos monstros pedidos.
 ## Quadro de Missões
 
 O Quadro de Missões fica na [Central do Aventureiro](../npcs/central-aventureiro.md). As missões podem ser repetidas **quantas vezes você quiser**.
+A EXP de cada missão aparece na lista do Quadro, antes de você escolher.
 
 ### Entregas
 

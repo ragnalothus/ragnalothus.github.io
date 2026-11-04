@@ -16,10 +16,10 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 
 | Prêmio | Moedas |
 |---|---|
-| Caixa Misteriosa | 10 |
-| Grimório de Combate | 10 |
-| Manual de Classe 100% | 10 |
-| Goma de Mascar | 15 |
+| Caixa Misteriosa | 50 |
+| Grimório de Combate | 20 |
+| Manual de Classe 100% | 20 |
+| Goma de Mascar | 20 |
 | Visual da Fortuna | 300 |
 | Pergaminho de Refino de Arma +10 | 400 |
 | Pergaminho de Refino de Equipamento +10 | 400 |

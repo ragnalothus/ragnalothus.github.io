@@ -25,7 +25,7 @@ O ranking Taekwon tem 20 posições (a janela do jogo mostra 10), e o bônus de 
 
 ![](../assets/npcs/4_f_madame.png){ align=right loading=lazy }
 
-As duas ficam na **Lotérica**, na [Central do Aventureiro](../npcs/central-aventureiro.md). Meia hora antes de cada sorteio, o servidor avisa todo mundo.
+As duas ficam na **Lotérica** (Prontera 146,197). Meia hora antes de cada sorteio, o servidor avisa todo mundo.
 
 ### Loteria Semanal
 

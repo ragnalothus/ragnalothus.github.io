@@ -125,7 +125,7 @@ Novas armas do [Forjador de Armas](../sistemas/servicos.md#forjador-de-armas):
 | ![](../assets/itens/60037.png) | Cupom de Troca de Sexo | [Resgatador de Cupons](../sistemas/servicos.md#resgatador-de-cupons) |
 | ![](../assets/itens/60038.png) | Cupom de Nome de Guilda | [Resgatador de Cupons](../sistemas/servicos.md#resgatador-de-cupons) |
 | ![](../assets/itens/60039.png) | Cupom de Vaga de Personagem | [Resgatador de Cupons](../sistemas/servicos.md#resgatador-de-cupons) |
-| ![](../assets/itens/60040.png) | Ficha de 1 Bilhão de Zeny | [Bill Doors](../sistemas/servicos.md#bill-doors) |
+| ![](../assets/itens/60040.png) | Ficha de 1 Bilhão de Zeny | [Cambista do Bilhão](../sistemas/servicos.md#cambista-do-bilhao) |
 
 ## Itens novos e alterados (antes)
 

@@ -4,6 +4,12 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :scroll: **Hobota:** mostra o prêmio completo (EXP, zeny e pontos) antes de você aceitar, e as caças aparecem no **diário de missões** do jogo, no canto direito da tela. As missões ficaram mais difíceis (100 a 250 de cada monstro, com nível mínimo) e o zeny subiu. [Missões](sistemas/missoes.md)
+- :scroll: **Quadro de Missões:** a EXP de cada entrega e de cada caça aparece na lista, antes de escolher. [Missões](sistemas/missoes.md#quadro-de-missoes)
+- :star: **Sala VIP nova:** um mapa só para o VIP, com o Salão VIP (serviços), a Galeria das Lojas (lojas por classe) e a Sala das Habilidades, ligados por portais. [Sala VIP](npcs/sala-vip.md)
+- :european_castle: Voltaram para Prontera: **Lotérica** (146,197), **Caçador de Cogumelos** (136,178) e o **Cambista do Bilhão** (era o Bill Doors, 160,178). **Oficial de Guerra** e **Arenas Privadas** agora ficam ao lado da Arena PvP. O NPC da Central do Aventureiro foi para 164,178. [Prontera](npcs/prontera.md)
+- :no_entry: Nas **ruas de Prontera** não dá mais para abrir chat nem loja; nas calçadas pode. [Prontera](npcs/prontera.md)
+- :rocket: Loja do **Evento de Lançamento**: Caixa Misteriosa por 50 moedas; Goma, Grimório e Manual de Classe por 20. [Lançamento](eventos/lancamento-e-streamers.md)
 - :office: **Central do Aventureiro:** as missões, os serviços, as armas lendárias e o Caçador de Cogumelos saíram de Prontera e foram para um centro novo. Fale com o NPC **Central do Aventureiro** em Prontera (160,178) para ir até lá. [Central do Aventureiro](npcs/central-aventureiro.md)
 - :crossed_swords: **Resta 1:** PvP todos contra todos às 10h, 13h, 16h, 19h e 22h, com `@evento`. O último vivo ganha 100 Bandeiras, 75 Moedas de Loki, 20 Moedas Douradas e 1 Caixa Misteriosa; cada abate dá 3 Bandeiras. [Eventos automáticos](eventos/automaticos.md#resta-1)
 - :alarm_clock: **Horário dos eventos:** nenhum evento automático acontece antes das 9h nem depois das 22h. Os eventos com inscrição (Resta 1, Dados, Bombring, Pique-pega, Quiz, Cristais e Invasão) são avisados minuto a minuto nos 5 minutos antes, e a inscrição fica aberta durante o aviso. O Evento dos Cristais das 22h passou para as 21h. [Eventos automáticos](eventos/automaticos.md)
