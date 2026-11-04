@@ -8,11 +8,11 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 
 | | Item | Chance | O que faz |
 |---|---|---|---|
-| ![](../assets/itens/60043.png) | Moeda de Lançamento | 2% | Troca com o Organizador do Lançamento |
+| ![](../assets/itens/60043.png) | Moeda de Lançamento | 2% | Troca no NPC Evento de Lançamento |
 | ![](../assets/itens/60044.png) | Poção de Lançamento | 3% | Recupera 10% do HP. Peso 0,5 |
 | ![](../assets/itens/60045.png) | Elixir de Lançamento | 3% | Recupera 8% do SP. Peso 0,5 |
 
-**Organizador do Lançamento** (Prontera 188,178), em Moedas de Lançamento:
+**Evento de Lançamento** (Prontera 188,178): loja de troca, a Moeda de Lançamento aparece ao lado de cada prêmio com a quantidade.
 
 | Prêmio | Moedas |
 |---|---|
@@ -21,11 +21,9 @@ Na abertura do servidor, os monstros de **nível 10 ou mais** (menos plantas) de
 | Grimório de Combate | 10 |
 | Manual de Classe 100% | 10 |
 | Goma de Mascar | 15 |
-| Caixa Misteriosa Rara | 150 |
 | Visual da Fortuna | 300 |
 | Pergaminho de Refino de Arma +10 | 400 |
 | Pergaminho de Refino de Equipamento +10 | 400 |
-| Caixa Lendária de Armamento | 1.500 |
 
 ## :clapper: Parceria de Streamers
 

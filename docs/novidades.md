@@ -2,6 +2,12 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
+## 04/11/2026
+
+- :shield: **Armamento Lendário** (Prontera 196,178): troque qualquer arma lendária por 20.000 Bandeiras + 10.000 Moedas de Loki + 2.000 Moedas Douradas. [Armas lendárias](mudancas/armas-lendarias.md)
+- :rocket: O NPC do **Evento de Lançamento** agora é uma loja de troca, com a Moeda de Lançamento ao lado de cada prêmio. A Caixa Misteriosa Rara e a Caixa Lendária de Armamento saíram dessa loja. [Lançamento](eventos/lancamento-e-streamers.md)
+- :handshake: **Moedas de Loki e Moedas Douradas** podem ser negociadas entre jogadores, por troca ou loja. [Moedas](servidor/moedas.md)
+
 ## 03/11/2026 (itens alterados)
 
 - :shield: **Itens alterados:** Espada Elemental, Jamadhar Glorioso, cajados para Espiritualista, Arco de Luna, Machado Veterano, chapéus, Piercing de Umbala, Medalha de Honra para Taekwon, Botas Temporais novas e mais. [Itens](mudancas/itens.md#itens-alterados)

@@ -9,6 +9,7 @@ O servidor tem três "moedas" de prêmio, todas trocadas na [Blackroom](../npcs/
 - Chance menor (2%): Orc Zombie, Thief Bug fêmea e macho e Familiar.
 - Também vem do [Quiz](../eventos/quiz.md), dos [eventos automáticos](../eventos/automaticos.md), da [Arena Lothus](../eventos/arena-lothus.md), da [Troca de Cartas](../sistemas/servicos.md#troca-de-cartas) e do [login diário](../sistemas/login-diario.md).
 - Vende para NPC por 10.000 zeny.
+- Pode ser negociada com outros jogadores (troca ou loja).
 
 **Trocadora de Moedas** (Blackroom 88,100), alguns preços em Moedas de Loki:
 
@@ -35,6 +36,7 @@ A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Passe Anti-G
 - **MVP:** 15 moedas para quem mata um MVP.
 - Também vem do [Quiz](../eventos/quiz.md), da [Torre MVP](../sistemas/mvps.md#torre-mvp) e da [Arena Lothus](../eventos/arena-lothus.md).
 - `@pontos` mostra quantas você tem.
+- Pode ser negociada com outros jogadores (troca ou loja). Não vende para NPC.
 
 **Gerente de Moedas Douradas** (Blackroom 88,94):
 
