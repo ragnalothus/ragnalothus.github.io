@@ -20,19 +20,20 @@ No domingo não tem o Quiz das 10h30 nem o Disfarce das 11h, por causa da Invas�
 
 Cada noite tem alguns eventos, com folga entre eles. O [Evento dos Cristais](cristais.md) é garantido **sábado e domingo às 20h** (e na quarta).
 
-| Dia | 19h | 20h | 21h |
-|---|---|---|---|
-| Segunda | Resta 1 | Dados | Bombring |
-| Terça | Pique-pega | Resta 1 | Dados |
-| Quarta | Bombring | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
-| Quinta | Dados | Pique-pega | Resta 1 |
-| Sexta | Resta 1 | Bombring | Pique-pega |
-| Sábado | Resta 1 | Evento dos Cristais (20h às 21h) | Bombring (21h15) |
-| Domingo | Dados | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
+| Dia | 19h | 19h30 | 20h | 21h |
+|---|---|---|---|---|
+| Segunda | Resta 1 | — | Dados | Bombring |
+| Terça | Pique-pega | Combate dos Cubos | Resta 1 | Dados |
+| Quarta | Bombring | — | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
+| Quinta | Dados | Combate dos Cubos | Pique-pega | Resta 1 |
+| Sexta | Resta 1 | Combate dos Cubos | Bombring | Pique-pega |
+| Sábado | Resta 1 | — | Evento dos Cristais (20h às 21h) | Bombring (21h15) |
+| Domingo | Dados | Combate dos Cubos | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
 
 | Evento | Prêmio |
 |---|---|
 | :crossed_swords: Resta 1 | 100 Bandeiras + 75 Moedas de Loki + 20 Moedas Douradas + 1 Caixa Misteriosa |
+| :package: [Combate dos Cubos](combate-dos-cubos.md) | 1º: 100 Bandeiras + 75 Moedas de Loki + 20 Moedas Douradas + 1 Caixa Misteriosa; 2º e 3º também ganham |
 | :game_die: Dados | 75 Moedas para o vencedor |
 | :bomb: Bombring | 75 Moedas para o vencedor |
 | :runner: Pique-pega | 30 Moedas para quem sobrar; 3 por pegada |

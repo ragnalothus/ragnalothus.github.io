@@ -6276,6 +6276,7 @@ Peso como no jogo (o 10 do servidor é 1 no jogo).
 | ![](../assets/itens/60044.png){ loading=lazy } | 60044 | Poção de Lançamento | Cura | 0,5 |
 | ![](../assets/itens/60045.png){ loading=lazy } | 60045 | Elixir de Lançamento | Cura | 0,5 |
 | ![](../assets/itens/60046.png){ loading=lazy } | 60046 | Caixa Lendária de Armamento | Consumível | 2 |
+| ![](../assets/itens/60047.png){ loading=lazy } | 60047 | Cubo de Poder | Outros | 0 |
 | ![](../assets/itens/60050.png){ loading=lazy } | 60050 | Lâmina Lendária do Lorde [2] | Arma | 200 |
 | ![](../assets/itens/60051.png){ loading=lazy } | 60051 | Lança Sagrada do Paladino [2] | Arma | 200 |
 | ![](../assets/itens/60052.png){ loading=lazy } | 60052 | Machado Lendário do Mestre-Ferreiro [2] | Arma | 250 |

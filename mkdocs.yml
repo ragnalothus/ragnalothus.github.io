@@ -89,6 +89,7 @@ nav:
       - Rankings e loteria: sistemas/rankings-e-loteria.md
   - Eventos:
       - Eventos automáticos: eventos/automaticos.md
+      - Combate dos Cubos: eventos/combate-dos-cubos.md
       - Quiz: eventos/quiz.md
       - Evento dos Cristais: eventos/cristais.md
       - Invasão de Cristais: eventos/invasao.md
