@@ -10,24 +10,24 @@ Cada personagem da sua conta que chega ao **nível de base 99** deixa um **bônu
 
 | Classe 99 na conta | Bônus para todos os personagens da conta |
 |---|---|
-| Cavaleiro | +2% de HP máximo |
-| Templário | +3 de DEF |
-| Monge | +2 de FOR |
-| Sacerdote | +3% de poder de cura |
+| Cavaleiro | +5% de HP máximo |
+| Templário | +5 de DEF |
+| Monge | +5 de FOR |
+| Sacerdote | +10% de cura das habilidades e +10% de HP recuperado com itens de cura |
 | Bruxo | +2% de ATQM |
-| Sábio | +2 de INT |
-| Caçador | +2 de DES |
-| Bardo | +2% de dano à distância |
-| Odalisca | +2% de SP máximo |
-| Mercenário | +2 de AGI |
-| Arruaceiro | +2 de SOR |
+| Sábio | +5 de INT |
+| Caçador | +5 de DES |
+| Bardo | +5% de dano à distância |
+| Odalisca | +4% de SP máximo |
+| Mercenário | +5 de AGI |
+| Arruaceiro | +5 de SOR |
 | Ferreiro | +2% de ATQ |
 | Alquimista | +5% de cura das poções |
-| Super Aprendiz | +1 em todos os atributos |
-| Taekwon | +3 de Esquiva |
-| Mestre Taekwon | +3 de DEFM |
-| Espiritualista | +2 de VIT |
-| Justiceiro | +3 de Precisão |
-| Ninja | +1 de Esquiva Perfeita |
+| Super Aprendiz | +2 em todos os atributos |
+| Taekwon | +5 de Esquiva |
+| Mestre Taekwon | +5 de DEFM |
+| Espiritualista | +5 de VIT |
+| Justiceiro | +5 de Precisão |
+| Ninja | +4 de Esquiva Perfeita |
 
 Com todas as 19 classes no 99, um personagem novo da conta já começa com todos esses bônus.

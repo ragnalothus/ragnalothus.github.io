@@ -59,7 +59,7 @@ A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Asa de Mosca
 
 | Item | Preço |
 |---|---|
-| Chapéu de Bandeira Brasileira (+25% de velocidade) | 100 |
+| Chapéu de Bandeira Brasileira (+12% de velocidade, +2 em todos os atributos) | 100 |
 | 335 chapéus do bRO (2 lojas) | 200 cada |
 | Carta Flor do Luar | 500 |
 | Grimório | 500 |
