@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 04/11/2026
 
+- :compass: **Guia completo para iniciantes:** do personagem novo ao fim de jogo, passo a passo. [Guia para iniciantes](primeiros-passos/guia-iniciante.md)
 - :tophat: **167 visuais exclusivos novos** (asas, auras, caudas, chifres, balões, viseiras e mais). Saem da nova **Caixa de Visuais** (100 Moedas de Lançamento na loja do Evento de Lançamento) e da aba **Limited** da loja de cash, que agora sorteia só esses visuais. [Visuais exclusivos](sistemas/visuais.md)
 - :mouse_three_button: **Cursor novo** e ícones novos para os Manuais de Classe, Pergaminhos de Refino +10, Manual de Combate 300%, Goma de Mascar 250% e Álbum de Cartas Lendário.
 - :hourglass: **Presença:** a cada Moeda Dourada de presença o chat mostra há quanto tempo você está online e quantas moedas de presença ganhou nesta sessão (zera ao sair do jogo). Também no `@pontos`. [Moedas](servidor/moedas.md)

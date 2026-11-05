@@ -1,5 +1,8 @@
 # Começando
 
+!!! tip
+    Primeira vez no servidor? Veja o [Guia completo para iniciantes](guia-iniciante.md).
+
 ## Ilha do Noviço
 
 Todo personagem novo nasce na **Ilha do Noviço**. Lá tem:

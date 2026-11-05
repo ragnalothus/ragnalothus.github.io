@@ -63,6 +63,7 @@ nav:
       - Novidades: novidades.md
       - Em breve: em-breve.md
   - Primeiros passos:
+      - Guia para iniciantes: primeiros-passos/guia-iniciante.md
       - Começando: primeiros-passos/comecando.md
       - Comandos: primeiros-passos/comandos.md
       - Regras: primeiros-passos/regras.md
