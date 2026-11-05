@@ -5,7 +5,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 ## 05/11/2026
 
 - :crown: **Legado da conta:** cada personagem 99 da conta dá um bônus pequeno, da classe dele, a todos os personagens da conta (inclusive a ele mesmo). Bônus maiores em 05/11 (ex.: +5 nos atributos, Cavaleiro +5% de HP). Veja os seus com `@legado`. [Legado da conta](sistemas/legado.md)
-- :four_leaf_clover: **Mega Lothus** (a antiga Loteria Diária): cada jogo agora pede 1 **Bilhete da Mega Lothus**, ganho na Missão da Mega Lothus (100 monstros, até 3 por dia) ou comprado de outro jogador. [Loterias](sistemas/rankings-e-loteria.md#mega-lothus)
+- :four_leaf_clover: **Mega Lothus** (a antiga Loteria Diária): cada jogo agora pede 1 **Bilhete da Mega Lothus**, ganho na Missão da Mega Lothus (100 monstros e retirada na Lotérica, até 3 por dia) ou comprado de outro jogador. [Loterias](sistemas/rankings-e-loteria.md#mega-lothus)
 - :flag_br: **Chapéu de Bandeira Brasileira** com sprite própria: boné com a bandeira do Brasil (também o visual da Chapeleira). Agora dá **+12% de velocidade de movimento** (era +25%) e **+2 em todos os atributos**.
 
 ## 04/11/2026

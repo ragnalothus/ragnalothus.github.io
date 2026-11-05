@@ -35,7 +35,7 @@ As duas ficam na **Lotérica** (Prontera 146,197). Meia hora antes de cada sorte
 ### :four_leaf_clover: Mega Lothus
 
 - Escolha **6 números de 1 a 40** (ou peça números aleatórios) entregando **1 Bilhete da Mega Lothus** por jogo. Até 10 jogos por conta por dia.
-- **Como ganhar o bilhete:** a **Missão da Mega Lothus**, com a própria Lotérica: derrote **100 monstros** e o bilhete cai direto na mochila. Valem monstros de até 20 níveis abaixo do seu (abaixo do nível 30, qualquer monstro). Até **3 missões por conta por dia**; a cada 25 monstros o chat mostra o progresso.
+- **Como ganhar o bilhete:** a **Missão da Mega Lothus**, com a própria Lotérica. Escolha *Missão da Mega Lothus - começar ou ver progresso*, derrote **100 monstros** e volte à Lotérica em *Missão da Mega Lothus - retirar o bilhete*. Valem monstros de até 20 níveis abaixo do seu (abaixo do nível 30, qualquer monstro). A cada monstro o chat mostra quantos faltam, e no fim avisa que a missão foi concluída. Até **3 missões por conta por dia**.
 - O bilhete **pode ser negociado e vendido** a outros jogadores (troca e loja).
 - Sorteio **todo dia às 20h45**. O prêmio chega pelo correio:
 
