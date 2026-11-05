@@ -89,7 +89,7 @@ Chance antes das rates do servidor (no jogo, multiplique pela rate de drop: 9x n
 | ![](../assets/itens/60020.png) | Caixa de Comidas +10 | Dá **10 de cada** comida +10 (antes era 1) |
 | ![](../assets/itens/616.png) | Velho Álbum de Cartas | Anuncia para o servidor a carta que saiu |
 | ![](../assets/itens/12548.png) | Licença de Loja de Compra | Abre uma loja de compra com 5 itens; 20 Moedas de Loki |
-| ![](../assets/itens/5308.png) | Chapéu de Bandeira Brasileira | Ganhou sprite (o do cliente não existia; usa o laço da Bandeira Brasileira) |
+| ![](../assets/itens/5308.png) | Chapéu de Bandeira Brasileira | Ganhou sprite própria: boné com a bandeira do Brasil num mastro |
 | ![](../assets/itens/533.png) | Suco de Uva | 4.000z na Utilidades VIP |
 | ![](../assets/itens/9087.png) | Ovo de Grand Orc | Novo nome do Ovo de Orc Superior |
 
