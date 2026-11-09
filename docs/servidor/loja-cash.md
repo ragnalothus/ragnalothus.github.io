@@ -25,4 +25,4 @@ Os visuais são os mesmos da [Chapeleira](../sistemas/chapeleira.md): só aparê
 
 ## Como conseguir cash (ROPs)
 
-Nenhuma troca de moedas ou bandeiras dá ROPs. Por enquanto o cash vem da [Arena PvP](../eventos/arena-pvp.md) (500 por jogador derrotado).
+Nenhuma troca de moedas ou bandeiras dá ROPs. Por enquanto o cash vem da [Arena PvP](../eventos/arena-pvp.md) (500 por vitória válida no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp)).

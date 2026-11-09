@@ -8,6 +8,8 @@ Comandos que qualquer jogador pode usar.
 | `@vip` | Leva para a Sala VIP e mostra até quando vai o seu VIP |
 | `@pontos` | Mostra quantas Moedas Douradas você tem e como ganhar mais |
 | `@rankmvp` | Ranking de MVPs da semana e do mês |
+| `@rankpvp` | Sua divisão no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp): vitórias, sequência, proteção e Emblema do Desafiante |
+| `@copa` | Menu da [Copa Lothus](../eventos/arena-pvp.md#copa-lothus): inscrição, fila, classificação e prêmios |
 | `@galeria` | Abre a [Galeria de Cartas](../sistemas/galeria.md): o álbum de cartas da sua conta |
 | `@r <resposta>` ou `@resposta <resposta>` | Responde a pergunta do [Quiz](../eventos/quiz.md) |
 | `@arena` | Entra na fila da [Arena Lothus](../eventos/arena-lothus.md) |
@@ -22,7 +24,7 @@ Comandos que qualquer jogador pode usar.
 | `@ws2 <item>` | Quem está vendendo o item, do mais barato para o mais caro. Filtros: `+refino` e `mín-máx`. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
 | `@wb <item>` (ou `@wb2`, `@whobuy`) | Quem está comprando o item, do que paga mais para o que paga menos |
 | `@at` | Deixa a sua loja (de venda ou de compra) aberta enquanto você está fora |
-| `@evento` | Entra no evento automático com inscrição aberta (Resta 1, Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
+| `@evento` | Entra no evento automático com inscrição aberta (Resta 1, Combate dos Cubos, Pique-gema 3x3, Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
 | `@boneco` | Dentro da Sala de Treino: cria e troca os bonecos de treino. [Serviços](../sistemas/servicos.md#sala-de-treino) |
 
 ## Oração do Super Aprendiz

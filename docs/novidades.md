@@ -4,6 +4,8 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 09/11/2026
 
+- :trophy: **Ranking PvP com divisões:** cada vitória na Arena PvP conta para subir da Divisão 10 até a Elite, com embalo (vitória vale 2 da 3ª seguida em diante), proteção de 3 derrotas, prêmio da semana por divisão e top 20 da Elite com prêmio no fim do mês. Veja a sua com `@rankpvp`. [Ranking PvP](eventos/arena-pvp.md#ranking-pvp)
+- :medal: **Copa Lothus:** competição semanal x1 no fim de semana. A entrada é o **Emblema do Desafiante** (a cada 50 vitórias na Arena PvP): 30 lutas, fila com `@copa` e prêmios pela pontuação no domingo. [Copa Lothus](eventos/arena-pvp.md#copa-lothus)
 - :gem: **Pique-gema 3x3:** evento novo de times. Time Azul contra Time Vermelho disputam as gemas da mina no centro da arena: junte 10 gemas e segure por 15 segundos para vencer. Às 19h30 de segunda, quarta e sábado, inscrição com `@evento`. [Pique-gema 3x3](eventos/pique-gema.md)
 - :scroll: **Descrições das habilidades no jogo:** as habilidades que mudaram no servidor agora mostram as mudanças, em azul, no fim da descrição (janela de habilidades). Reabra o jogo para ver. [Mudanças de classe](mudancas/classes.md)
 
