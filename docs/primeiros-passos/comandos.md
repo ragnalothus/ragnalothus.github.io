@@ -10,6 +10,7 @@ Comandos que qualquer jogador pode usar.
 | `@rankmvp` | Ranking de MVPs da semana e do mês |
 | `@rankpvp` | Sua divisão no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp): vitórias, sequência, proteção e Emblema do Desafiante |
 | `@copa` | Menu da [Copa Lothus](../eventos/arena-pvp.md#copa-lothus): inscrição, fila, classificação e prêmios |
+| `@passe` | Abre o [Passe de Batalha](../sistemas/passe-batalha.md): nível, pontos de hoje e prêmios |
 | `@galeria` | Abre a [Galeria de Cartas](../sistemas/galeria.md): o álbum de cartas da sua conta |
 | `@r <resposta>` ou `@resposta <resposta>` | Responde a pergunta do [Quiz](../eventos/quiz.md) |
 | `@arena` | Entra na fila da [Arena Lothus](../eventos/arena-lothus.md) |
