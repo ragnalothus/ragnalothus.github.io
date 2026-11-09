@@ -97,7 +97,7 @@ Chance antes das rates do servidor (no jogo, multiplique pela rate de drop: 9x n
 
 ![](../assets/itens/60041.png) **Visual da Fortuna** (visual do meio, com a aparência das Asas Malignas). A cada monstro derrotado com ele equipado:
 1% de chance de 1 Bandeira, 1% de 1 Moeda de Loki, 0,5% de 1 Moeda Dourada e 0,01% de um ![](../assets/itens/60042.png) **Martelo de Refinar Carta**
-(para o refino de cartas, que chega em breve). Vem da Caixa Misteriosa Rara (0,5%), do Trocador de Bandeiras (15.000), do Gerente de Moedas Douradas (3.000)
+(para o [refino das cartas](../sistemas/ferreiro-e-refino.md#refino-das-cartas-1-a-10)). Vem da Caixa Misteriosa Rara (0,5%), do Trocador de Bandeiras (15.000), do Gerente de Moedas Douradas (3.000)
 e do Evento de Lançamento (300). O Martelo também sai das Caixas Misteriosas.
 
 Armas lendárias: veja [Armas lendárias](armas-lendarias.md).

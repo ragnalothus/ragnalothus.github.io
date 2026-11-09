@@ -25,7 +25,5 @@ O que ainda vai chegar ao Ragnalothus. A ordem e os detalhes podem mudar.
 
 ## :compass: Conteúdo novo
 
-- **Refinar carta** de +1 a +10: o bônus da carta sobe a cada refino.
 - **Dungeon nova de fim de jogo:** monstros do Biolab mais fortes, equipamentos e cartas novas e um item de troca.
 - **Old Glast Heim.**
-- **Passe de batalha grátis.**
