@@ -26,7 +26,8 @@ Comandos que qualquer jogador pode usar.
 | `@ws2 <item>` | Quem está vendendo o item, do mais barato para o mais caro. Filtros: `+refino` e `mín-máx`. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
 | `@wb <item>` (ou `@wb2`, `@whobuy`) | Quem está comprando o item, do que paga mais para o que paga menos |
 | `@at` | Deixa a sua loja (de venda ou de compra) aberta enquanto você está fora |
-| `@evento` | Entra no evento automático com inscrição aberta (Resta 1, Combate dos Cubos, Pique-gema 3x3, Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
+| `@evento` | Entra no evento automático com inscrição aberta (Resta 1, Combate dos Cubos, Pique-gema 3x3, Detetive, Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
+| `@detetive` | No Detetive: suas cartas, anotações automáticas (o que já te mostraram) e a sua jogada. [Detetive](../eventos/detetive.md) |
 | `@boneco` | Dentro da Sala de Treino: cria e troca os bonecos de treino. [Serviços](../sistemas/servicos.md#sala-de-treino) |
 
 ## Oração do Super Aprendiz

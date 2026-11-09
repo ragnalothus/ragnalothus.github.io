@@ -41,6 +41,7 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 
 | Posição | NPC | O que faz |
 |---|---|---|
+| 68,40 | **Detetive** | Regras, prêmios, próximo horário e inscrição. [Detetive](../eventos/detetive.md) |
 | 68,42 | **Evento dos Dados** | Regras, prêmio, próximo horário e inscrição |
 | 68,44 | **Bombring** | Regras, prêmio, próximo horário e inscrição |
 | 68,46 | **Quiz** | Regras e horários |

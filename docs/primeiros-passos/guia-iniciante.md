@@ -58,10 +58,10 @@ O servidor tem várias moedas. As principais:
 ## 5. Eventos (todo dia, das 9h às 22h)
 
 - **De dia:** Disfarce, Quiz, Caça ao Cogumelo e Invasão de Cristais.
-- **À noite (19h às 22h):** os eventos da **Agenda de Eventos** (NPC em Prontera), como Resta 1, Combate dos Cubos, Pique-gema 3x3, Dados e Bombring. O **Evento dos Cristais** é garantido sábado e domingo às 20h.
+- **À noite (19h às 22h):** os eventos da **Agenda de Eventos** (NPC em Prontera), como Resta 1, Combate dos Cubos, Pique-gema 3x3, Detetive, Dados e Bombring. O **Evento dos Cristais** é garantido sábado e domingo às 20h.
 - Os eventos com inscrição avisam no chat a cada minuto nos 5 minutos antes. Para entrar, use `@evento`.
 
-[Eventos automáticos](../eventos/automaticos.md) · [Quiz](../eventos/quiz.md) · [Evento dos Cristais](../eventos/cristais.md) · [Combate dos Cubos](../eventos/combate-dos-cubos.md) · [Pique-gema 3x3](../eventos/pique-gema.md)
+[Eventos automáticos](../eventos/automaticos.md) · [Quiz](../eventos/quiz.md) · [Evento dos Cristais](../eventos/cristais.md) · [Combate dos Cubos](../eventos/combate-dos-cubos.md) · [Pique-gema 3x3](../eventos/pique-gema.md) · [Detetive](../eventos/detetive.md)
 
 ## 6. MVPs
 

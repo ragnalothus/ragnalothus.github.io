@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 09/11/2026
 
+- :mag: **Evento Detetive:** jogo de tabuleiro de dedução para 3 a 6 jogadores por mesa. Cada um vira uma profissão sorteada, rola o dado, anda pelos 9 cômodos e dá palpites para descobrir quem foi, com qual arma e onde. Quinta às 21h, inscrição com `@evento`; anotações com `@detetive`. [Detetive](eventos/detetive.md)
 - :triangular_flag_on_post: **Facções Vermelha e Azul:** escolha a sua (vale para a conta toda) e ajude-a com MVPs, monstros, PvP e eventos. A facção que vence a semana ganha +10% de EXP e de drop; a que vence o mês dá prêmio pelo correio; e na última sexta do mês tem a **Guerra de Facção**. `@faccao` [Facções](sistemas/faccoes.md)
 - :hammer: **Refino das cartas (+1 a +10):** um Ferreiro usa o Martelo de Refinar Carta na Forja Lendária para refinar as cartas de um equipamento; cada nível dá +10% nos bônus das cartas encaixadas nele. O equipamento e as cartas nunca quebram. [Refino das cartas](sistemas/ferreiro-e-refino.md#refino-das-cartas-1-a-10)
 - :ticket: **Passe de Batalha grátis:** 30 níveis por mês com prêmio em cada nível (Bandeiras, Moedas, Caixas, Martelo de Refinar Carta e, no nível 30, Caixa de Visuais + Caixa Misteriosa Rara). Pontos por monstros, MVPs, tempo online, login do dia e vitórias no PvP. NPC na Central do Aventureiro ou `@passe`. [Passe de Batalha](sistemas/passe-batalha.md)
