@@ -2,6 +2,11 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
+## 09/11/2026
+
+- :gem: **Pique-gema 3x3:** evento novo de times. Time Azul contra Time Vermelho disputam as gemas da mina no centro da arena: junte 10 gemas e segure por 15 segundos para vencer. Às 19h30 de segunda, quarta e sábado, inscrição com `@evento`. [Pique-gema 3x3](eventos/pique-gema.md)
+- :scroll: **Descrições das habilidades no jogo:** as habilidades que mudaram no servidor agora mostram as mudanças, em azul, no fim da descrição (janela de habilidades). Reabra o jogo para ver. [Mudanças de classe](mudancas/classes.md)
+
 ## 05/11/2026
 
 - :crown: **Legado da conta:** cada personagem 99 da conta dá um bônus pequeno, da classe dele, a todos os personagens da conta (inclusive a ele mesmo). Bônus maiores em 05/11 (ex.: +5 nos atributos, Cavaleiro +5% de HP). Veja os seus com `@legado`. [Legado da conta](sistemas/legado.md)

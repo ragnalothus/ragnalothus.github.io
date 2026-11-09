@@ -44,5 +44,6 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 | 68,44 | **Bombring** | Regras, prêmio, próximo horário e inscrição |
 | 68,46 | **Quiz** | Regras e horários |
 | 68,48 | **Combate dos Cubos** | Regras, prêmios, próximo horário e inscrição. [Combate dos Cubos](../eventos/combate-dos-cubos.md) |
+| 68,50 | **Pique-gema** | Regras, prêmios, próximo horário e inscrição. [Pique-gema 3x3](../eventos/pique-gema.md) |
 
 A **Agenda de Eventos** fica em Prontera (168,178), ao lado do NPC da Central.

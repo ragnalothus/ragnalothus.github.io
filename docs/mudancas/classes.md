@@ -2,6 +2,9 @@
 
 Mudanças em relação ao Ragnarok pré-renovação original.
 
+!!! tip "No jogo"
+    A descrição de cada habilidade alterada (janela de habilidades) mostra as mudanças em **azul**, no fim do texto.
+
 ## Aprendiz
 
 - **Usa qualquer habilidade sem pré-requisito** (vale para o Aprendiz normal, o transclasse e o bebê; não para o Super Aprendiz):

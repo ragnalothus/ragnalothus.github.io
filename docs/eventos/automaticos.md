@@ -22,18 +22,19 @@ Cada noite tem alguns eventos, com folga entre eles. O [Evento dos Cristais](cri
 
 | Dia | 19h | 19h30 | 20h | 21h |
 |---|---|---|---|---|
-| Segunda | Resta 1 | — | Dados | Bombring |
+| Segunda | Resta 1 | [Pique-gema 3x3](pique-gema.md) | Dados | Bombring |
 | Terça | Pique-pega | Combate dos Cubos | Resta 1 | Dados |
-| Quarta | Bombring | — | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
+| Quarta | Bombring | [Pique-gema 3x3](pique-gema.md) | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
 | Quinta | Dados | Combate dos Cubos | Pique-pega | Resta 1 |
 | Sexta | Resta 1 | Combate dos Cubos | Bombring | Pique-pega |
-| Sábado | Resta 1 | — | Evento dos Cristais (20h às 21h) | Bombring (21h15) |
+| Sábado | Resta 1 | [Pique-gema 3x3](pique-gema.md) | Evento dos Cristais (20h às 21h) | Bombring (21h15) |
 | Domingo | Dados | Combate dos Cubos | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
 
 | Evento | Prêmio |
 |---|---|
 | :crossed_swords: Resta 1 | 100 Bandeiras + 75 Moedas de Loki + 20 Moedas Douradas + 1 Caixa Misteriosa |
 | :package: [Combate dos Cubos](combate-dos-cubos.md) | 1º: 100 Bandeiras + 75 Moedas de Loki + 20 Moedas Douradas + 1 Caixa Misteriosa; 2º e 3º também ganham |
+| :gem: [Pique-gema 3x3](pique-gema.md) | Vitória: 60 Bandeiras + 40 Moedas de Loki + 10 Moedas Douradas para cada um do time; empate e derrota também ganham |
 | :game_die: Dados | 75 Moedas para o vencedor |
 | :bomb: Bombring | 75 Moedas para o vencedor |
 | :runner: Pique-pega | 30 Moedas para quem sobrar; 3 por pegada |
