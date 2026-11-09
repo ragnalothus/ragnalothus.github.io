@@ -86,6 +86,7 @@ Depois de um bom equipamento, os MVPs são a melhor fonte de moedas e itens raro
 
 - **Armas lendárias:** uma por classe, pela troca do Armamento Lendário (Central do Aventureiro) ou pela Caixa Lendária de Armamento. [Armas lendárias](../mudancas/armas-lendarias.md)
 - **Passe de Batalha:** grátis, 30 prêmios por mês só jogando normalmente (`@passe`). [Passe de Batalha](../sistemas/passe-batalha.md)
+- **Facções:** escolha a Vermelha ou a Azul ao entrar; tudo o que você faz soma pontos para ela, e a facção vencedora da semana ganha +10% de EXP e de drop (`@faccao`). [Facções](../sistemas/faccoes.md)
 - **PvP:** [Arena PvP](../eventos/arena-pvp.md) (Ranking PvP com divisões e a Copa Lothus semanal) e [Arena Lothus](../eventos/arena-lothus.md) (10 contra 10, com torres e cristais).
 - **Coleções:** completar categorias da Galeria e juntar os [Visuais exclusivos](../sistemas/visuais.md).
 - **Login diário:** abra a janela de presença todo dia para ganhar o prêmio do dia. [Login diário](../sistemas/login-diario.md)

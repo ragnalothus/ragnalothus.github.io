@@ -26,7 +26,7 @@ Cada noite tem alguns eventos, com folga entre eles. O [Evento dos Cristais](cri
 | Terça | Pique-pega | Combate dos Cubos | Resta 1 | Dados |
 | Quarta | Bombring | [Pique-gema 3x3](pique-gema.md) | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
 | Quinta | Dados | Combate dos Cubos | Pique-pega | Resta 1 |
-| Sexta | Resta 1 | Combate dos Cubos | Bombring | Pique-pega |
+| Sexta | Resta 1 | Combate dos Cubos | Bombring | Pique-pega (na última sexta do mês: [Guerra de Facção](../sistemas/faccoes.md#guerra-de-faccao)) |
 | Sábado | Resta 1 | [Pique-gema 3x3](pique-gema.md) | Evento dos Cristais (20h às 21h) | Bombring (21h15) |
 | Domingo | Dados | Combate dos Cubos | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
 

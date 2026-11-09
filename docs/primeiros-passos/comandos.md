@@ -11,6 +11,7 @@ Comandos que qualquer jogador pode usar.
 | `@rankpvp` | Sua divisão no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp) e a fila das lutas ranqueadas (entrar e sair) |
 | `@copa` | Menu da [Copa Lothus](../eventos/arena-pvp.md#copa-lothus): inscrição, fila, classificação e prêmios |
 | `@passe` | Abre o [Passe de Batalha](../sistemas/passe-batalha.md): nível, pontos de hoje e prêmios |
+| `@faccao` | Abre as [Facções](../sistemas/faccoes.md): escolher a facção, pontos da semana, ranking e a Guerra de Facção |
 | `@galeria` | Abre a [Galeria de Cartas](../sistemas/galeria.md): o álbum de cartas da sua conta |
 | `@r <resposta>` ou `@resposta <resposta>` | Responde a pergunta do [Quiz](../eventos/quiz.md) |
 | `@arena` | Entra na fila da [Arena Lothus](../eventos/arena-lothus.md) |

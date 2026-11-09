@@ -18,11 +18,6 @@ O que ainda vai chegar ao Ragnalothus. A ordem e os detalhes podem mudar.
 - **Prêmios da competição semanal** por pontuação.
 - **Classificatória para a competição ao vivo** (top 16).
 
-## :triangular_flag_on_post: Facções
-
-- **Facções Vermelha e Azul:** escolha ao entrar no jogo e marca no nome.
-- **Prêmio mensal** para a facção vencedora e **guerra de facção** todo mês.
-
 ## :compass: Conteúdo novo
 
 - **Dungeon nova de fim de jogo:** monstros do Biolab mais fortes, equipamentos e cartas novas e um item de troca.
