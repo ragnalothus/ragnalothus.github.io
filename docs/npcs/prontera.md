@@ -16,7 +16,7 @@ Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as arm
 | | 157,193 | **Platina** | Dá as habilidades de quest (platina) da sua classe. Vai mudar de lugar em breve |
 | | 159,192 | **Teleportadora** | Cidades, cavernas e lugares especiais (detalhes abaixo) |
 | ![](../assets/npcs/4_f_pinkwoman.png){ loading=lazy } | 166,198 | **Chapeleira** | Transforma chapéus em visuais. [Chapeleira](../sistemas/chapeleira.md) |
-| | 149,191 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md); Ranking PvP com divisões, prêmio da semana e Copa Lothus |
+| | 149,191 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md); fila do Ranking PvP com divisões, prêmio da semana, Copa Lothus e Arena PvP livre |
 | ![](../assets/npcs/4_m_ky_head.png){ loading=lazy } | 151,191 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
 | ![](../assets/npcs/4_m_dst_tough.png){ loading=lazy } | 153,191 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
 | ![](../assets/npcs/4_f_sister.png){ loading=lazy } | 146,197 | **Lotérica** | Loteria Semanal, Mega Lothus e a Missão da Mega Lothus. [Loteria](../sistemas/rankings-e-loteria.md#loterias) |

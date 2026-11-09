@@ -17,7 +17,7 @@ O Passe de Batalha é **grátis** e vale para **todos os personagens da conta**.
 | Cada MVP derrotado | 50 |
 | Tempo online | 5 a cada 10 minutos (até 60 por dia) |
 | Primeiro login do dia | 20 |
-| Vitória válida na [Arena PvP](../eventos/arena-pvp.md#ranking-pvp) | 10 |
+| Vitória no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp) | 10 |
 | Vitória na [Copa Lothus](../eventos/arena-pvp.md#copa-lothus) | 20 |
 
 ## Prêmios

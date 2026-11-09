@@ -8,7 +8,7 @@ Comandos que qualquer jogador pode usar.
 | `@vip` | Leva para a Sala VIP e mostra até quando vai o seu VIP |
 | `@pontos` | Mostra quantas Moedas Douradas você tem e como ganhar mais |
 | `@rankmvp` | Ranking de MVPs da semana e do mês |
-| `@rankpvp` | Sua divisão no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp): vitórias, sequência, proteção e Emblema do Desafiante |
+| `@rankpvp` | Sua divisão no [Ranking PvP](../eventos/arena-pvp.md#ranking-pvp) e a fila das lutas ranqueadas (entrar e sair) |
 | `@copa` | Menu da [Copa Lothus](../eventos/arena-pvp.md#copa-lothus): inscrição, fila, classificação e prêmios |
 | `@passe` | Abre o [Passe de Batalha](../sistemas/passe-batalha.md): nível, pontos de hoje e prêmios |
 | `@galeria` | Abre a [Galeria de Cartas](../sistemas/galeria.md): o álbum de cartas da sua conta |
