@@ -11,6 +11,8 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 - :triangular_flag_on_post: **Facções:** o nome da facção aparece como **Vermelha** ou **Azul** na frente do seu nome. [Facções](sistemas/faccoes.md)
 - :shield: **`@config`** agora liga e desliga a proteção contra roubo de monstro (`@noks`). [Serviços](sistemas/servicos.md#configuracoes-que-ficam-salvas-config)
 - :package: **VIP** pode abrir o armazém de qualquer lugar com `@storage`. [VIP](servidor/vip.md)
+- :world_map: **Teleportadoras:** as duas cavernas de Comodo agora são opções separadas: **Medusa** e **Sapo de Thara e Hidra** (na VIP, com o lado norte junto). A VIP também leva aos 4 campos dos **Crocodilos** de Comodo. [Teleportadora](npcs/prontera.md)
+- :mag: **Curandeiras** (Prontera, Sala VIP e Ilha do Noviço) agora identificam todos os itens não identificados do inventário.
 - :sparkles: **Encantadora:** até o nível 70 não pede o item do elemento, só o zeny. [Sala VIP](npcs/sala-vip.md#encantadora)
 
 ## 09/11/2026

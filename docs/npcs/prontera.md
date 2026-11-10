@@ -12,7 +12,7 @@ Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as arm
 |---|---|---|---|
 | ![](../assets/npcs/4_f_01.png){ loading=lazy } | 149,193 | **Resetadora** | Reseta atributos e habilidades. Grátis até o nível 80; depois 1,5kk cada ou 2kk os dois |
 | | 151,193 | **Removedora de Cartas** | Tira as cartas do equipamento por 350.000 zeny, sem risco |
-| ![](../assets/npcs/4_f_madame.png){ loading=lazy } | 155,193 | **Curandeira** | Cura HP e SP, Aumentar Agilidade 10 e Bênção 10 (30 minutos) e conserta tudo. Grátis e sem espera |
+| ![](../assets/npcs/4_f_madame.png){ loading=lazy } | 155,193 | **Curandeira** | Cura HP e SP, Aumentar Agilidade 10 e Bênção 10 (30 minutos), conserta tudo e identifica os itens do inventário. Grátis e sem espera |
 | | 157,193 | **Platina** | Dá as habilidades de quest (platina) da sua classe. Vai mudar de lugar em breve |
 | | 159,192 | **Teleportadora** | Cidades, cavernas e lugares especiais (detalhes abaixo) |
 | ![](../assets/npcs/4_f_pinkwoman.png){ loading=lazy } | 166,198 | **Chapeleira** | Transforma chapéus em visuais. [Chapeleira](../sistemas/chapeleira.md) |
@@ -46,5 +46,6 @@ Fica em 23 cidades, ao lado da entrada da Sala VIP.
 - **Cavernas:** 1º andar, separadas por dificuldade (iniciante, intermediária e avançada). **Grátis até o nível 90**, 5.000 zeny acima.
 - **Especiais:** Geffenia (sem a quest O Sinal) e Ninho de Nidhogg (Sombra de Nidhogg), cobrados como caverna.
 - Poringlândia fica nas cavernas de iniciante.
+- Comodo tem duas cavernas diferentes, cada uma na sua opção: **Caverna de Comodo (Medusa)** e **Caverna de Comodo (Sapo de Thara)**.
 
 A [Teleportadora VIP](sala-vip.md) leva para qualquer andar, de graça.

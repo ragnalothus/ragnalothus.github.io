@@ -47,7 +47,7 @@ A primeira conta que entra no jogo por cada conexão (IP) ganha:
 1. Suba alguns níveis na ilha e vá para Prontera.
 2. Mude de classe de graça com a **Mestra das Classes** (Prontera 164,185).
 3. Use a **Teleportadora** para ir às cavernas. As cavernas são grátis até o nível 90.
-4. A **Curandeira** (Prontera 155,193) cura, dá Aumentar Agilidade e Bênção e conserta seus equipamentos, de graça.
+4. A **Curandeira** (Prontera 155,193) cura, dá Aumentar Agilidade e Bênção, conserta seus equipamentos e identifica os itens do inventário, de graça.
 5. Salve o seu ponto de retorno em Prontera com a **Kafra** (145,187).
 6. Ative o **Bilhete VIP 5 dias** e conheça a [Sala VIP](../npcs/sala-vip.md).
 
