@@ -15,7 +15,10 @@ Comandos que qualquer jogador pode usar.
 | `@colecao` | Abre a [Coleção de Monstros](../sistemas/colecao-monstros.md) da conta |
 | `@padrinho <nome>` | Pede um veterano como [padrinho](../sistemas/padrinho.md); `@padrinho` sozinho aceita pedidos e mostra seus afilhados |
 | `@mergulho` | Abre ou entra no [Mergulho no Abismo](../sistemas/mergulho.md) do grupo; lá dentro mostra a profundidade e `@mergulho sair` sai com os prêmios |
-| `@duelo` | Abre o [Duelo de Cartas](../sistemas/duelo-cartas.md) |
+| `@duelo` | Abre o [Duelo de Cartas](../sistemas/duelo-cartas.md) (se você estiver num duelo, volta para ele) |
+| `@duelo desafiar <nome>` | Desafia outro jogador para um [Duelo de Cartas](../sistemas/duelo-cartas.md#contra-outro-jogador), com aposta opcional de Moedas de Loki |
+| `@duelo aceitar` / `@duelo recusar` | Responde ao desafio recebido (vale por 60 segundos) |
+| `@duelo torneio` | Menu do [Torneio semanal](../sistemas/duelo-cartas.md#torneio-semanal) de Duelo de Cartas (inscrição, prêmios, campeões) |
 | `@acoes` | Abre a [Bolsa de Ações](../sistemas/bolsa-acoes.md) |
 | `@guildas` ou `@bancoguilda` | [Banco da guilda, ajuda para guilda nova e recrutamento](../sistemas/guildas.md) |
 | `@protecao` | Liga ou desliga a [Proteção de itens](../sistemas/servicos.md#protecao-de-itens) da conta |

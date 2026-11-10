@@ -4,6 +4,8 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :crossed_swords: **Duelo de Cartas contra jogador:** desafie alguém com `@duelo desafiar <nome>`, com aposta opcional de Moedas de Loki. Os dois jogam o turno ao mesmo tempo e as jogadas aparecem juntas. [Duelo de Cartas](sistemas/duelo-cartas.md#contra-outro-jogador)
+- :trophy: **Torneio de Duelo de Cartas:** todo sábado às 21h15, eliminação até a final, com Moedas Douradas, Fichas da Galeria e Moedas de Loki de prêmio. Inscrição pelo `@duelo`. [Torneio semanal](sistemas/duelo-cartas.md#torneio-semanal)
 - :dragon_face: **Coleção de Monstros:** cada monstro caçado conta para a coleção da conta; completar monstros dá bônus para sempre (dano e resistência por raça, atributos, HP, EXP e drop). `@colecao`. [Coleção de Monstros](sistemas/colecao-monstros.md)
 - :handshake: **Padrinho:** novato com padrinho ganha +10% de EXP, e o padrinho ganha prêmios a cada marco de nível do afilhado. `@padrinho`. [Padrinho](sistemas/padrinho.md)
 - :fishing_pole_and_fish: **Pesca e Mineração:** pesque em qualquer lugar com água e minere nas minas; nível de ofício, itens raros e recordes de peixe. [Pesca e Mineração](sistemas/pesca-mineracao.md)

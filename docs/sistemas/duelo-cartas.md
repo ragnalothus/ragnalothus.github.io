@@ -47,6 +47,33 @@ Toda carta que está no álbum da sua conta pode entrar no baralho, e todo mundo
 
 12 cartas. No menu **Meu baralho** dá para montar automático (2 de cada custo, as mais fortes) ou trocar carta por carta.
 
-## Prêmios
+## Contra o NPC
 
-Por enquanto o jogo é **contra o NPC** (Fácil, Normal e Difícil). Cada vitória dá Moedas de Loki (1, 2 ou 4) até **10 vitórias premiadas por dia**, e pontos para o **ranking** (3, 5 ou 8). Jogar contra outros jogadores e o torneio vêm depois.
+Três níveis: Fácil, Normal e Difícil. Cada vitória dá Moedas de Loki (1, 2 ou 4) até **10 vitórias premiadas por dia**, e pontos para o **ranking** (3, 5 ou 8).
+
+## Contra outro jogador
+
+- Use **`@duelo desafiar <nome>`** (ou **Desafiar um jogador** no menu do `@duelo`). O outro jogador precisa estar online.
+- Escolha uma **aposta em Moedas de Loki** (de 0 a 100): cada um coloca o mesmo valor e **quem vencer leva tudo**. Empate devolve as moedas.
+- Quem foi desafiado tem **60 segundos** para responder com **`@duelo aceitar`** ou **`@duelo recusar`** (ou abrir o `@duelo`).
+- **Os dois jogam o turno ao mesmo tempo.** Quando os dois terminam, as jogadas aparecem juntas (quem está ganhando mais locais revela primeiro). Cada turno tem **90 segundos**.
+- Se o tempo acabar, o turno passa com as cartas que você já tinha colocado. **Dois turnos seguidos sem terminar, sair do jogo ou desistir = derrota.**
+- Fechou a janela sem querer? Use **`@duelo`** para voltar ao duelo.
+- Vitória contra jogador dá **+10 pontos no ranking** (jogadores da mesma rede não contam para o ranking).
+- Melhor jogar numa cidade: enquanto o duelo está aberto, o personagem fica parado.
+
+## Torneio semanal
+
+Todo **sábado às 21h15**, com aviso no servidor nos 5 minutos antes.
+
+- **Inscrição:** a semana toda pelo `@duelo` (**Torneio semanal**) e, durante o aviso, também pelo **`@evento`**. Precisa estar **online** na hora. Mínimo 4 e máximo 16 jogadores (os primeiros inscritos).
+- **Eliminação:** a chave é sorteada e quem vence o duelo passa de fase até a final. Com número ímpar, um jogador passa direto. Os duelos **abrem sozinhos**; não precisa ir a lugar nenhum. Cada turno tem **60 segundos**.
+- Empate no duelo do torneio: desempate no cara ou coroa.
+
+| Colocação | Prêmio |
+|---|---|
+| Campeão | 30 Moedas Douradas, 10 Fichas da Galeria, 50 Moedas de Loki e 30 pontos de ranking (e 1 evento vencido para a sua [facção](faccoes.md)) |
+| Vice | 15 Moedas Douradas, 5 Fichas da Galeria, 25 Moedas de Loki e 15 pontos |
+| Semifinal | 5 Moedas Douradas, 2 Fichas da Galeria, 10 Moedas de Loki e 5 pontos |
+
+Quem estiver offline na hora do prêmio recebe pelo correio. Os últimos campeões aparecem no menu do torneio.

@@ -87,6 +87,6 @@ Cada NPC explica as regras, mostra o prêmio e o próximo horário, e inscreve q
 | 48,61 | **Mergulhador** | [Mergulho no Abismo](../sistemas/mergulho.md) (`@mergulho`) |
 | 62,61 | **Escrivão das Guildas** | [Banco da guilda, guilda nova e recrutamento](../sistemas/guildas.md) (`@guildas`) |
 | 65,61 | **Corretor da Bolsa** | [Bolsa de Ações](../sistemas/bolsa-acoes.md) (`@acoes`) |
-| 68,61 | **Mestre das Cartas** | [Duelo de Cartas](../sistemas/duelo-cartas.md) (`@duelo`) |
+| 68,61 | **Mestre das Cartas** | [Duelo de Cartas](../sistemas/duelo-cartas.md) (`@duelo`): contra o NPC, contra jogador e o torneio de sábado |
 
 A **Agenda de Eventos** fica em Prontera (168,178), ao lado do NPC da Central.
