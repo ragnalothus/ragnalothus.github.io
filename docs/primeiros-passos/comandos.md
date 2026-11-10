@@ -37,6 +37,12 @@ Comandos que qualquer jogador pode usar.
 | `@wb <item>` (ou `@wb2`, `@whobuy`) | Quem está comprando o item, do que paga mais para o que paga menos |
 | `@at` | Deixa a sua loja (de venda ou de compra) aberta enquanto você está fora |
 | `@evento` | Entra no evento automático com inscrição aberta (todos os eventos da noite com inscrição; no Seja o MVP, também entra como caçador nos 5 primeiros minutos). [Eventos automáticos](../eventos/automaticos.md) |
+| `@joinbg` | [Battleground](../eventos/battleground.md): inscrição nos 5 minutos antes ou, com a batalha rodando, entra no time com menos gente |
+| `@leavebg` | Sai do Battleground e volta para onde estava |
+| `@bginfo` | Mostra a batalha que está rodando (jogadores, placar e tempo) |
+| `@bgranking` | Ranking das batalhas do Battleground |
+| `@listenbg` | Liga ou desliga os avisos de Battleground no chat |
+| `@order`, `@leader`, `@reportafk`, `@bgskill` | Comandos do líder do time no Battleground. [Líder do time](../eventos/battleground.md#lider-do-time) |
 | `#forca <letra ou palavra>` | Chute na [Forca](../eventos/automaticos.md#forca) (também `@forca`) |
 | `@bolsa` | Na [Extração](../eventos/automaticos.md#extracao): mostra a bolsa do evento e as saídas abertas |
 | `@detetive` | No Detetive: suas cartas, anotações automáticas (o que já te mostraram) e a sua jogada. [Detetive](../eventos/detetive.md) |

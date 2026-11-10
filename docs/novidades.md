@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :crossed_swords: **Battleground:** batalhas de dois times (Azul contra Vermelho) **segunda, terça, quinta e sexta às 21h40**, sorteadas entre 9 tipos: Captura do Cristal, Mata-mata, Controle das Pedras, Bossnia, Dominação, Olho da Tempestade, Inferno Duplo, Conquista e Corrida ao Castelo. Inscrição com `@evento` (ou `@joinbg`, também para entrar atrasado). Prêmios em Bandeiras, Moedas de Loki, Moedas Douradas e emblemas de batalha, trocados por equipamentos na Sala de Batalha. Líder do time com comandos próprios e ranking (`@bgranking`). NPC na Central do Aventureiro. [Battleground](eventos/battleground.md)
 - :crossed_swords: **Arena PvP livre:** cada abate válido agora dá **1 Bandeira** (não dá mais cash). Abate de alguém da mesma conta ou do mesmo IP continua não contando. [Arena PvP](eventos/arena-pvp.md#arena-pvp-livre)
 - :crossed_swords: **Duelo de Cartas contra jogador:** desafie alguém com `@duelo desafiar <nome>`, com aposta opcional de Moedas de Loki. Os dois jogam o turno ao mesmo tempo e as jogadas aparecem juntas. [Duelo de Cartas](sistemas/duelo-cartas.md#contra-outro-jogador)
 - :trophy: **Torneio de Duelo de Cartas:** todo sábado às 21h15, eliminação até a final, com Moedas Douradas, Fichas da Galeria e Moedas de Loki de prêmio. Inscrição pelo `@duelo`. [Torneio semanal](sistemas/duelo-cartas.md#torneio-semanal)

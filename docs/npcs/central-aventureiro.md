@@ -64,6 +64,7 @@ Cada NPC explica as regras, mostra o prêmio e o próximo horário, e inscreve q
 | 68,48 | **Combate dos Cubos** | Regras, prêmios, próximo horário e inscrição. [Combate dos Cubos](../eventos/combate-dos-cubos.md) |
 | 68,50 | **Pique-gema** | Regras, prêmios, próximo horário e inscrição. [Pique-gema 3x3](../eventos/pique-gema.md) |
 | 68,52 | **Facções** | Escolher ou trocar de facção, pontos da semana, ranking e a Guerra de Facção. [Facções](../sistemas/faccoes.md) |
+| 68,54 | **Battleground** | Regras das 9 batalhas, prêmios, ranking, inscrição e ida para a Sala de Batalha. [Battleground](../eventos/battleground.md) |
 
 ## Corredor de cima
 

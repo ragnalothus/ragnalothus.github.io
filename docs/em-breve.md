@@ -10,6 +10,7 @@ O que ainda vai chegar ao Ragnalothus. A ordem e os detalhes podem mudar.
 
 ## :crossed_swords: PvP e competição
 
+- **Bomberman e Poring Ball** no [Battleground](eventos/battleground.md).
 - **Ranking PvP por divisões:** da 10 até a 1, depois Elite, e um top 20.
 - **Sequência de vitórias** (embalo) e **proteção de 3 derrotas**.
 - **Prêmios por divisão.**

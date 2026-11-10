@@ -18,7 +18,7 @@ No domingo não tem o Quiz das 10h30 nem o Disfarce das 11h, por causa da Invas�
 
 ## À noite (19h às 22h)
 
-Os eventos da noite **mudam todo mês** (rotação mensal). Todo mês ficam: o [Evento dos Cristais](cristais.md) (**domingo, quarta e sábado às 20h**), o [Torneio de Duelo de Cartas](../sistemas/duelo-cartas.md#torneio-semanal) (**sábado às 21h15**), o Disfarce, o Quiz, a Caça ao Cogumelo, a Invasão de Cristais, as loterias e a [Guerra de Facção](../sistemas/faccoes.md#guerra-de-faccao) (última sexta do mês, 21h).
+Os eventos da noite **mudam todo mês** (rotação mensal). Todo mês ficam: o [Evento dos Cristais](cristais.md) (**domingo, quarta e sábado às 20h**), o [Torneio de Duelo de Cartas](../sistemas/duelo-cartas.md#torneio-semanal) (**sábado às 21h15**), o [Battleground](battleground.md) (**segunda, terça, quinta e sexta às 21h40**), o Disfarce, o Quiz, a Caça ao Cogumelo, a Invasão de Cristais, as loterias e a [Guerra de Facção](../sistemas/faccoes.md#guerra-de-faccao) (última sexta do mês, 21h).
 Dos outros dezesseis (Resta 1, Dados, Bombring, Pique-pega, [Detetive](detetive.md), [Pique-gema 3x3](pique-gema.md), [Combate dos Cubos](combate-dos-cubos.md) e os nove eventos novos: [Batatinha Frita](#batatinha-frita-1-2-3), [Chão que Cai](#chao-que-cai), [Infectados](#infectados), [Prop Hunt](#prop-hunt), [Captura da Bandeira](#captura-da-bandeira), [Forca](#forca), [Seja o MVP](#seja-o-mvp), [Extração](#extracao) e [Rei do Emperium](#rei-do-emperium)), **4 entram em cada mês**: sempre um entre Pique-gema e Combate dos Cubos (eles se alternam) e três dos outros, dando a vez a quem ficou de fora no mês anterior.
 Os horários são 19h, 19h30, 20h e 21h (ou 21h15 depois dos Cristais). A troca é no dia 1, com aviso no servidor. A **Agenda de Eventos** mostra a semana do mês e a opção **Rotação do mês**.
 
@@ -26,6 +26,7 @@ Os horários são 19h, 19h30, 20h e 21h (ou 21h15 depois dos Cristais). A troca 
 
 | Evento | Prêmio |
 |---|---|
+| :crossed_swords: [Battleground](battleground.md) (fixo: seg, ter, qui e sex 21h40) | Vitória: 60 Bandeiras + 40 Moedas de Loki + 10 Moedas Douradas + emblemas de batalha; derrota e empate também ganham |
 | :crossed_swords: Resta 1 | 100 Bandeiras + 75 Moedas de Loki + 20 Moedas Douradas + 1 Caixa Misteriosa |
 | :package: [Combate dos Cubos](combate-dos-cubos.md) | 1º: 100 Bandeiras + 75 Moedas de Loki + 20 Moedas Douradas + 1 Caixa Misteriosa; 2º e 3º também ganham |
 | :gem: [Pique-gema 3x3](pique-gema.md) | Vitória: 60 Bandeiras + 40 Moedas de Loki + 10 Moedas Douradas para cada um do time; empate e derrota também ganham |
