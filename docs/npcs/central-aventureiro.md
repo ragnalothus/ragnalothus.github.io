@@ -49,4 +49,13 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 | 68,50 | **Pique-gema** | Regras, prêmios, próximo horário e inscrição. [Pique-gema 3x3](../eventos/pique-gema.md) |
 | 68,52 | **Facções** | Escolher ou trocar de facção, pontos da semana, ranking e a Guerra de Facção. [Facções](../sistemas/faccoes.md) |
 
+## Corredor de cima
+
+| | Posição | NPC | O que faz |
+|---|---|---|---|
+| ![](../assets/npcs/4_m_einold.png){ loading=lazy } | 46,59 | **Harword** | Sorteia de novo os bônus aleatórios das armas (trava até 2). [Opções das armas](../sistemas/opcoes-armas.md) |
+| | 50,59 | **Reciclador de Cartas** (o Poring grande) | 5 cartas comuns + 1.000.000z = 1 carta sorteada. [Reciclador](../sistemas/reciclador-e-atributos.md#reciclador-de-cartas) |
+| ![](../assets/npcs/4_m_pecoknight.png){ loading=lazy } | 54,59 | **Vendedor de Atributos** | +1 permanente num atributo. [Vendedor de Atributos](../sistemas/reciclador-e-atributos.md#vendedor-de-atributos) |
+| ![](../assets/npcs/4_f_fairy.png){ loading=lazy } | 58,59 | **Sorteio Diário** | Prêmio do dia e inscrição grátis. [Sorteio Diário](../sistemas/rankings-e-loteria.md#sorteio-diario) |
+
 A **Agenda de Eventos** fica em Prontera (168,178), ao lado do NPC da Central.

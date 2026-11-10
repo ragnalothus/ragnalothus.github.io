@@ -6390,6 +6390,7 @@ Peso como no jogo (o 10 do servidor é 1 no jogo).
 | ![](../assets/itens/60081.png){ loading=lazy } | 60081 | Manto do Laboratório [1] | Equipamento | 6 |
 | ![](../assets/itens/60082.png){ loading=lazy } | 60082 | Botas do Laboratório [1] | Equipamento | 8 |
 | ![](../assets/itens/60083.png){ loading=lazy } | 60083 | Crachá do Laboratório [1] | Equipamento | 2 |
+|  | 60084 | [Visual] Coroa do Pioneiro | Equipamento | 0 |
 | ![](../assets/itens/61000.png){ loading=lazy } | 61000 | [Visual] Óculos de Mergulho | Equipamento | 0 |
 | ![](../assets/itens/61001.png){ loading=lazy } | 61001 | [Visual] Véu de Noiva | Equipamento | 0 |
 | ![](../assets/itens/61002.png){ loading=lazy } | 61002 | [Visual] Florzinha | Equipamento | 0 |

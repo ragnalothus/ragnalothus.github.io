@@ -46,3 +46,12 @@ As duas ficam na **Lotérica** (Prontera 146,197). Meia hora antes de cada sorte
 | 6 | 500.000.000 zeny |
 
 A Lotérica mostra os seus jogos do dia e os números do último sorteio. (A Mega Lothus era a antiga Loteria Diária.)
+
+## :gift: Sorteio Diário
+
+Todo dia às **9h** o servidor anuncia o **prêmio do dia**, sorteado entre os prêmios escolhidos pela equipe.
+
+- Inscrição **grátis** até as **18h59**, com `@sorteio` ou no NPC **Sorteio Diário** na
+  [Central do Aventureiro](../npcs/central-aventureiro.md) (58,59). Uma inscrição por conta por dia, a partir do nível 30.
+- Às **18h30** sai um aviso de que faltam 30 minutos.
+- Às **19h** o NPC sorteia **1 vencedor** entre os inscritos; às **19h02** o prêmio vai para o **correio** do personagem inscrito.

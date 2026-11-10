@@ -4,6 +4,12 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :crossed_swords: **Armas com bônus aleatórios:** toda arma que cai de monstro vem com 2 a 4 bônus aleatórios (atributos, dano contra raça/tamanho/elemento, crítico, velocidade de ataque...). O **Harword**, na Central, sorteia de novo os bônus de qualquer arma e deixa travar até 2. [Opções das armas](sistemas/opcoes-armas.md)
+- :recycle: **Reciclador de Cartas:** 5 cartas comuns + 1.000.000z viram 1 carta sorteada, com chance de carta de chefe ou de MVP. [Reciclador](sistemas/reciclador-e-atributos.md#reciclador-de-cartas)
+- :muscle: **Vendedor de Atributos:** +1 permanente num atributo, até 2 por atributo em cada personagem. [Vendedor de Atributos](sistemas/reciclador-e-atributos.md#vendedor-de-atributos)
+- :sparkles: **Runas:** cada monstro morto tem 0,5% de chance de dar uma runa de 60 segundos (Fúria, Pressa, Golpe Certo e outras). [Runas](sistemas/runas.md)
+- :checkered_flag: **Corrida ao 99:** ranking por classe de quem chega ao 99 com menos horas jogadas; o primeiro 99 de cada classe que falar com o NPC em Prontera ganha a Coroa do Pioneiro e mais prêmios. [Corrida ao 99](sistemas/corrida-99.md)
+- :gift: **Sorteio Diário:** às 9h sai o prêmio do dia; inscrição grátis até 18h59 com `@sorteio`; às 19h sai o vencedor. [Sorteio Diário](sistemas/rankings-e-loteria.md#sorteio-diario)
 - :chart_with_upwards_trend: **Mapas de EXP e Masmorra do Dia:** a cada 2 dias, 3 mapas (um por faixa de nível) dão +25% de EXP; e todo dia uma masmorra inteira dá +30% de EXP e o dobro de Moedas de Loki. Veja com `@mapexp`. [Mapas de EXP](sistemas/mapas-exp.md)
 - :camel: **Mercador Viajante:** 2 vezes por dia aparece por 1 hora num campo sorteado, com itens raros mais baratos e estoque limitado. O servidor só dá uma pista de onde ele está. [Mercador Viajante](sistemas/mercador-viajante.md)
 - :package: **Armazém da guilda em toda Kafra** (cidades, Prontera e Sala VIP). [Serviços](sistemas/servicos.md#armazem-da-guilda-em-toda-kafra)
