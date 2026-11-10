@@ -4,6 +4,13 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :chart_with_upwards_trend: **Mapas de EXP e Masmorra do Dia:** a cada 2 dias, 3 mapas (um por faixa de nível) dão +25% de EXP; e todo dia uma masmorra inteira dá +30% de EXP e o dobro de Moedas de Loki. Veja com `@mapexp`. [Mapas de EXP](sistemas/mapas-exp.md)
+- :camel: **Mercador Viajante:** 2 vezes por dia aparece por 1 hora num campo sorteado, com itens raros mais baratos e estoque limitado. O servidor só dá uma pista de onde ele está. [Mercador Viajante](sistemas/mercador-viajante.md)
+- :package: **Armazém da guilda em toda Kafra** (cidades, Prontera e Sala VIP). [Serviços](sistemas/servicos.md#armazem-da-guilda-em-toda-kafra)
+- :star: **EXP x5** nas missões da Ilha sem Nome e de Rachel. [Missões](sistemas/missoes.md#exp-x5-nas-missoes-da-ilha-sem-nome-e-de-rachel)
+- :keyboard: **Comandos novos:** `@logindiario` (janela do login diário), `@espelho` (MVPs vivos), `@dance` e, para VIP, `@autobuff` (Agilidade e Bênção sempre renovados). [Comandos](primeiros-passos/comandos.md)
+- :zzz: **AFK:** quem fica 1 minuto parado ganha um "zzz" em cima da cabeça. [Serviços](sistemas/servicos.md#jogador-parado-afk)
+- :art: **71 skins** novas para as janelas do jogo (Opções → Skin). [Serviços](sistemas/servicos.md#skins-da-interface)
 - :test_tube: **Laboratório Proibido:** dungeon de grupo end game (nível 90+) no 4º andar do laboratório de Lighthalzen. Sete experimentos transclasse muito fortes e, a cada 2 horas, um experimento-chefe (MVP) sorteado entre sete. Eles deixam cair **Amostras Corrompidas**, trocadas com a Pesquisadora pelo novo **Conjunto do Laboratório**, 14 cartas novas, Martelo de Refinar Carta, pergaminhos e caixas. Entrada pelo fim do 3º andar do laboratório ou pela Teleportadora (Especiais). [Laboratório Proibido](sistemas/laboratorio-proibido.md)
 - :european_castle: **Old Glast Heim:** instância de grupo end game (nível 90+). O Hugin leva o grupo ao passado do castelo de Glast Heim: salve os sobreviventes, derrote a Raiz da Corrupção, os Comandantes da Ruína e o Amdarais. Prêmios: Cristais do Tempo, Feitiços Coagulados, cartas novas, equipamentos da sala do tesouro e a chance de um Martelo de Refinar Carta. As lojas do Hugin trocam Botas Temporais, encantamentos e itens do servidor. Entrada pelo Guia do Old Glast Heim na Blackroom. [Old Glast Heim](sistemas/old-glast-heim.md)
 - :boot: **Botas Temporais com slot** no Trocador de Bandeiras agora custam 2.500 Bandeiras (também saem no Old Glast Heim).

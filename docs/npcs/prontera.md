@@ -20,7 +20,7 @@ Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as arm
 | ![](../assets/npcs/4_m_ky_head.png){ loading=lazy } | 151,191 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
 | ![](../assets/npcs/4_m_dst_tough.png){ loading=lazy } | 153,191 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
 | ![](../assets/npcs/4_f_sister.png){ loading=lazy } | 146,197 | **Lotérica** | Loteria Semanal, Mega Lothus e a Missão da Mega Lothus. [Loteria](../sistemas/rankings-e-loteria.md#loterias) |
-| | 145,187 | **Kafra** | Salva o ponto de retorno em Prontera, abre o armazém e coloca ou tira Carrinho, Falcão e Peco Peco (precisa da habilidade). Grátis |
+| | 145,187 | **Kafra** | Salva o ponto de retorno em Prontera, abre o armazém e o armazém da guilda e coloca ou tira Carrinho, Falcão e Peco Peco (precisa da habilidade). Grátis |
 | ![](../assets/npcs/4_m_maskman.png){ loading=lazy } | 148,182 | **Blackroom** | Leva para a [Blackroom](blackroom.md) |
 | ![](../assets/npcs/4_f_eden_master.png){ loading=lazy } | 164,185 | **Mestra das Classes** | Muda de classe de graça: 1ª e 2ª classe, transclasse, Super Aprendiz, Taekwon, Ninja e Justiceiro. Já dá as habilidades de quest |
 

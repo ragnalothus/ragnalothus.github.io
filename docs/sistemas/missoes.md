@@ -94,3 +94,10 @@ Escolha o monstro e a quantidade: **50, 100 ou 150**. A EXP abaixo é para 50; 1
 | Acidus | 75 a 97 | 2.570.000 | 1.630.000 |
 | Draco | 75 a 98 | 3.700.000 | 2.800.000 |
 | Salamander | 75 a 98 | 8.600.000 | 6.200.000 |
+
+## :star: EXP x5 nas missões da Ilha sem Nome e de Rachel
+
+As missões oficiais da **Ilha sem Nome** (a história que abre a Abadia Amaldiçoada, e a troca das joias
+amaldiçoadas com o Soldado Aposentado em Prontera) e de **Rachel** (Arunafeltz e o Santuário) dão **5 vezes mais EXP**
+que o normal. É um ótimo caminho para subir do nível 65 ao 99.
+

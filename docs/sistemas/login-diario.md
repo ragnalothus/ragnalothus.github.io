@@ -1,6 +1,6 @@
 # Login diário
 
-O **Prêmio de Presença** do cliente dá um prêmio por dia de login, até 20 por mês. Os prêmios chegam **pelo correio**.
+O **Prêmio de Presença** do cliente dá um prêmio por dia de login, até 20 por mês. Os prêmios chegam **pelo correio**. Para abrir a janela e ver os prêmios a qualquer hora, use **`@logindiario`**.
 
 | Dia | Prêmio | Dia | Prêmio |
 |---|---|---|---|

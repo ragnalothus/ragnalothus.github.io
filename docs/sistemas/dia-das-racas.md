@@ -7,3 +7,4 @@ Todo dia à meia-noite o servidor sorteia uma **raça de monstro**. Quem mata mo
 - Peixe, Inseto e Anjo ficam de fora.
 - A mesma raça não sai dois dias seguidos.
 - O servidor avisa à meia-noite, e você vê a raça do dia ao entrar no jogo.
+- O bônus soma com os [Mapas de EXP e a Masmorra do Dia](mapas-exp.md).

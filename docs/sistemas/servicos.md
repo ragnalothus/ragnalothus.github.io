@@ -129,3 +129,19 @@ Digite **`@config`** para abrir uma janela com os comandos que você quer sempre
 - Recusar negociação e convites (`@noask`)
 - Mostrar a EXP e o zeny ganhos (`@showexp` e `@showzeny`)
 - Proteção contra roubo de monstro (`@noks`): ninguém de fora do seu grupo tira o monstro que você está atacando
+
+## :package: Armazém da guilda em toda Kafra
+
+Todas as Kafras das cidades, a Kafra de Prontera e a Kafra VIP abrem o **armazém da guilda** para quem está numa guilda.
+A guilda precisa ter aprendido a habilidade de guilda do armazém, e o seu cargo precisa ter permissão para usá-lo
+(o líder libera na janela da guilda).
+
+## :zzz: Jogador parado (AFK)
+
+Quem fica **1 minuto sem fazer nada** ganha um "zzz" em cima da cabeça, para os outros saberem que você está fora.
+Ele some assim que você se mexe. Quem está com loja aberta não ganha o "zzz".
+
+## :art: Skins da interface
+
+O jogo vem com **71 skins** para as janelas. Escolha a sua em **Opções** (tecla Esc → Opções → Skin).
+

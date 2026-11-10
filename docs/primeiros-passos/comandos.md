@@ -28,6 +28,11 @@ Comandos que qualquer jogador pode usar.
 | `@at` | Deixa a sua loja (de venda ou de compra) aberta enquanto você está fora |
 | `@evento` | Entra no evento automático com inscrição aberta (Resta 1, Combate dos Cubos, Pique-gema 3x3, Detetive, Dados ou Bombring). [Eventos automáticos](../eventos/automaticos.md) |
 | `@detetive` | No Detetive: suas cartas, anotações automáticas (o que já te mostraram) e a sua jogada. [Detetive](../eventos/detetive.md) |
+| `@logindiario` | Abre a janela do [login diário](../sistemas/login-diario.md) para ver os prêmios do mês |
+| `@mapexp` | Mostra os [Mapas de EXP e a Masmorra do Dia](../sistemas/mapas-exp.md) |
+| `@espelho` | Espelho Convexo: lista os MVPs vivos nos mapas (salas privadas e instâncias não aparecem) |
+| `@dance <1-9>` | Faz o seu personagem dançar (9 danças) |
+| `@autobuff` | Só VIP: Aumentar Agilidade e Bênção nível 10 sempre renovados (fora de PvP, GdE e campos de batalha). [VIP](../servidor/vip.md) |
 | `@boneco` | Dentro da Sala de Treino: cria e troca os bonecos de treino. [Serviços](../sistemas/servicos.md#sala-de-treino) |
 
 ## Oração do Super Aprendiz

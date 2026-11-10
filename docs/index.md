@@ -31,6 +31,7 @@ Veja os detalhes em [Rates](servidor/rates.md).
 - **Eventos automáticos:** Quiz, Evento dos Cristais, Invasão de Cristais e Arena Lothus. [Eventos](eventos/quiz.md)
 - **Chapeleira:** transforma chapéus em visuais. [Chapeleira](sistemas/chapeleira.md)
 - **Dia das Raças:** todo dia uma raça de monstro dá +10% de EXP. [Dia das Raças](sistemas/dia-das-racas.md)
+- **Mapas de EXP e Masmorra do Dia:** mapas com +25% e uma masmorra com +30% de EXP, sorteados sozinhos. [Mapas de EXP](sistemas/mapas-exp.md)
 
 Tudo o que foi adicionado ou mudado, por data, está em [Novidades](novidades.md).
 O que ainda vai chegar está em [Em breve](em-breve.md).
