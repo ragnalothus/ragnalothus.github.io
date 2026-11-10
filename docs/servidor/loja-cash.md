@@ -25,4 +25,4 @@ Os visuais são os mesmos da [Chapeleira](../sistemas/chapeleira.md): só aparê
 
 ## Como conseguir cash (ROPs)
 
-Nenhuma troca de moedas ou bandeiras dá ROPs. Por enquanto o cash vem da [Arena PvP](../eventos/arena-pvp.md) (500 por abate válido na [Arena PvP livre](../eventos/arena-pvp.md#arena-pvp-livre)).
+Nenhuma troca de moedas ou bandeiras dá ROPs, e nenhum evento ou PvP dá cash. O cash vai ser comprado (a compra ainda vai abrir; o aviso sai nas [Novidades](../novidades.md)).

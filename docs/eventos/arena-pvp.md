@@ -4,7 +4,7 @@ O NPC **Arena PvP** em Prontera (149,191) cuida de três coisas:
 
 - **[Ranking PvP](#ranking-pvp):** lutas x1 pela fila, contra jogadores da sua divisão.
 - **[Copa Lothus](#copa-lothus):** a competição semanal x1. A entrada é o **[Emblema do Desafiante](#emblema-do-desafiante)**, ganho a cada 50 vitórias no Ranking.
-- **[Arena PvP livre](#arena-pvp-livre):** todos contra todos, sem ranking; cada abate válido dá **500 de cash**.
+- **[Arena PvP livre](#arena-pvp-livre):** todos contra todos, sem ranking; cada abate válido dá **1 Bandeira**.
 
 ## Ranking PvP
 
@@ -83,7 +83,7 @@ A **competição semanal x1**. Menu no NPC Arena PvP (opção "Copa Lothus") ou 
 
 No NPC, "Entrar na Arena PvP livre": todos contra todos, a qualquer hora. **Não conta para o Ranking PvP.**
 
-- Cada abate válido dá **500 de cash**. Não vale derrotar personagem da **mesma conta**, do **mesmo IP**, ou o **mesmo jogador antes de 10 minutos**.
+- Cada abate válido dá **1 Bandeira**. Não vale derrotar personagem da **mesma conta**, do **mesmo IP**, ou o **mesmo jogador antes de 10 minutos**.
 - Qualquer jogador pode te atacar. Não perde EXP ao morrer.
 
 ## Arenas Privadas
