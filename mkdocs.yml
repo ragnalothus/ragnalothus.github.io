@@ -67,6 +67,7 @@ nav:
       - Começando: primeiros-passos/comecando.md
       - Comandos: primeiros-passos/comandos.md
       - Regras: primeiros-passos/regras.md
+      - Lothus Protect: primeiros-passos/lothus-protect.md
   - Servidor:
       - Rates: servidor/rates.md
       - VIP: servidor/vip.md
