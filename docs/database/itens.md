@@ -6391,6 +6391,11 @@ Peso como no jogo (o 10 do servidor é 1 no jogo).
 | ![](../assets/itens/60082.png){ loading=lazy } | 60082 | Botas do Laboratório [1] | Equipamento | 8 |
 | ![](../assets/itens/60083.png){ loading=lazy } | 60083 | Crachá do Laboratório [1] | Equipamento | 2 |
 | ![](../assets/itens/60084.png){ loading=lazy } | 60084 | [Visual] Coroa do Pioneiro | Equipamento | 0 |
+| ![](../assets/itens/60085.png){ loading=lazy } | 60085 | Ficha de Facção | Outros | 0 |
+| ![](../assets/itens/60086.png){ loading=lazy } | 60086 | Chapéu de Detetive (evento) | Equipamento | 0 |
+| ![](../assets/itens/60087.png){ loading=lazy } | 60087 | Ficha da Roleta (Bronze) | Consumível | 0 |
+| ![](../assets/itens/60088.png){ loading=lazy } | 60088 | Ficha da Roleta (Prata) | Consumível | 0 |
+| ![](../assets/itens/60089.png){ loading=lazy } | 60089 | Ficha da Roleta (Ouro) | Consumível | 0 |
 | ![](../assets/itens/61000.png){ loading=lazy } | 61000 | [Visual] Óculos de Mergulho | Equipamento | 0 |
 | ![](../assets/itens/61001.png){ loading=lazy } | 61001 | [Visual] Véu de Noiva | Equipamento | 0 |
 | ![](../assets/itens/61002.png){ loading=lazy } | 61002 | [Visual] Florzinha | Equipamento | 0 |

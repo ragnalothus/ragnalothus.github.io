@@ -129,6 +129,18 @@ Digite **`@config`** para abrir uma janela com os comandos que você quer sempre
 - Recusar negociação e convites (`@noask`)
 - Mostrar a EXP e o zeny ganhos (`@showexp` e `@showzeny`)
 - Proteção contra roubo de monstro (`@noks`): ninguém de fora do seu grupo tira o monstro que você está atacando
+- [Proteção de itens](#protecao-de-itens) (vale para a conta toda)
+
+## :lock: Proteção de itens
+
+Para ninguém perder item bom por engano, com a proteção **ligada** (já vem ligada) estes itens **não podem ser vendidos para NPC nem largados no chão**:
+
+- cartas;
+- ovos de pet;
+- visuais;
+- equipamentos com refino **+7 ou mais**.
+
+Lojas de jogador, trocas, correio e NPCs como o Reciclador de Cartas continuam normais. Para desligar ou ligar: **`@protecao`** ou no menu do **`@config`**. Vale para todos os personagens da conta.
 
 ## :package: Armazém da guilda em toda Kafra
 
@@ -144,4 +156,18 @@ Ele some assim que você se mexe. Quem está com loja aberta não ganha o "zzz".
 ## :art: Skins da interface
 
 O jogo vem com **71 skins** para as janelas. Escolha a sua em **Opções** (tecla Esc → Opções → Skin).
+
+## :slot_machine: Roleta da Sorte
+
+A **Roleta da Sorte** abre pelo botão do menu do jogo. Cada giro dá um prêmio; se cair numa casa boa, você ganha **um giro grátis no nível seguinte** (são 7 níveis, os de cima com prêmios melhores). Se cair na casa de consolação (Moedas de Loki), ganha as moedas e a roleta volta ao começo.
+
+Para girar, use uma **Ficha da Roleta** (dá 1 giro):
+
+| Ficha | Começa no | Onde conseguir |
+|---|---|---|
+| ![](../assets/itens/673.png) Bronze | 1º nível | Trocadora de Moedas (30 Moedas de Loki) |
+| ![](../assets/itens/675.png) Prata | 3º nível | Gerente de Moedas Douradas (150 Moedas Douradas) |
+| ![](../assets/itens/671.png) Ouro | 5º nível | Loja de cash e loja das [Fichas de Facção](faccoes.md#loja-das-fichas-de-faccao) (10 Fichas) |
+
+Prêmios: Bandeiras, poções, Yggdrasil, Manuais e Gomas, Moedas Douradas, Caixas Misteriosas, Velho Álbum de Cartas, Fichas da Roleta, Caixa de Visuais, Ovo Misterioso, Martelo de Refinar Carta, Bilhete VIP 5 dias, Álbum de Cartas Lendário e, no último nível, Pergaminho de Refino de Arma +10.
 

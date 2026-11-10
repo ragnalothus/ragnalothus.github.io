@@ -18,17 +18,11 @@ No domingo não tem o Quiz das 10h30 nem o Disfarce das 11h, por causa da Invas�
 
 ## À noite (19h às 22h)
 
-Cada noite tem alguns eventos, com folga entre eles. O [Evento dos Cristais](cristais.md) é garantido **sábado e domingo às 20h** (e na quarta).
+Os eventos da noite **mudam todo mês** (rotação mensal). Todo mês ficam: o [Evento dos Cristais](cristais.md) (**domingo, quarta e sábado às 20h**), o Disfarce, o Quiz, a Caça ao Cogumelo, a Invasão de Cristais, as loterias e a [Guerra de Facção](../sistemas/faccoes.md#guerra-de-faccao) (última sexta do mês, 21h).
+Dos outros sete (Resta 1, Dados, Bombring, Pique-pega, [Detetive](detetive.md), [Pique-gema 3x3](pique-gema.md) e [Combate dos Cubos](combate-dos-cubos.md)), **4 entram em cada mês**: sempre um entre Pique-gema e Combate dos Cubos (eles se alternam) e três dos outros, dando a vez a quem ficou de fora no mês anterior.
+Os horários são 19h, 19h30, 20h e 21h (ou 21h15 depois dos Cristais). A troca é no dia 1, com aviso no servidor. A **Agenda de Eventos** mostra a semana do mês e a opção **Rotação do mês**.
 
-| Dia | 19h | 19h30 | 20h | 21h |
-|---|---|---|---|---|
-| Segunda | Resta 1 | [Pique-gema 3x3](pique-gema.md) | Dados | Bombring |
-| Terça | Pique-pega | Combate dos Cubos | Resta 1 | Dados |
-| Quarta | Bombring | [Pique-gema 3x3](pique-gema.md) | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
-| Quinta | Dados | Combate dos Cubos | Pique-pega | [Detetive](detetive.md) |
-| Sexta | Resta 1 | Combate dos Cubos | Bombring | Pique-pega (na última sexta do mês: [Guerra de Facção](../sistemas/faccoes.md#guerra-de-faccao)) |
-| Sábado | Resta 1 | [Pique-gema 3x3](pique-gema.md) | Evento dos Cristais (20h às 21h) | Bombring (21h15) |
-| Domingo | Dados | Combate dos Cubos | Evento dos Cristais (20h às 21h) | Resta 1 (21h15) |
+**Novembro de 2026:** Combate dos Cubos, Bombring, Pique-pega e Dados.
 
 | Evento | Prêmio |
 |---|---|
@@ -94,3 +88,19 @@ A caça acaba quando todos forem derrotados, depois de 1 hora ou às 22h. O **Ca
 3. Há **1 pegador a cada 5 jogadores**, com **aura vermelha**. Os pegadores encostam nos outros para pegar.
 4. Quem é pego fica **congelado por 10 segundos**. Pego **3 vezes**, sai do jogo e volta para onde estava.
 5. O jogo dura 5 minutos. Quem sobrar ganha **30 Moedas de Loki**; cada pegador ganha **3 Moedas por pegada**.
+
+## Invasão Noturna de Prontera
+
+Uma vez por noite, num horário **surpresa entre 19h e 21h30**, monstros invadem Prontera em **3 ondas de 10 minutos** (níveis 1, 2 e 3). Cada onda traz **5 tipos de monstro** sorteados entre monstros que deixam cair itens úteis, e muitos de cada um, para facilitar os drops.
+
+- Os monstros **não atacam primeiro** e vão embora no fim da onda se ninguém matar.
+- Pode acontecer junto com outro evento.
+- Cada monstro morto conta para a sua [facção](../sistemas/faccoes.md) (categoria Invasão Noturna). No fim, o servidor avisa quantos cada facção caçou.
+- Começa depois da primeira semana do servidor aberto.
+
+## Noite Assombrada
+
+O dia e a noite seguem o relógio: **é noite das 19h às 6h** (a tela escurece nos campos e cidades).
+
+- À noite, **mortos-vivos e demônios ficam mais fortes** (causam +20% de dano e recebem 10% a menos) e **dropam mais** (+25% de chance).
+- Alguns monstros **só aparecem de noite**: Zumbis e Sussurros no campo ao sul de Prontera, Carniçais num campo de Payon, Espectros num campo de Geffen, Pesadelos num campo de Morroc e Dullahans nos arredores de Glast Heim.

@@ -67,6 +67,7 @@ e do presente de primeiro login (1 de cada, preso à conta).
 - ![](../assets/itens/616.png) **Velho Álbum de Cartas:** uma carta aleatória do álbum oficial. Na Trocadora de Moedas (300 Moedas de Loki),
   no Gerente de Moedas Douradas (250) e na Troca de Cartas (170 pontos).
 - Os dois anunciam para o servidor inteiro a carta que saiu.
+- :sparkles: **Revelação da carta:** ao abrir um álbum (ou tirar carta no Reciclador), a carta aparece na tela: primeiro o verso, brilhando na cor da raridade (**bronze** = comum, **prata** = chefe, **ouro** = MVP), e depois a carta com o nome. Ela entra no inventário no fim da revelação; se você sair do jogo no meio, recebe ao entrar de novo.
 
 ## Ovos
 

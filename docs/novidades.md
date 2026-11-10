@@ -4,6 +4,14 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :triangular_flag_on_post: **Facções com placar novo:** a semana é disputada em 7 categorias (monstros, MVPs, mini-chefes, PvP, eventos vencidos, cartas e Invasão Noturna). A facção vencedora ganha **Fichas de Facção**, trocadas por álbuns, caixas, pergaminhos e mais. Placar ao vivo no `@faccao`. [Facções](sistemas/faccoes.md)
+- :calendar: **Eventos da noite mudam todo mês:** 4 eventos por mês, além do Evento dos Cristais. Em novembro: Combate dos Cubos, Bombring, Pique-pega e Dados. [Eventos automáticos](eventos/automaticos.md#a-noite-19h-as-22h)
+- :japanese_ogre: **Invasão Noturna de Prontera:** uma vez por noite, de surpresa, 3 ondas de monstros com drops úteis invadem Prontera. [Invasão Noturna](eventos/automaticos.md#invasao-noturna-de-prontera)
+- :crescent_moon: **Noite Assombrada:** das 19h às 6h é noite; mortos-vivos e demônios ficam mais fortes e dropam mais, e alguns monstros só aparecem de noite. [Noite Assombrada](eventos/automaticos.md#noite-assombrada)
+- :lock: **Proteção de itens:** cartas, ovos, visuais e equipamentos +7 não podem mais ser vendidos para NPC nem largados no chão por engano (desligue com `@protecao` ou no `@config`). [Proteção de itens](sistemas/servicos.md#protecao-de-itens)
+- :sparkles: **Revelação de cartas:** abrir um álbum ou tirar carta no Reciclador agora mostra a carta na tela, com a cor da raridade. [Álbuns](sistemas/caixas-e-ovos.md#albuns-de-cartas)
+- :mag: **Detetive por janelas:** sem dado e sem casas; a ordem da mesa é sorteada, você escolhe o cômodo do palpite numa janela, e todos usam o Chapéu de Detetive na mesa. [Detetive](eventos/detetive.md)
+- :slot_machine: **Fichas da Roleta da Sorte** (Bronze, Prata e Ouro) e prêmios novos na Roleta. [Roleta da Sorte](sistemas/servicos.md#roleta-da-sorte)
 - :crossed_swords: **Armas com bônus aleatórios:** toda arma que cai de monstro vem com 2 a 4 bônus aleatórios (atributos, dano contra raça/tamanho/elemento, crítico, velocidade de ataque...). O **Harword**, na Central, sorteia de novo os bônus de qualquer arma e deixa travar até 2. [Opções das armas](sistemas/opcoes-armas.md)
 - :recycle: **Reciclador de Cartas:** 5 cartas comuns + 1.000.000z viram 1 carta sorteada, com chance de carta de chefe ou de MVP. [Reciclador](sistemas/reciclador-e-atributos.md#reciclador-de-cartas)
 - :muscle: **Vendedor de Atributos:** +1 permanente num atributo, até 2 por atributo em cada personagem. [Vendedor de Atributos](sistemas/reciclador-e-atributos.md#vendedor-de-atributos)
