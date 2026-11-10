@@ -20,7 +20,7 @@ Comandos que qualquer jogador pode usar.
 | `@die` | Mata o seu personagem |
 | `@autoloot`, `@alootid`, `@autoloottype` | Pega os itens que caem dos monstros automaticamente |
 | `@feelreset` | Só Mestre Taekwon: apaga os mapas do Sol, da Lua e das Estrelas |
-| `@config` (ou `@configuracoes`) | Janela para deixar ligados o autoloot, `@noask`, `@showexp` e `@showzeny`: fica salvo e volta sozinho ao entrar. [Serviços](../sistemas/servicos.md#configuracoes-que-ficam-salvas-config) |
+| `@config` (ou `@configuracoes`) | Janela para deixar ligados o autoloot, `@noask`, `@showexp`, `@showzeny` e `@noks`: fica salvo e volta sozinho ao entrar. [Serviços](../sistemas/servicos.md#configuracoes-que-ficam-salvas-config) |
 | `@whosell` ou `@ws` (sozinhos) | Abrem a janela de Busca de Lojas do jogo (vender ou comprar, em todos os mapas). [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
 | `@whosell <item>` ou `@ws <item>` | Abre a janela de Busca de Lojas já com quem vende o item; aceita o número do item ou o nome. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
 | `@ws2 <item>` | Quem está vendendo o item, do mais barato para o mais caro. Filtros: `+refino` e `mín-máx`. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |

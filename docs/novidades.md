@@ -2,6 +2,17 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
+## 10/11/2026
+
+- :european_castle: **Old Glast Heim:** instância de grupo end game (nível 90+). O Hugin leva o grupo ao passado do castelo de Glast Heim: salve os sobreviventes, derrote a Raiz da Corrupção, os Comandantes da Ruína e o Amdarais. Prêmios: Cristais do Tempo, Feitiços Coagulados, cartas novas, equipamentos da sala do tesouro e a chance de um Martelo de Refinar Carta. As lojas do Hugin trocam Botas Temporais, encantamentos e itens do servidor. Entrada pelo Guia do Old Glast Heim na Blackroom. [Old Glast Heim](sistemas/old-glast-heim.md)
+- :boot: **Botas Temporais com slot** no Trocador de Bandeiras agora custam 2.500 Bandeiras (também saem no Old Glast Heim).
+- :gift: **Caixas de Nível:** ao chegar nos níveis 10, 25, 40, 55, 70 e 85 o personagem ganha uma caixa com poções e ajuda para subir. [Começando](primeiros-passos/comecando.md#caixas-de-nivel)
+- :fly: **Presente de boas-vindas** agora traz também uma Asa de Mosca Ilimitada por 3 dias. [Começando](primeiros-passos/comecando.md)
+- :triangular_flag_on_post: **Facções:** o nome da facção aparece como **Vermelha** ou **Azul** na frente do seu nome. [Facções](sistemas/faccoes.md)
+- :shield: **`@config`** agora liga e desliga a proteção contra roubo de monstro (`@noks`). [Serviços](sistemas/servicos.md#configuracoes-que-ficam-salvas-config)
+- :package: **VIP** pode abrir o armazém de qualquer lugar com `@storage`. [VIP](servidor/vip.md)
+- :sparkles: **Encantadora:** até o nível 70 não pede o item do elemento, só o zeny. [Sala VIP](npcs/sala-vip.md#encantadora)
+
 ## 09/11/2026
 
 - :mag: **Evento Detetive:** jogo de tabuleiro de dedução para 3 a 6 jogadores por mesa. Cada um vira uma profissão sorteada, rola o dado, anda pelos 9 cômodos e dá palpites para descobrir quem foi, com qual arma e onde. Quinta às 21h, inscrição com `@evento`; anotações com `@detetive`. [Detetive](eventos/detetive.md)

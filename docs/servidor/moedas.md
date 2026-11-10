@@ -67,7 +67,7 @@ A loja também tem poções, Yggdrasil, Carta Kafra, Galhos Secos e Asa de Mosca
 | Boina Alada (DEF 11) | 600 |
 | Bilhete VIP 30 dias | 800 |
 | Enciclopédia de Combate | 900 |
-| Botas Temporais (FOR, AGI, VIT, INT, DES ou SOR, com slot, só transclasse) | 1.000 |
+| Botas Temporais (FOR, AGI, VIT, INT, DES ou SOR, com slot, só transclasse) | 2.500 (também saem no [Old Glast Heim](../sistemas/old-glast-heim.md)) |
 | Chapéu de Rideword | 2.000 |
 | Ovo Misterioso | 2.000 |
 | Ovo Lendário | 4.000 |

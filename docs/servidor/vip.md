@@ -16,6 +16,7 @@ Use `@vip` para ir à Sala VIP e ver o tempo.
 - **Curandeira VIP:** cura, conserta equipamentos e dá buffs de **1 hora**: Aumentar Agilidade 10, Bênção 10, Kyrie Eleison 10 (aguenta 15 golpes), Impositio Manus 5 e Magnificat 5.
 - **Teleportadora VIP:** qualquer andar de 35 cavernas, grátis, em um ponto aleatório do andar, mais lugares especiais.
 - **Kafra VIP:** armazém, carrinho, falcão e Peco Peco, e grava o retorno na Sala VIP.
+- **`@storage`:** abre o armazém de qualquer lugar.
 - **Sala de MVP:** 2 MVPs + 2 minibosses por dia (sem VIP é 1 + 1). [MVPs](../sistemas/mvps.md)
 - **Lojas por classe** com armas, equipamentos e consumíveis a 1 zeny. [Sala VIP](../npcs/sala-vip.md)
 - **Quiz:** prêmio de Moedas de Loki em dobro. [Quiz](../eventos/quiz.md)

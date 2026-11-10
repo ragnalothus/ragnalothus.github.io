@@ -128,3 +128,4 @@ Digite **`@config`** para abrir uma janela com os comandos que você quer sempre
 - Até 10 itens específicos para o autoloot
 - Recusar negociação e convites (`@noask`)
 - Mostrar a EXP e o zeny ganhos (`@showexp` e `@showzeny`)
+- Proteção contra roubo de monstro (`@noks`): ninguém de fora do seu grupo tira o monstro que você está atacando

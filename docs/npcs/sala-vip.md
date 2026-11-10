@@ -37,7 +37,7 @@ Armas e equipamentos das lojas oficiais, a preço normal, e consumíveis da clas
 
 ## Encantadora
 
-Encanta a arma por **1 hora** com o elemento escolhido. Custa zeny + 1 item:
+Encanta a arma por **1 hora** com o elemento escolhido. Custa zeny + 1 item (até o **nível 70** não precisa do item, só do zeny):
 
 | Elemento | Zeny | Item |
 |---|---|---|

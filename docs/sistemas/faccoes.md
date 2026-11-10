@@ -7,7 +7,7 @@ O servidor tem duas facções: a **Facção Vermelha** e a **Facção Azul**. El
 - Quem ainda não tem facção recebe a janela de escolha ao entrar no jogo (pode deixar para depois).
 - Também dá para escolher com `@faccao` ou no NPC ![](../assets/npcs/4_m_cru_knt.png){ loading=lazy } **Facções**, na [Central do Aventureiro](../npcs/central-aventureiro.md) (68,52).
 - A facção vale para **todos os personagens da conta**.
-- O nome da facção aparece junto com o seu nome (título **Facção Vermelha** ou **Facção Azul**).
+- O nome da facção aparece na frente do seu nome: **Vermelha** ou **Azul**.
 - **Equilíbrio:** se uma facção tiver bem mais membros ativos que a outra (5 ou mais e 20% a mais), quem escolhe agora só pode entrar na menor.
 - **Trocar de facção:** só do **dia 1 ao dia 3** de cada mês, 1 vez por mês. Os pontos que você já fez ficam com a facção antiga.
 

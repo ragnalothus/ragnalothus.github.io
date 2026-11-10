@@ -14,4 +14,5 @@ A saída fica na porta de baixo.
 | 88,94 | **Gerente de Moedas Douradas** | Troca Moedas Douradas. [Moedas](../servidor/moedas.md#moeda-dourada) |
 | 112,100 | **Trocador de Bandeiras** | Troca Bandeiras. [Moedas](../servidor/moedas.md#bandeira) |
 | 112,94 | **Vendedora de Caixas** | Caixa Misteriosa. [Caixas](../sistemas/caixas-e-ovos.md) |
+| 88,88 | **Guia do Old Glast Heim** | Leva até o Hugin, em Glast Heim. [Old Glast Heim](../sistemas/old-glast-heim.md) |
 | 112,88 | **Mestre Ferreiro** | Forja minérios enriquecidos e a Bênção do Ferreiro. [Mestre Ferreiro](../sistemas/ferreiro-e-refino.md) |

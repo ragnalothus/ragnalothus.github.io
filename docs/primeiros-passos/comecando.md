@@ -37,6 +37,7 @@ A primeira conta que entra no jogo por cada conexão (IP) ganha:
 
 - **Bilhete VIP 5 dias:** use para virar [VIP](../servidor/vip.md);
 - **Manto Demoníaco:** visual de cabeça com +10 em todos os atributos, +5% de HP, +10% de SP e +10 de DEF. Só pode ser usado até o nível 90. [Detalhes](../mudancas/itens.md#manto-demoniaco)
+- **Asa de Mosca Ilimitada por 3 dias:** teleporta sem gastar; some depois de 3 dias.
 
 !!! note
     Cada IP só ganha o presente uma vez.
@@ -49,3 +50,20 @@ A primeira conta que entra no jogo por cada conexão (IP) ganha:
 4. A **Curandeira** (Prontera 155,193) cura, dá Aumentar Agilidade e Bênção e conserta seus equipamentos, de graça.
 5. Salve o seu ponto de retorno em Prontera com a **Kafra** (145,187).
 6. Ative o **Bilhete VIP 5 dias** e conheça a [Sala VIP](../npcs/sala-vip.md).
+
+## Caixas de Nível
+
+Ao chegar nos níveis **10, 25, 40, 55, 70 e 85**, cada personagem ganha uma **Caixa do Nível** (presa ao personagem) com poções e ajuda para subir:
+
+| Caixa | O que tem |
+|---|---|
+| Nível 10 | 100 Poções Vermelhas Compactas, 50 Asas de Mosca, 5 Asas de Borboleta, 5 Poções da Concentração |
+| Nível 25 | 100 Poções Amarelas Compactas, 50 Asas de Mosca, 5 Poções da Concentração, 5 Poções Azuis, 1 Goma de Mascar 100% |
+| Nível 40 | 100 Poções Brancas Compactas, 10 Poções Azuis, 5 Poções do Despertar, 50 Asas de Mosca, 1 Grimório de Combate 100% |
+| Nível 55 | 120 Poções Brancas Compactas, 20 Poções Azuis, 5 Poções da Fúria Selvagem, 3 Folhas de Yggdrasil, 1 Goma de Mascar 100% |
+| Nível 70 | 120 Poções Brancas Compactas, 25 Poções Azuis, 5 Poções da Fúria Selvagem, 3 Sementes de Yggdrasil, 1 Goma de Mascar 100%, 1 Manual de Classe 100% |
+| Nível 85 | 150 Poções Brancas Compactas, 30 Poções Azuis, 5 Frutos de Yggdrasil, 5 Sementes de Yggdrasil, 1 Goma de Mascar 100%, 1 Grimório de Combate 100% |
+
+!!! tip
+    Se estiver com peso demais, a caixa chega quando você entrar de novo com espaço.
+
