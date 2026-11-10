@@ -69,6 +69,14 @@ e do presente de primeiro login (1 de cada, preso à conta).
 - Os dois anunciam para o servidor inteiro a carta que saiu.
 - :sparkles: **Revelação da carta:** ao abrir um álbum (ou tirar carta no Reciclador), a carta aparece na tela: primeiro o verso, brilhando na cor da raridade (**bronze** = comum, **prata** = chefe, **ouro** = MVP), e depois a carta com o nome. Ela entra no inventário no fim da revelação; se você sair do jogo no meio, recebe ao entrar de novo.
 
+## :sparkles: Revelação das caixas e ovos
+
+As **Caixas Misteriosas** (comum e Rara) e os **Ovos Misterioso e Lendário** também têm revelação na tela: primeiro aparece a caixa (ou o ovo) brilhando na cor do prêmio — **bronze** = comum, **prata** = raro, **ouro** = lendário — e depois o prêmio, com a imagem e o nome (no ovo, aparece o próprio pet). O prêmio entra no inventário no fim da revelação; se você sair no meio, recebe ao entrar de novo.
+
+- **Caixa Misteriosa:** ouro nos prêmios de 0,01%; prata nos de 0,1% e no Arco dos Orcs [3].
+- **Caixa Misteriosa Rara:** ouro nos equipamentos raros (0,4%); prata nos especiais (1%).
+- **Ovo Misterioso:** bronze. **Ovo Lendário:** sempre ouro.
+
 ## Ovos
 
 - ![](../assets/itens/60007.png) **Ovo Misterioso:** o ovo de **um dos 67 pets comuns** (todos os pets do servidor, inclusive 11 da renovação:

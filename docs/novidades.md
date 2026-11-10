@@ -9,6 +9,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 - :japanese_ogre: **Invasão Noturna de Prontera:** uma vez por noite, de surpresa, 3 ondas de monstros com drops úteis invadem Prontera. [Invasão Noturna](eventos/automaticos.md#invasao-noturna-de-prontera)
 - :crescent_moon: **Noite Assombrada:** das 19h às 6h é noite; mortos-vivos e demônios ficam mais fortes e dropam mais, e alguns monstros só aparecem de noite. [Noite Assombrada](eventos/automaticos.md#noite-assombrada)
 - :lock: **Proteção de itens:** cartas, ovos, visuais e equipamentos +7 não podem mais ser vendidos para NPC nem largados no chão por engano (desligue com `@protecao` ou no `@config`). [Proteção de itens](sistemas/servicos.md#protecao-de-itens)
+- :sparkles: **Revelação nas Caixas Misteriosas e nos Ovos:** a caixa ou o ovo aparece na tela brilhando na cor do prêmio (bronze, prata ou ouro) e depois o prêmio (no ovo, o pet). [Caixas e ovos](sistemas/caixas-e-ovos.md#revelacao-das-caixas-e-ovos)
 - :sparkles: **Revelação de cartas:** abrir um álbum ou tirar carta no Reciclador agora mostra a carta na tela, com a cor da raridade. [Álbuns](sistemas/caixas-e-ovos.md#albuns-de-cartas)
 - :mag: **Detetive por janelas:** sem dado e sem casas; a ordem da mesa é sorteada, você escolhe o cômodo do palpite numa janela, e todos usam o Chapéu de Detetive na mesa. [Detetive](eventos/detetive.md)
 - :slot_machine: **Fichas da Roleta da Sorte** (Bronze, Prata e Ouro) e prêmios novos na Roleta. [Roleta da Sorte](sistemas/servicos.md#roleta-da-sorte)
