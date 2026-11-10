@@ -12,6 +12,12 @@ Comandos que qualquer jogador pode usar.
 | `@copa` | Menu da [Copa Lothus](../eventos/arena-pvp.md#copa-lothus): inscrição, fila, classificação e prêmios |
 | `@passe` | Abre o [Passe de Batalha](../sistemas/passe-batalha.md): nível, pontos de hoje e prêmios |
 | `@faccao` | Abre as [Facções](../sistemas/faccoes.md): escolher a facção, placar da semana por categoria, seus pontos, ranking, Guerra de Facção e loja das Fichas de Facção |
+| `@colecao` | Abre a [Coleção de Monstros](../sistemas/colecao-monstros.md) da conta |
+| `@padrinho <nome>` | Pede um veterano como [padrinho](../sistemas/padrinho.md); `@padrinho` sozinho aceita pedidos e mostra seus afilhados |
+| `@mergulho` | Abre ou entra no [Mergulho no Abismo](../sistemas/mergulho.md) do grupo; lá dentro mostra a profundidade e `@mergulho sair` sai com os prêmios |
+| `@duelo` | Abre o [Duelo de Cartas](../sistemas/duelo-cartas.md) |
+| `@acoes` | Abre a [Bolsa de Ações](../sistemas/bolsa-acoes.md) |
+| `@guildas` ou `@bancoguilda` | [Banco da guilda, ajuda para guilda nova e recrutamento](../sistemas/guildas.md) |
 | `@protecao` | Liga ou desliga a [Proteção de itens](../sistemas/servicos.md#protecao-de-itens) da conta |
 | `@galeria` | Abre a [Galeria de Cartas](../sistemas/galeria.md): o álbum de cartas da sua conta |
 | `@r <resposta>` ou `@resposta <resposta>` | Responde a pergunta do [Quiz](../eventos/quiz.md) |

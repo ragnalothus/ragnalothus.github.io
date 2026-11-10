@@ -74,4 +74,19 @@ Cada NPC explica as regras, mostra o prêmio e o próximo horário, e inscreve q
 | ![](../assets/npcs/4_m_pecoknight.png){ loading=lazy } | 54,59 | **Vendedor de Atributos** | +1 permanente num atributo. [Vendedor de Atributos](../sistemas/reciclador-e-atributos.md#vendedor-de-atributos) |
 | ![](../assets/npcs/4_f_fairy.png){ loading=lazy } | 58,59 | **Sorteio Diário** | Prêmio do dia e inscrição grátis. [Sorteio Diário](../sistemas/rankings-e-loteria.md#sorteio-diario) |
 
+## Corredor de cima (lado direito e fundo)
+
+| Posição | NPC | O que faz |
+|---|---|---|
+| 62,59 | **Andarilho das Pistas** | Explica os [Pergaminhos de Pistas](../sistemas/pergaminhos-pistas.md) |
+| 65,59 | **Pescador** | Vende a Vara de Pesca, nível de pesca e recordes. [Pesca e Mineração](../sistemas/pesca-mineracao.md) |
+| 68,59 | **Minerador** | Vende a Picareta e mostra o nível de mineração. [Pesca e Mineração](../sistemas/pesca-mineracao.md) |
+| 36,58 | **Guia do Cassino** | Leva ao [Cassino de Comodo](../sistemas/cassino.md) |
+| 39,61 | **Naturalista** | [Coleção de Monstros](../sistemas/colecao-monstros.md) (`@colecao`) |
+| 42,61 | **Conselheiro dos Novatos** | [Padrinho](../sistemas/padrinho.md) (`@padrinho`) |
+| 48,61 | **Mergulhador** | [Mergulho no Abismo](../sistemas/mergulho.md) (`@mergulho`) |
+| 62,61 | **Escrivão das Guildas** | [Banco da guilda, guilda nova e recrutamento](../sistemas/guildas.md) (`@guildas`) |
+| 65,61 | **Corretor da Bolsa** | [Bolsa de Ações](../sistemas/bolsa-acoes.md) (`@acoes`) |
+| 68,61 | **Mestre das Cartas** | [Duelo de Cartas](../sistemas/duelo-cartas.md) (`@duelo`) |
+
 A **Agenda de Eventos** fica em Prontera (168,178), ao lado do NPC da Central.

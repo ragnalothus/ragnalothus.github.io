@@ -4,6 +4,15 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :dragon_face: **Coleção de Monstros:** cada monstro caçado conta para a coleção da conta; completar monstros dá bônus para sempre (dano e resistência por raça, atributos, HP, EXP e drop). `@colecao`. [Coleção de Monstros](sistemas/colecao-monstros.md)
+- :handshake: **Padrinho:** novato com padrinho ganha +10% de EXP, e o padrinho ganha prêmios a cada marco de nível do afilhado. `@padrinho`. [Padrinho](sistemas/padrinho.md)
+- :fishing_pole_and_fish: **Pesca e Mineração:** pesque em qualquer lugar com água e minere nas minas; nível de ofício, itens raros e recordes de peixe. [Pesca e Mineração](sistemas/pesca-mineracao.md)
+- :scroll: **Pergaminhos de Pistas:** caça ao tesouro com passos sorteados, do Fácil ao Mestre. [Pergaminhos de Pistas](sistemas/pergaminhos-pistas.md)
+- :black_joker: **Duelo de Cartas:** jogo de cartas por turnos com as cartas da sua Galeria, contra o NPC, com ranking. `@duelo`. [Duelo de Cartas](sistemas/duelo-cartas.md)
+- :diving_mask: **Mergulho no Abismo:** instância de grupo que fica mais forte a cada minuto; saia na hora certa ou perca tudo. `@mergulho`. [Mergulho no Abismo](sistemas/mergulho.md)
+- :chart_with_upwards_trend: **Bolsa de Ações:** compre no domingo, venda durante a semana, antes que as ações estraguem. `@acoes`. [Bolsa de Ações](sistemas/bolsa-acoes.md)
+- :slot_machine: **Cassino de Comodo:** Dados, Roleta, Caça-níquel e Corrida de Monstros a cada 3 minutos, tudo em zeny. [Cassino de Comodo](sistemas/cassino.md)
+- :european_castle: **Banco da guilda, ajuda para guilda nova** (+10% de EXP e kit de boas-vindas) **e quadro de recrutamento.** `@guildas`. [Guildas](sistemas/guildas.md)
 - :tada: **9 eventos novos à noite** (entram na rotação mensal): Batatinha Frita 1, 2, 3, Chão que Cai, Infectados, Prop Hunt, Captura da Bandeira, Forca no chat (`#forca`), Seja o MVP, Extração no labirinto da Pirâmide (com `@bolsa`) e Rei do Emperium. Cada um tem o seu NPC na Central do Aventureiro. [Eventos automáticos](eventos/automaticos.md#a-noite-19h-as-22h)
 - :triangular_flag_on_post: **Facções com placar novo:** a semana é disputada em 7 categorias (monstros, MVPs, mini-chefes, PvP, eventos vencidos, cartas e Invasão Noturna). A facção vencedora ganha **Fichas de Facção**, trocadas por álbuns, caixas, pergaminhos e mais. Placar ao vivo no `@faccao`. [Facções](sistemas/faccoes.md)
 - :calendar: **Eventos da noite mudam todo mês:** 4 eventos por mês, além do Evento dos Cristais. Em novembro: Combate dos Cubos, Bombring, Pique-pega e Dados. [Eventos automáticos](eventos/automaticos.md#a-noite-19h-as-22h)
