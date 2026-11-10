@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :tada: **9 eventos novos à noite** (entram na rotação mensal): Batatinha Frita 1, 2, 3, Chão que Cai, Infectados, Prop Hunt, Captura da Bandeira, Forca no chat (`#forca`), Seja o MVP, Extração no labirinto da Pirâmide (com `@bolsa`) e Rei do Emperium. Cada um tem o seu NPC na Central do Aventureiro. [Eventos automáticos](eventos/automaticos.md#a-noite-19h-as-22h)
 - :triangular_flag_on_post: **Facções com placar novo:** a semana é disputada em 7 categorias (monstros, MVPs, mini-chefes, PvP, eventos vencidos, cartas e Invasão Noturna). A facção vencedora ganha **Fichas de Facção**, trocadas por álbuns, caixas, pergaminhos e mais. Placar ao vivo no `@faccao`. [Facções](sistemas/faccoes.md)
 - :calendar: **Eventos da noite mudam todo mês:** 4 eventos por mês, além do Evento dos Cristais. Em novembro: Combate dos Cubos, Bombring, Pique-pega e Dados. [Eventos automáticos](eventos/automaticos.md#a-noite-19h-as-22h)
 - :japanese_ogre: **Invasão Noturna de Prontera:** uma vez por noite, de surpresa, 3 ondas de monstros com drops úteis invadem Prontera. [Invasão Noturna](eventos/automaticos.md#invasao-noturna-de-prontera)

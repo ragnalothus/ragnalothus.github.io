@@ -18,6 +18,22 @@ Ao entrar, os NPCs ficam na parede de baixo, dos dois lados da porta.
 | ![](../assets/npcs/4_m_mocass1.png){ loading=lazy } | 59,39 | **Contratante** | Aluga a Sala de Galhos (120 min, 1.200.000z). [Serviços](../sistemas/servicos.md#sala-de-galhos) |
 | ![](../assets/npcs/4_m_uncleknight.png){ loading=lazy } | 62,39 | **Treinador** | Sala de Treino com bonecos para testar dano. [Serviços](../sistemas/servicos.md#sala-de-treino) |
 
+## Eventos novos (parede da esquerda e canto de cima)
+
+Cada NPC explica as regras, mostra o prêmio e o próximo horário, e inscreve quando a inscrição está aberta. [Eventos automáticos](../eventos/automaticos.md)
+
+| Posição | NPC |
+|---|---|
+| 36,41 | **Batatinha Frita** (a Boneca) |
+| 36,43 | **Chão que Cai** |
+| 36,45 | **Infectados** (o Zumbi) |
+| 36,47 | **Prop Hunt** |
+| 36,49 | **Captura da Bandeira** |
+| 36,51 | **Forca** (só explica: o jogo é no chat) |
+| 36,53 | **Seja o MVP** (o Bafomé) |
+| 33,61 | **Extração** |
+| 36,61 | **Rei do Emperium** |
+
 ## Canto das missões (em cima, à esquerda)
 
 | | Posição | NPC | O que faz |
