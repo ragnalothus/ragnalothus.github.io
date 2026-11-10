@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 10/11/2026
 
+- :test_tube: **Laboratório Proibido:** dungeon de grupo end game (nível 90+) no 4º andar do laboratório de Lighthalzen. Sete experimentos transclasse muito fortes e, a cada 2 horas, um experimento-chefe (MVP) sorteado entre sete. Eles deixam cair **Amostras Corrompidas**, trocadas com a Pesquisadora pelo novo **Conjunto do Laboratório**, 14 cartas novas, Martelo de Refinar Carta, pergaminhos e caixas. Entrada pelo fim do 3º andar do laboratório ou pela Teleportadora (Especiais). [Laboratório Proibido](sistemas/laboratorio-proibido.md)
 - :european_castle: **Old Glast Heim:** instância de grupo end game (nível 90+). O Hugin leva o grupo ao passado do castelo de Glast Heim: salve os sobreviventes, derrote a Raiz da Corrupção, os Comandantes da Ruína e o Amdarais. Prêmios: Cristais do Tempo, Feitiços Coagulados, cartas novas, equipamentos da sala do tesouro e a chance de um Martelo de Refinar Carta. As lojas do Hugin trocam Botas Temporais, encantamentos e itens do servidor. Entrada pelo Guia do Old Glast Heim na Blackroom. [Old Glast Heim](sistemas/old-glast-heim.md)
 - :boot: **Botas Temporais com slot** no Trocador de Bandeiras agora custam 2.500 Bandeiras (também saem no Old Glast Heim).
 - :gift: **Caixas de Nível:** ao chegar nos níveis 10, 25, 40, 55, 70 e 85 o personagem ganha uma caixa com poções e ajuda para subir. [Começando](primeiros-passos/comecando.md#caixas-de-nivel)

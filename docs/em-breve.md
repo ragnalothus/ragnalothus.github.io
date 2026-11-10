@@ -17,8 +17,3 @@ O que ainda vai chegar ao Ragnalothus. A ordem e os detalhes podem mudar.
 - **Competição semanal x1:** 30 entradas, pareamento automático; quem desconectar perde.
 - **Prêmios da competição semanal** por pontuação.
 - **Classificatória para a competição ao vivo** (top 16).
-
-## :compass: Conteúdo novo
-
-- **Dungeon nova de fim de jogo:** monstros do Biolab mais fortes, equipamentos e cartas novas e um item de troca.
-- **Old Glast Heim.**

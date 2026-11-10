@@ -44,7 +44,7 @@ Fica em 23 cidades, ao lado da entrada da Sala VIP.
 - **Último destino:** volta para o último lugar que você escolheu.
 - **Cidades:** grátis, separadas por região.
 - **Cavernas:** 1º andar, separadas por dificuldade (iniciante, intermediária e avançada). **Grátis até o nível 90**, 5.000 zeny acima.
-- **Especiais:** Geffenia (sem a quest O Sinal) e Ninho de Nidhogg (Sombra de Nidhogg), cobrados como caverna.
+- **Especiais:** Geffenia (sem a quest O Sinal), Ninho de Nidhogg (Sombra de Nidhogg) e [Laboratório Proibido](../sistemas/laboratorio-proibido.md) (nível 90+), cobrados como caverna.
 - Poringlândia fica nas cavernas de iniciante.
 - Comodo tem duas cavernas diferentes, cada uma na sua opção: **Caverna de Comodo (Medusa)** e **Caverna de Comodo (Sapo de Thara)**.
 
