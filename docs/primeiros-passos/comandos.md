@@ -30,7 +30,6 @@ Comandos que qualquer jogador pode usar.
 | `@die` | Mata o seu personagem |
 | `@autoloot`, `@alootid`, `@autoloottype` | Pega os itens que caem dos monstros automaticamente |
 | `@feelreset` | Só Mestre Taekwon: apaga os mapas do Sol, da Lua e das Estrelas |
-| `@armazemvisual` (ou `@visuais`) | Abre o [Armazém de Visuais](../sistemas/servicos.md#armazem-de-visuais): 600 espaços só para visuais, da conta toda, de qualquer lugar |
 | `@config` (ou `@configuracoes`) | Janela para deixar ligados o autoloot, `@noask`, `@showexp`, `@showzeny`, `@noks` e a Proteção de itens: fica salvo e volta sozinho ao entrar. [Serviços](../sistemas/servicos.md#configuracoes-que-ficam-salvas-config) |
 | `@whosell` ou `@ws` (sozinhos) | Abrem a janela de Busca de Lojas do jogo (vender ou comprar, em todos os mapas). [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |
 | `@whosell <item>` ou `@ws <item>` | Abre a janela de Busca de Lojas já com quem vende o item; aceita o número do item ou o nome. [Serviços](../sistemas/servicos.md#procurar-lojas-ws-e-wb) |

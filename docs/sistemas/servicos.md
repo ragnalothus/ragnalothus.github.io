@@ -13,10 +13,6 @@ Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP]
 - Com o **Cupom de Cor Infinito** no inventário o Estilista não cobra nada, quantas vezes quiser (o cupom não é gasto). Ele sai da [Caixa Misteriosa Rara](conteudo-caixas.md) com 1% de chance.
 - **Cores exclusivas (só na Estilista VIP):** além das cores normais, a Estilista da [Sala VIP](../npcs/sala-vip.md) tem **263 cores de cabelo** e **553 cores de roupa**, com os mesmos preços. Os cabelos de número 38 em diante não mudam com essas cores novas.
 
-## :dress: Armazém de Visuais
-
-Um armazém só para visuais, com **600 espaços**, que vale para todos os personagens da conta. Abra de qualquer lugar com **`@armazemvisual`** (ou **`@visuais`**), menos em mapas de PvP, Guerra do Emperium e Battleground. Ele só aceita visuais: os outros itens continuam no armazém normal.
-
 ## Resgatador de Cupons
 
 ![](../assets/npcs/4_f_agentkafra.png){ align=right loading=lazy }
@@ -136,7 +132,7 @@ Digite **`@config`** para abrir uma janela com os comandos que você quer sempre
 - Proteção contra roubo de monstro (`@noks`): ninguém de fora do seu grupo tira o monstro que você está atacando
 - [Proteção de itens](#protecao-de-itens) (vale para a conta toda)
 
-**Sem digitar:** todo personagem recebe o **Painel de Configurações**, um item que abre esta mesma janela. Arraste o item para a **barra de atalhos** (F1 a F9) e clique nele, ou aperte a tecla, para abrir. Ele não é gasto, não pesa e não sai do inventário. Se não estiver com você, ele volta na próxima vez que você entrar no jogo.
+**Sem digitar:** todo personagem recebe o **Painel de Configurações**, um item que abre esta mesma janela. Ele já vem na **barrinha de 2 atalhos do topo da tela**: é só clicar. Dá para mudar de lugar na barra de atalhos. Ele não é gasto, não pesa e fica preso ao personagem (não cai, não troca, não vende). Se não estiver com você, ele volta na próxima vez que você entrar no jogo.
 
 ## :lock: Proteção de itens
 
