@@ -4,6 +4,8 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 11/11/2026
 
+- :dress: **Armazém de Visuais:** 600 espaços só para visuais, da conta toda, aberto de qualquer lugar com `@armazemvisual` ou `@visuais`. [Armazém de Visuais](sistemas/servicos.md#armazem-de-visuais)
+- :haircut: **Cores exclusivas na Estilista VIP:** 263 cores de cabelo e 553 cores de roupa, só na Estilista da Sala VIP. [Estilista](sistemas/servicos.md#estilista)
 - :gear: **Painel de Configurações:** item que abre o `@config` com um clique. Ponha na barra de atalhos (F1 a F9). Todo personagem recebe um ao entrar no jogo. [Configurações](sistemas/servicos.md#configuracoes-que-ficam-salvas-config)
 - :tophat: **Visuais exclusivos no lugar certo:** caudas, balões, cachecóis, lenços, mantos, a Ombreira de Freya, o Saco de Presentes Roubados e a Espada Azul Flutuante passaram para a posição **Baixo**; o Chapéu Gótico e o Laço de Seracilla, para o **Topo**. Agora dá para usar uma aura junto com uma cauda ou um cachecol. Se o visual já estava equipado, equipe de novo. [Visuais exclusivos](sistemas/visuais.md)
 

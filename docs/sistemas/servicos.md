@@ -11,6 +11,11 @@ Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP]
 - **Cabelo e cor do cabelo:** grátis.
 - **Cor da roupa:** 100.000z ou 1 **Cupom de Cor de Roupa** (vendido na [loja de cash](../servidor/loja-cash.md)).
 - Com o **Cupom de Cor Infinito** no inventário o Estilista não cobra nada, quantas vezes quiser (o cupom não é gasto). Ele sai da [Caixa Misteriosa Rara](conteudo-caixas.md) com 1% de chance.
+- **Cores exclusivas (só na Estilista VIP):** além das cores normais, a Estilista da [Sala VIP](../npcs/sala-vip.md) tem **263 cores de cabelo** e **553 cores de roupa**, com os mesmos preços. Os cabelos de número 38 em diante não mudam com essas cores novas.
+
+## :dress: Armazém de Visuais
+
+Um armazém só para visuais, com **600 espaços**, que vale para todos os personagens da conta. Abra de qualquer lugar com **`@armazemvisual`** (ou **`@visuais`**), menos em mapas de PvP, Guerra do Emperium e Battleground. Ele só aceita visuais: os outros itens continuam no armazém normal.
 
 ## Resgatador de Cupons
 

@@ -14,7 +14,7 @@ A saída para Prontera fica embaixo (30,10).
 | 24,22 | **Encantadora** | Encanta a arma por 1 hora (detalhes abaixo) |
 | 34,35 | **Artesã** | Itens de Ferreiro, Alquimista e Homúnculo, Tubo de Ensaio e Garrafa de Poção |
 | 16,30 | **Utilidades VIP** | Lupa, Folha de Yggdrasil, poções, asas, Água Benta, Panaceia, Garrafa Vazia, Suco de Uva (4.000z) |
-| 18,30 | **Estilista VIP** | Cabelo e cor do cabelo grátis; cor da roupa 100.000z ou cupom. [Estilista](../sistemas/servicos.md#estilista) |
+| 18,30 | **Estilista VIP** | Cabelo e cor do cabelo grátis; cor da roupa 100.000z ou cupom. **Cores exclusivas:** 263 de cabelo e 553 de roupa. [Estilista](../sistemas/servicos.md#estilista) |
 | 51,26 | **Gerente de Builds** | Guarda builds de atributos e de habilidades; carregar custa 100.000z. [Serviços](../sistemas/servicos.md#gerente-de-builds) |
 | 51,28 | **Mestre das Habilidades** | Classes sem NPC próprio escolhem 1 habilidade de qualquer classe. [Classes](../mudancas/classes.md) |
 | 51,30 | **Mestre do Plágio** | Habilidades extras para Arruaceiro e Desordeiro. [Classes](../mudancas/classes.md) |
