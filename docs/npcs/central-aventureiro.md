@@ -1,7 +1,7 @@
 # :office: Central do Aventureiro
 
 Um centro com as missões, os serviços e as armas lendárias. Para entrar, fale com o NPC
-**Central do Aventureiro** em Prontera (160,194, com o balão em cima). Para voltar, saia pela porta de baixo:
+**Central do Aventureiro** em Prontera (150,193, com o balão em cima). Para voltar, saia pela porta de baixo:
 você aparece em Prontera, ao lado do NPC.
 
 ## Fileira da entrada
@@ -90,4 +90,4 @@ Cada NPC explica as regras, mostra o prêmio e o próximo horário, e inscreve q
 | 65,61 | **Corretor da Bolsa** | [Bolsa de Ações](../sistemas/bolsa-acoes.md) (`@acoes`) |
 | 68,61 | **Mestre das Cartas** | [Duelo de Cartas](../sistemas/duelo-cartas.md) (`@duelo`): contra o NPC, contra jogador e o torneio de sábado |
 
-A **Agenda de Eventos** fica em Prontera (162,193), ao lado do NPC da Central.
+A **Agenda de Eventos** fica em Prontera (174,182).
