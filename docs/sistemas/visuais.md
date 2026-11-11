@@ -8,64 +8,66 @@ Visuais que só existem no Ragnalothus. Só mudam a aparência (não dão atribu
 - **Aba Limited da loja de cash**: 9 visuais desta lista por semana, trocando toda segunda às 20h. Um visual que saiu só volta depois de 2 meses. [Loja de cash](../servidor/loja-cash.md#visuais-limitados-aba-limited)
 - Dá para procurar quem vende com `@ws <nome>`.
 
+**Posição:** dá para usar ao mesmo tempo um visual de cada posição: **Topo** (chapéus, elmos, chifres, orelhas), **Meio** (auras, chakras, anéis em volta do personagem, viseiras e máscaras) e **Baixo** (asas, caudas, balões, cachecóis, lenços, mantos e o que vai nas costas).
+
 | Visual | Posição |
 |---|---|
-| Balão do Arcanjo | Meio |
-| Cauda de Ayasha | Meio |
-| Balão da Fúria | Meio |
+| Balão do Arcanjo | Baixo |
+| Cauda de Ayasha | Baixo |
+| Balão da Fúria | Baixo |
 | Anel de Morcegos | Meio |
 | Chakra Negro | Meio |
-| Cauda de Raposa Rubro-Negra | Meio |
-| Cauda de Raposa Negra | Meio |
+| Cauda de Raposa Rubro-Negra | Baixo |
+| Cauda de Raposa Negra | Baixo |
 | Aura Negra e Dourada | Meio |
 | Magia Negra | Meio |
 | Aura Rubro-Negra | Meio |
 | Sol Negro | Meio |
 | Aura Elétrica Azul | Meio |
-| Espada Azul Flutuante | Meio |
-| Cauda de Raposa Marrom | Meio |
+| Espada Azul Flutuante | Baixo |
+| Cauda de Raposa Marrom | Baixo |
 | Anel de Borboletas | Meio |
 | Anel de Doces | Meio |
 | Círculo de Rosas | Meio |
 | Anel de Biscoitos | Meio |
 | Aura Ciano | Meio |
 | Sol Ciano | Meio |
-| Cachecol Roxo Sombrio | Meio |
-| Cauda Demoníaca | Meio |
+| Cachecol Roxo Sombrio | Baixo |
+| Cauda Demoníaca | Baixo |
 | Pó de Diamante | Meio |
-| Laço de Seracilla | Meio |
+| Laço de Seracilla | Topo |
 | Fantasma Caído | Meio |
 | Anel de Penas | Meio |
 | Espírito do Fogo | Meio |
-| Ombreira de Freya | Meio |
+| Ombreira de Freya | Baixo |
 | Chama Dourada | Meio |
-| Chapéu Gótico | Meio |
+| Chapéu Gótico | Topo |
 | Chama Verde | Meio |
 | Aura Elétrica Verde | Meio |
-| Saco de Presentes Roubados | Meio |
+| Saco de Presentes Roubados | Baixo |
 | Aura Meio Anjo | Meio |
 | Aura Meio Demônio | Meio |
-| Cachecol de Halloween | Meio |
-| Cauda do Lorde Sombrio | Meio |
+| Cachecol de Halloween | Baixo |
+| Cauda do Lorde Sombrio | Baixo |
 | Anel de Vitórias-Régias | Meio |
 | Anel Musical | Meio |
 | Nico | Meio |
 | Chakra do Pesadelo | Meio |
-| Cachecol Noturno | Meio |
-| Cachecol Rosa | Meio |
+| Cachecol Noturno | Baixo |
+| Cachecol Rosa | Baixo |
 | Feitiço de Poder | Meio |
 | Chakra Roxo | Meio |
 | Aura Elétrica Vermelha | Meio |
 | Anel de Rosas | Meio |
 | Runa da Profecia | Meio |
 | Anel do Sábio | Meio |
-| Cachecol de Papai Noel | Meio |
-| Cachecol | Meio |
+| Cachecol de Papai Noel | Baixo |
+| Cachecol | Baixo |
 | Flocos de Neve | Meio |
-| Balão de Torobbie | Meio |
+| Balão de Torobbie | Baixo |
 | Aura da Água | Meio |
 | Chakra Branco | Meio |
-| Manto Branco da Nuvem Vermelha | Meio |
+| Manto Branco da Nuvem Vermelha | Baixo |
 | Chakra Amarelo | Meio |
 | Aura Yin-Yang | Meio |
 | Chapéu de Coelho | Topo |
@@ -95,13 +97,13 @@ Visuais que só existem no Ragnalothus. Só mudam a aparência (não dão atribu
 | Dragão Congelado Puro | Baixo |
 | Dragão Metálico Puro | Baixo |
 | Asas Vodu Yin-Yang | Baixo |
-| Lenço de Gângster Preto | Meio |
-| Lenço de Gângster Azul | Meio |
-| Lenço de Gângster Ciano | Meio |
-| Lenço de Gângster Dourado | Meio |
-| Lenço de Gângster Verde | Meio |
-| Lenço de Gângster Roxo | Meio |
-| Lenço de Gângster Branco | Meio |
+| Lenço de Gângster Preto | Baixo |
+| Lenço de Gângster Azul | Baixo |
+| Lenço de Gângster Ciano | Baixo |
+| Lenço de Gângster Dourado | Baixo |
+| Lenço de Gângster Verde | Baixo |
+| Lenço de Gângster Roxo | Baixo |
+| Lenço de Gângster Branco | Baixo |
 | Anel do Sábio Preto | Meio |
 | Anel do Sábio Azul | Meio |
 | Anel do Sábio Ciano | Meio |
@@ -110,12 +112,12 @@ Visuais que só existem no Ragnalothus. Só mudam a aparência (não dão atribu
 | Anel do Sábio Roxo | Meio |
 | Anel do Sábio Vermelho | Meio |
 | Anel do Sábio Branco | Meio |
-| Cachecol Preto | Meio |
-| Cachecol Azul | Meio |
-| Cachecol Ciano | Meio |
-| Cachecol Dourado | Meio |
-| Cachecol Verde | Meio |
-| Cachecol Vermelho | Meio |
+| Cachecol Preto | Baixo |
+| Cachecol Azul | Baixo |
+| Cachecol Ciano | Baixo |
+| Cachecol Dourado | Baixo |
+| Cachecol Verde | Baixo |
+| Cachecol Vermelho | Baixo |
 | Asas de Dragão Negro | Baixo |
 | Asas de Dragão Azul | Baixo |
 | Asas de Dragão Vermelho | Baixo |
@@ -150,8 +152,8 @@ Visuais que só existem no Ragnalothus. Só mudam a aparência (não dão atribu
 | Súcuba Dorminhoca Branca | Topo |
 | Orelhas Épicas de Cão | Topo |
 | Orelhas Épicas de Gato | Topo |
-| Cauda Épica de Cão | Meio |
-| Cauda Épica de Gato | Meio |
+| Cauda Épica de Cão | Baixo |
+| Cauda Épica de Gato | Baixo |
 | Asas Épicas de Cão | Baixo |
 | Asas Épicas de Gato | Baixo |
 | Cabra Majestosa de Gemas | Topo |

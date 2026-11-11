@@ -2,6 +2,10 @@
 
 Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
+## 11/11/2026
+
+- :tophat: **Visuais exclusivos no lugar certo:** caudas, balões, cachecóis, lenços, mantos, a Ombreira de Freya, o Saco de Presentes Roubados e a Espada Azul Flutuante passaram para a posição **Baixo**; o Chapéu Gótico e o Laço de Seracilla, para o **Topo**. Agora dá para usar uma aura junto com uma cauda ou um cachecol. Se o visual já estava equipado, equipe de novo. [Visuais exclusivos](sistemas/visuais.md)
+
 ## 10/11/2026
 
 - :shield: **Lothus Protect:** proteção nova contra bots, macros e programas proibidos (4RTools, OpenKore, Cheat Engine, AutoHotkey, clicadores...). 1ª vez: aviso; se continuar: conta bloqueada; 2 contas bloqueadas no mesmo PC: PC bloqueado. GRF e arquivos do jogo alterados não são permitidos. Pode aparecer uma verificação com números na tela: responda para continuar jogando. [Lothus Protect](primeiros-passos/lothus-protect.md)
