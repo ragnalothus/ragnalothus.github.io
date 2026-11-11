@@ -6,7 +6,7 @@ Uns ficam em [Prontera](../npcs/prontera.md) (Banqueiro e Cambista do Bilhão), 
 
 ![](../assets/npcs/4_m_barber.png){ align=right loading=lazy }
 
-Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP](../npcs/sala-vip.md). Abre a janela de visual do jogo.
+Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP](../npcs/sala-vip.md). Ao falar com ela, escolha: **abrir a janela de visual** (cabelo e cor do cabelo) ou **escolher a cor da roupa pelo número**. Na cor da roupa você vê a cor no seu personagem antes de pagar, pode passar para a próxima ou a anterior, e só paga quando confirmar.
 
 - **Cabelo e cor do cabelo:** grátis.
 - **Cor da roupa:** 100.000z ou 1 **Cupom de Cor de Roupa** (vendido na [loja de cash](../servidor/loja-cash.md)).
