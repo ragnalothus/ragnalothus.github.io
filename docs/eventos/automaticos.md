@@ -12,9 +12,10 @@ Nos eventos com inscrição, o servidor avisa **minuto a minuto nos 5 minutos an
 | :performing_arts: Disfarce | 9h, 11h, 13h, 15h e 17h | 5 Moedas por acerto |
 | :question: [Quiz](quiz.md) | 10h30, 12h30, 14h30, 16h30 e 18h30 | Moedas de Loki e Moeda Dourada por acerto |
 | :mushroom: Caça ao Cogumelo | Toda hora, às :45 (9h45 às 21h45) | 4 Moedas por cogumelo |
+| :santa: [Papai Noel Premiado](#papai-noel-premiado) | Temporada de Natal: 10h, 12h, 14h, 16h e 18h (domingo sem o das 10h) | Bandeiras no chão |
 | :gem: [Invasão de Cristais](invasao.md) | Domingo, 10h às 11h | Bandeiras em dobro |
 
-No domingo não tem o Quiz das 10h30 nem o Disfarce das 11h, por causa da Invasão.
+No domingo não tem o Papai Noel das 10h, o Quiz das 10h30 nem o Disfarce das 11h, por causa da Invasão.
 
 ## À noite (19h às 22h)
 
@@ -43,6 +44,10 @@ Os horários são 19h, 19h30, 20h e 21h (ou 21h15 depois dos Cristais). A troca 
 | :japanese_ogre: Seja o MVP | MVP que sobrevive: 100 Moedas + 50 Bandeiras + 1 Caixa Misteriosa Rara; último golpe: 50 Moedas + 1 Caixa Misteriosa |
 | :desert: Extração | O que você achar nos baús, se chegar a uma saída (+10 Moedas) |
 | :crown: Rei do Emperium | 1º: 75 Moedas + 20 Moedas Douradas + 50 Bandeiras; 2º e 3º também ganham |
+
+## Papai Noel Premiado
+
+Na temporada de Natal, o Papai Noel aparece no centro de Prontera, no meio dos NPCs, e um aviso vai para o servidor todo. Ele desce a avenida para o sul por 20 segundos, deixando cair Bandeiras pelo caminho. É só correr atrás dele e pegar as Bandeiras do chão: quem pegar primeiro leva. Não precisa de inscrição.
 
 ## Resta 1
 

@@ -4,6 +4,9 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 11/11/2026
 
+- :santa: **Papai Noel Premiado:** na temporada de Natal ele passeia por Prontera às 10h, 12h, 14h, 16h e 18h, soltando Bandeiras pela avenida. [Eventos automáticos](eventos/automaticos.md#papai-noel-premiado)
+- :christmas_tree: **Prontera de Natal:** a capital ganhou neve e enfeites de Natal. Feche o jogo e abra de novo para ver.
+- :frame_photo: **Telas novas:** fundo da tela de login, janela de login e imagens de carregamento com tema de Natal.
 - :package: **Aba de visuais do armazém:** agora mostra só visuais. Os chapéus com bônus (Elmos de Valkyria, Chapéus do Tigrinho, do Ratinho e do Porquinho, Rosa Romântica, Óculos Amorzinho) voltaram para a aba de equipamentos. A tela de login também passou a mostrar o nome **Ragnalothus**. Para ver as mudanças, feche o jogo e abra de novo. [Visuais exclusivos](sistemas/visuais.md)
 - :haircut: **Cores exclusivas na Estilista VIP:** 263 cores de cabelo e 553 cores de roupa, só na Estilista da Sala VIP. [Estilista](sistemas/servicos.md#estilista)
 - :gear: **Painel de Configurações:** item que abre o `@config` com um clique. Já vem na barrinha de 2 atalhos do topo da tela e fica preso ao personagem. Todo personagem recebe um ao entrar no jogo. [Configurações](sistemas/servicos.md#configuracoes-que-ficam-salvas-config)
