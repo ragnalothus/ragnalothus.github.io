@@ -4,7 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 11/11/2026
 
-- :haircut: **Estilista:** as cores exclusivas de cabelo agora aparecem na janela, e a cor da roupa é escolhida pelo número direto com a Estilista, vendo a cor no personagem antes de pagar. [Estilista](sistemas/servicos.md#estilista)
+- :haircut: **Estilista:** agora tudo é escolhido direto com a Estilista: cor do cabelo, estilo de cabelo e cor da roupa, passando de um em um ou pelo número, vendo no personagem. A cor da roupa só é cobrada quando você confirma. [Estilista](sistemas/servicos.md#estilista)
 - :santa: **Papai Noel Premiado:** na temporada de Natal ele passeia por Prontera às 10h, 12h, 14h, 16h e 18h, soltando Bandeiras pela avenida. [Eventos automáticos](eventos/automaticos.md#papai-noel-premiado)
 - :christmas_tree: **Prontera de Natal:** a capital ganhou neve e enfeites de Natal. Feche o jogo e abra de novo para ver.
 - :frame_photo: **Telas novas:** fundo da tela de login, janela de login e imagens de carregamento com tema de Natal.
