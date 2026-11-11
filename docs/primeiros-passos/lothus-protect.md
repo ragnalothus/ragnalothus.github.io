@@ -34,7 +34,7 @@ O jogo só aceita teclas e cliques feitos por você no teclado e no mouse. Tecla
 
 - Digite os **números da imagem** e confirme. Você tem **3 tentativas** e **1 minuto** para cada uma.
 - Enquanto a janela está aberta, o personagem fica parado e não pode ser atacado.
-- Acertou: você ganha **Bênção** e **Aumentar Agilidade** e volta a jogar normalmente.
+- Acertou: você ganha por **30 minutos** os mesmos buffs da Curandeira VIP (**Aumentar Agilidade 10**, **Bênção 10**, **Kyrie Eleison 10**, **Impositio Manus 5** e **Magnificat 5**) e volta a jogar normalmente.
 - Errou as 3 vezes ou deixou o tempo acabar: vai para a **Sala de Verificação** por **30 minutos** (depois **2 horas**). Se continuar, a equipe decide o que fazer.
 - Caiu a internet no meio? Sem problema: a verificação aparece de novo quando você entrar.
 - A verificação não aparece em PvP, Guerra do Emperium, Battleground e instâncias; ela espera você sair.
