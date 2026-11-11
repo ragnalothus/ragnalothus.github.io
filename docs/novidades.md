@@ -4,6 +4,7 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 11/11/2026
 
+- :zzz: **AFK:** quem fica 1 minuto parado agora ganha um balão de AFK em cima da cabeça no lugar do "zzz". [Serviços](sistemas/servicos.md#jogador-parado-afk)
 - :loudspeaker: **Avisos do servidor:** de tempos em tempos aparecem lembretes de segurança: a equipe nunca pede sua senha, não compartilhe a conta, não empreste itens, bots e venda por dinheiro de verdade (RMT) são proibidos. Viu RMT? Denuncie com print.
 - :art: **Estilista Premium:** nova Estilista na Sala VIP, ao lado da Estilista VIP, com a coleção Premium: 132 cores de cabelo e 700 de roupa a mais. [Estilista](sistemas/servicos.md#estilista)
 - :sparkles: **@autobuff (VIP):** agora dá os mesmos buffs de 1 hora da Curandeira VIP. [VIP](servidor/vip.md)

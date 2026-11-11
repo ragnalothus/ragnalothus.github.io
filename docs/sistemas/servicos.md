@@ -154,8 +154,8 @@ A guilda precisa ter aprendido a habilidade de guilda do armazém, e o seu cargo
 
 ## :zzz: Jogador parado (AFK)
 
-Quem fica **1 minuto sem fazer nada** ganha um "zzz" em cima da cabeça, para os outros saberem que você está fora.
-Ele some assim que você se mexe. Quem está com loja aberta não ganha o "zzz".
+Quem fica **1 minuto sem fazer nada** ganha um **balão de AFK** em cima da cabeça (um gatinho com "AFK"), para os outros saberem que você está fora.
+Enquanto o balão aparece, ele toma o lugar do chapéu de cima; assim que você se mexe, o balão some e o seu chapéu volta. Quem está com loja aberta não ganha o balão.
 
 ## :art: Skins da interface
 
