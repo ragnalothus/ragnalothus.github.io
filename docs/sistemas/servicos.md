@@ -131,6 +131,8 @@ Digite **`@config`** para abrir uma janela com os comandos que você quer sempre
 - Proteção contra roubo de monstro (`@noks`): ninguém de fora do seu grupo tira o monstro que você está atacando
 - [Proteção de itens](#protecao-de-itens) (vale para a conta toda)
 
+**Sem digitar:** todo personagem recebe o **Painel de Configurações**, um item que abre esta mesma janela. Arraste o item para a **barra de atalhos** (F1 a F9) e clique nele, ou aperte a tecla, para abrir. Ele não é gasto, não pesa e não sai do inventário. Se não estiver com você, ele volta na próxima vez que você entrar no jogo.
+
 ## :lock: Proteção de itens
 
 Para ninguém perder item bom por engano, com a proteção **ligada** (já vem ligada) estes itens **não podem ser vendidos para NPC nem largados no chão**:
