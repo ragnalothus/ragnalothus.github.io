@@ -12,6 +12,7 @@ Fica na [Central do Aventureiro](../npcs/central-aventureiro.md) e na [Sala VIP]
 - **Cor da roupa:** 100.000z ou 1 **Cupom de Cor de Roupa** (vendido na [loja de cash](../servidor/loja-cash.md)).
 - Com o **Cupom de Cor Infinito** no inventário o Estilista não cobra nada, quantas vezes quiser (o cupom não é gasto). Ele sai da [Caixa Misteriosa Rara](conteudo-caixas.md) com 1% de chance.
 - **Cores exclusivas (só na Estilista VIP):** além das cores normais, a Estilista da [Sala VIP](../npcs/sala-vip.md) tem **263 cores de cabelo** e **553 cores de roupa**, com os mesmos preços. Os cabelos de número 38 em diante não mudam com essas cores novas.
+- **Coleção Premium (só na Estilista Premium, ao lado da VIP):** mais **132 cores de cabelo** (números 264 a 395, para todos os estilos) e **700 cores de roupa** (554 a 1253), com os mesmos preços.
 
 ## Resgatador de Cupons
 

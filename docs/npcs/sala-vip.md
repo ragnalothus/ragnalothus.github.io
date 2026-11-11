@@ -9,12 +9,13 @@ A saída para Prontera fica embaixo (30,10).
 |---|---|---|
 | 31,31 | **Curandeira VIP** | Cura, conserta, identifica os itens do inventário e dá buffs de 1 hora (Agi 10, Bênção 10, Kyrie 10 com 15 golpes, Impositio 5, Magnificat 5) |
 | 35,18 | **Teleportadora VIP** | Qualquer andar de 35 cavernas, grátis, em ponto aleatório; cidades; especiais |
-| 26,24 | **Kafra VIP** | Armazém, carrinho, falcão, Peco Peco; grava o retorno na Sala VIP |
+| 35,23 | **Kafra VIP** | Armazém, carrinho, falcão, Peco Peco; grava o retorno na Sala VIP |
 | 40,20 | **Guardiã dos MVPs** | 2 MVPs + 2 minibosses por dia. [MVPs](../sistemas/mvps.md#sala-de-mvp) |
 | 24,22 | **Encantadora** | Encanta a arma por 1 hora (detalhes abaixo) |
 | 34,35 | **Artesã** | Itens de Ferreiro, Alquimista e Homúnculo, Tubo de Ensaio e Garrafa de Poção |
 | 16,30 | **Utilidades VIP** | Lupa, Folha de Yggdrasil, poções, asas, Água Benta, Panaceia, Garrafa Vazia, Suco de Uva (4.000z) |
 | 18,30 | **Estilista VIP** | Cabelo e cor do cabelo grátis; cor da roupa 100.000z ou cupom. **Cores exclusivas:** 263 de cabelo e 553 de roupa. [Estilista](../sistemas/servicos.md#estilista) |
+| 20,30 | **Estilista Premium** | A **coleção Premium**: mais 132 cores de cabelo (264 a 395) e 700 de roupa (554 a 1253), com os mesmos preços. [Estilista](../sistemas/servicos.md#estilista) |
 | 51,26 | **Gerente de Builds** | Guarda builds de atributos e de habilidades; carregar custa 100.000z. [Serviços](../sistemas/servicos.md#gerente-de-builds) |
 | 51,28 | **Mestre das Habilidades** | Classes sem NPC próprio escolhem 1 habilidade de qualquer classe. [Classes](../mudancas/classes.md) |
 | 51,30 | **Mestre do Plágio** | Habilidades extras para Arruaceiro e Desordeiro. [Classes](../mudancas/classes.md) |

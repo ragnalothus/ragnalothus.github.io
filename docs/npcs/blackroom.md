@@ -1,6 +1,6 @@
 # Blackroom
 
-Sala especial com as trocas, as salas de MVP e as caixas. Entre pelo NPC **Blackroom** em Prontera (148,182).
+Sala especial com as trocas, as salas de MVP e as caixas. Entre pelo NPC **Blackroom** em Prontera (166,185).
 A saída fica na porta de baixo.
 
 | Posição | NPC | O que faz |

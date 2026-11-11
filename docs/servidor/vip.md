@@ -17,7 +17,7 @@ Use `@vip` para ir à Sala VIP e ver o tempo.
 - **Teleportadora VIP:** qualquer andar das cavernas, grátis, em um ponto aleatório do andar, mais lugares especiais. Inclui as duas cavernas de Comodo separadas (Medusa; Sapo de Thara e Hidra) e os 4 campos dos **Crocodilos** de Comodo.
 - **Kafra VIP:** armazém, armazém da guilda, carrinho, falcão e Peco Peco, e grava o retorno na Sala VIP.
 - **`@storage`:** abre o armazém de qualquer lugar.
-- **`@autobuff`:** liga e desliga Aumentar Agilidade 10 e Bênção 10 que se renovam sozinhos (fora de PvP, GdE e campos de batalha).
+- **`@autobuff`:** liga e desliga os mesmos buffs da Curandeira VIP, de 1 hora, que se renovam sozinhos: Aumentar Agilidade 10, Bênção 10, Impositio Manus 5, Magnificat 5 e Kyrie Eleison 10 (o Kyrie volta quando a hora dele acaba). Fora de PvP, GdE e campos de batalha.
 - **Sala de MVP:** 2 MVPs + 2 minibosses por dia (sem VIP é 1 + 1). [MVPs](../sistemas/mvps.md)
 - **Lojas por classe** com armas, equipamentos e consumíveis a 1 zeny. [Sala VIP](../npcs/sala-vip.md)
 - **Quiz:** prêmio de Moedas de Loki em dobro. [Quiz](../eventos/quiz.md)

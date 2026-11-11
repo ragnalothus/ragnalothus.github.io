@@ -4,6 +4,10 @@ Tudo o que entrou no servidor, do mais novo para o mais antigo.
 
 ## 11/11/2026
 
+- :art: **Estilista Premium:** nova Estilista na Sala VIP, ao lado da Estilista VIP, com a coleção Premium: 132 cores de cabelo e 700 de roupa a mais. [Estilista](sistemas/servicos.md#estilista)
+- :sparkles: **@autobuff (VIP):** agora dá os mesmos buffs de 1 hora da Curandeira VIP. [VIP](servidor/vip.md)
+- :round_pushpin: **Praça de Prontera organizada:** os NPCs ficam em meia-lua na frente da árvore de Natal, com Kafra, Curandeira, Mestra das Classes e Sala VIP no meio. A Kafra VIP da Sala VIP mudou de lugar.
+- :christmas_tree: **Faixa da árvore de Natal** agora diz **Feliz Natal!**
 - :haircut: **Estilista:** agora tudo é escolhido direto com a Estilista: cor do cabelo, estilo de cabelo e cor da roupa, passando de um em um ou pelo número, vendo no personagem. A cor da roupa só é cobrada quando você confirma. [Estilista](sistemas/servicos.md#estilista)
 - :santa: **Papai Noel Premiado:** na temporada de Natal ele passeia por Prontera às 10h, 12h, 14h, 16h e 18h, soltando Bandeiras pela avenida. [Eventos automáticos](eventos/automaticos.md#papai-noel-premiado)
 - :christmas_tree: **Prontera de Natal:** a capital ganhou neve e enfeites de Natal. Feche o jogo e abra de novo para ver.
