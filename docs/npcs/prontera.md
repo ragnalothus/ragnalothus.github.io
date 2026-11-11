@@ -17,10 +17,10 @@ Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as arm
 | | 160,194 | **Teleportadora** | Cidades, cavernas e lugares especiais (detalhes abaixo) |
 | ![](../assets/npcs/4_m_fairykid.png){ loading=lazy } | 147,170 | **Corrida ao 99** | Ranking por classe de quem chega ao 99 mais rápido e prêmio do primeiro 99 de cada classe. [Corrida ao 99](../sistemas/corrida-99.md) |
 | ![](../assets/npcs/4_f_pinkwoman.png){ loading=lazy } | 124,209 | **Chapeleira** | Transforma chapéus em visuais. [Chapeleira](../sistemas/chapeleira.md) |
-| | 183,194 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md); fila do Ranking PvP com divisões, prêmio da semana, Copa Lothus e Arena PvP livre |
-| ![](../assets/npcs/4_m_ky_head.png){ loading=lazy } | 181,194 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
-| ![](../assets/npcs/4_m_dst_tough.png){ loading=lazy } | 185,194 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
-| ![](../assets/npcs/4_f_sister.png){ loading=lazy } | 167,200 | **Lotérica** | Loteria Semanal, Mega Lothus e a Missão da Mega Lothus. [Loteria](../sistemas/rankings-e-loteria.md#loterias) |
+| | 187,193 | **Arena PvP** | Leva para a [Arena PvP](../eventos/arena-pvp.md); fila do Ranking PvP com divisões, prêmio da semana, Copa Lothus e Arena PvP livre |
+| ![](../assets/npcs/4_m_ky_head.png){ loading=lazy } | 187,191 | **Oficial de Guerra** | Sala de Guerra de Guildas (2 guildas). [Arena PvP](../eventos/arena-pvp.md#guerra-de-guildas) |
+| ![](../assets/npcs/4_m_dst_tough.png){ loading=lazy } | 187,195 | **Arenas Privadas** | Aluga uma arena PvP com código. [Arena PvP](../eventos/arena-pvp.md#arenas-privadas) |
+| ![](../assets/npcs/4_f_sister.png){ loading=lazy } | 167,198 | **Lotérica** | Loteria Semanal, Mega Lothus e a Missão da Mega Lothus. [Loteria](../sistemas/rankings-e-loteria.md#loterias) |
 | | 152,194 | **Kafra** | Salva o ponto de retorno em Prontera, abre o armazém e o armazém da guilda e coloca ou tira Carrinho, Falcão e Peco Peco (precisa da habilidade). Grátis |
 | ![](../assets/npcs/4_m_maskman.png){ loading=lazy } | 162,193 | **Blackroom** | Leva para a [Blackroom](blackroom.md) |
 | ![](../assets/npcs/4_f_eden_master.png){ loading=lazy } | 156,195 | **Mestra das Classes** | Muda de classe de graça: 1ª e 2ª classe, transclasse, Super Aprendiz, Taekwon, Ninja e Justiceiro. Já dá as habilidades de quest |
