@@ -1,7 +1,7 @@
 # :european_castle: NPCs de Prontera
 
 Prontera ficou com os NPCs do dia a dia. As missões, vários serviços e as armas lendárias estão na
-[Central do Aventureiro](central-aventureiro.md): fale com o NPC **Central do Aventureiro** (164,178) para ir até lá.
+[Central do Aventureiro](central-aventureiro.md): fale com o NPC **Central do Aventureiro** (160,194) para ir até lá.
 
 !!! warning "Chats e lojas só nas calçadas"
     Nas **ruas** de Prontera (as avenidas de pedra) não dá para abrir chat, loja de venda nem loja de compra. Nas calçadas pode.
